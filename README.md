@@ -1,12 +1,12 @@
 Toto je repozitář české verze dokumentace k programu [horizon EDA](https://github.com/horizon-eda/horizon).
 
-Dokumentace Horizontu EDA
-=========================
+Dokumentace programu Horizon-EDA
+================================
 
 
-Podívejte se na dokumentaci programu Horizon EDA :doc:`Hlavní výhody <https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/feature-overview.rst>` nebo přímo :doc:`Začínáme <https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/getting-started.rst>`.
+Podívejte se na dokumentaci programu Horizon EDA [Hlavní výhody](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/feature-overview.rst) nebo přímo [Začínáme](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/getting-started.rst).
 
-.. image:: images/collage.png
+![Obrázek](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/images/collage.png)
 
 
 Obsah:
@@ -44,7 +44,4 @@ Obsah:
 [Správce fondu (Pool manager)](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/pool-mgr.rst)
 
 [Zpětné úpravy (Backanotation)](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/backannotation.rst)
-
-
-
 
