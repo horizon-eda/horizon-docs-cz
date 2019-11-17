@@ -21,7 +21,7 @@ Linux
 ~~~~~
 
 Viz kapitola 
-:doc:`Sestavení (kompilace) programu na operačním systému Linux<build-linux_cz>` v tomto návodě, jak zkompilovat program Horizon-EDA na linuxu.
+:doc:`Sestavení (kompilace) programu na operačním systému Linux<build-linux>` v tomto návodě, jak zkompilovat program Horizon-EDA na linuxu.
 
 
 Získejte fond knihovny

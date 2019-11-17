@@ -14,13 +14,13 @@ Vytvoření nové součásti ze stávající entity
 -------------------------------------------
 
 Tento pracovní postup je vhodný, pokud již entita pro novou součást
-existuje. Odpory nebo LED v nestandardních pouzdrech jsou typickým příkladem. Pro vytvoření nového pouzdra viz :doc:`create-package_cz`. Na záložce "Parts" klikněte na "Create Part" pro vytvoření nové součásti. Potom zadejte entitu, pouzdro a umístění souboru součástky, kterou můžete pozměnit a mapovat pájecí místa na vývody v Editoru součástí.
+existuje. Odpory nebo LED v nestandardních pouzdrech jsou typickým příkladem. Pro vytvoření nového pouzdra viz :doc:`create-package`. Na záložce "Parts" klikněte na "Create Part" pro vytvoření nové součásti. Potom zadejte entitu, pouzdro a umístění souboru součástky, kterou můžete pozměnit a mapovat pájecí místa na vývody v Editoru součástí.
 
 Vytvoření zcela nové součásti
 -----------------------------
 
 Mnoho součástek, jako jsou mikroprocesory (MCU), FPGA, ADC a další zázraky dnešního světa
-vyžadují vytvoření nových jednotek a entit. To by bylo manuálně velmi zdlouhavé, v tomto vám může pomoci průvodce součástí (Part Wizard). Poté, co vyberete pouzdro součástky (pro vytváření pouzder součástek viz :doc:`create-package_cz`) na záložce "Packages" klikněte na "Part Wizard...". Budete uvítáni seznamem všech pájecích míst pouzdra.
+vyžadují vytvoření nových jednotek a entit. To by bylo manuálně velmi zdlouhavé, v tomto vám může pomoci průvodce součástí (Part Wizard). Poté, co vyberete pouzdro součástky (pro vytváření pouzder součástek viz :doc:`create-package`) na záložce "Packages" klikněte na "Part Wizard...". Budete uvítáni seznamem všech pájecích míst pouzdra.
 
 
 Vyplňte názvy vývodů podle katalogového listu součástky. Vložte pouze primární jméno vývodu (např. PB5) na MCU do sloupce zcela vlevo a vložte všechny ostatní názvy (jako UART0_TX, TA0) oddělené mezerou do sloupce "Alt. names". Pokud je vaše součástka *opravdu* velká (jako FPGA nebo velký MCU), může potřebovat, aby se ve schématu zobrazil více než jeden symbol. Vyberte všechny vývody, které chcete mít se stejným symbolem a typem v alternativním názvu vývodu. V případě, že je více podložek elektricky identických (např

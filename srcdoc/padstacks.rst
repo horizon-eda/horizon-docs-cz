@@ -14,5 +14,5 @@ Pájecí místo se skládá z těchto částí:
 
 Upřednostňovaným způsobem definování geometrie pájecích míst je použití takových tvarů, které jsou vhodné pro export do gerber souboru. Pro se souhlasení více než jednoho parametru pouzdra lze použít pájecí místa, která mění svoji velikost. Lze využít také globální parametry specifické pro aplikaci, jako je rozšíření pájecí masky a zúžení masky. Chcete-li získat představu o tom, jak to doopravdy funguje podívejte se na globální pájecí místa ve fondu knihovny.
 
-Chcete-li použít parametry na geometrii pájecího místa, je to popsáno v kapitole :doc:`Parametry programu <parameter-programs_cz>`, které se postarají o změnu parametrů tvarů pájecích míst.
+Chcete-li použít parametry na geometrii pájecího místa, je to popsáno v kapitole :doc:`Parametry programu <parameter-programs>`, které se postarají o změnu parametrů tvarů pájecích míst.
 

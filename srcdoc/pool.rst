@@ -37,7 +37,7 @@ Pouzdra (Packages)
 Pouzdro definuje průmět (otisk) půdorysného tvaru součásti na desku plošného spoje. Pokud výrobce součástky
 definuje doporučený tvar průmětu, použijte tento. Používejte pouze
 obecné pouzdra, pokud odpovídající neexistují. Podrobnosti o pouzdrech viz.
-:doc:`Vytvoření pouzdra součástky <create-package_cz>`.
+:doc:`Vytvoření pouzdra součástky <create-package>`.
 
 Entity (Entities)
 ~~~~~~~~~~~~~~~~~

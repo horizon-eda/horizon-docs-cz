@@ -61,7 +61,7 @@
 
 
 \title{Horizon-EDA dokumentace programu}
-\date{16.11.2019}
+\date{17.11.2019}
 \release{1.0 CZ}
 \author{Lukas K.}
 \newcommand{\sphinxlogo}{\vbox{}}
@@ -82,16 +82,16 @@
 \phantomsection\label{\detokenize{index::doc}}
 
 
-Podívejte se na dokumentaci programu Horizon EDA {\hyperref[\detokenize{feature-overview_cz::doc}]{\sphinxcrossref{\DUrole{doc}{Hlavní výhody}}}} nebo přímo {\hyperref[\detokenize{getting-started_cz::doc}]{\sphinxcrossref{\DUrole{doc}{Začínáme}}}}.
+Podívejte se na dokumentaci programu Horizon EDA {\hyperref[\detokenize{feature-overview::doc}]{\sphinxcrossref{\DUrole{doc}{Hlavní výhody}}}} nebo přímo {\hyperref[\detokenize{getting-started::doc}]{\sphinxcrossref{\DUrole{doc}{Začínáme}}}}.
 
 \noindent\sphinxincludegraphics{{collage}.png}
 
 
 \chapter{Přehled funkcí}
-\label{\detokenize{feature-overview_cz:prehled-funkci}}\label{\detokenize{feature-overview_cz::doc}}
+\label{\detokenize{feature-overview:prehled-funkci}}\label{\detokenize{feature-overview::doc}}
 
 \section{Interaktivní a jednoduchý management součástí}
-\label{\detokenize{feature-overview_cz:interaktivni-a-jednoduchy-management-soucasti}}
+\label{\detokenize{feature-overview:interaktivni-a-jednoduchy-management-soucasti}}
 Snadná správa součástí, pouzder součástek a symbolů schemat pomocí správce fondu knihovny součástí (Pool manager):
 
 \noindent\sphinxincludegraphics{{pool-mgr}.png}
@@ -102,7 +102,7 @@ Přiřazení vývodů k pájecím ploškám v editoru součástí (Part editor):
 
 
 \section{Snadné vytváření součástí}
-\label{\detokenize{feature-overview_cz:snadne-vytvareni-soucasti}}
+\label{\detokenize{feature-overview:snadne-vytvareni-soucasti}}
 Jednoduše přidejte vývody tak, jak jsou uvedeny v katalogovém listu součástky:
 
 \noindent\sphinxincludegraphics{{part-wiz-pads}.png}
@@ -112,7 +112,7 @@ ve formátech jako je IBIS, který vám ušetří zdlouhavou práci při opisov�
 
 
 \section{Schematický editor, který ví co děláte}
-\label{\detokenize{feature-overview_cz:schematicky-editor-ktery-vi-co-delate}}
+\label{\detokenize{feature-overview:schematicky-editor-ktery-vi-co-delate}}
 Kreslení schemat není jen o linkách a štítcích. Schéma v editoru Horizon EDA
 ví o jednotlivých spojích a zeptá se vás na jejich sloučení:
 
@@ -133,7 +133,7 @@ Ani sběrnice nejsou Horizonu cizí:
 
 
 \section{Interaktivní trasér spojů s přímou kontrolou pravidel (DRC)}
-\label{\detokenize{feature-overview_cz:interaktivni-traser-spoju-s-primou-kontrolou-pravidel-drc}}\begin{description}
+\label{\detokenize{feature-overview:interaktivni-traser-spoju-s-primou-kontrolou-pravidel-drc}}\begin{description}
 \item[{Pomocí interaktivního traséru (routeru) původně vyvinutého pro KiCad, se vytváření spojů}] \leavevmode
 stane hračkou. Samozřejmě respektuje vaše pravidla návrhu.
 
@@ -143,7 +143,7 @@ stane hračkou. Samozřejmě respektuje vaše pravidla návrhu.
 
 
 \section{Silná pravidla}
-\label{\detokenize{feature-overview_cz:silna-pravidla}}
+\label{\detokenize{feature-overview:silna-pravidla}}
 S výkonnými a flexibilními pravidly může horizont kontrolovat a upravovat váš
 návrh splňující nastavená kriteria:
 
@@ -156,7 +156,7 @@ na kterém místě:
 
 
 \section{Průmyslové standardy výroby}
-\label{\detokenize{feature-overview_cz:prumyslove-standardy-vyroby}}
+\label{\detokenize{feature-overview:prumyslove-standardy-vyroby}}
 Až bude váš návrh připraven k výrobě, jednoduše exportujte ve formátu
 průmyslového standartu Gerber a NC-vrtání ve formátu RS-274X:
 
@@ -164,14 +164,14 @@ průmyslového standartu Gerber a NC-vrtání ve formátu RS-274X:
 
 
 \section{3D pohled}
-\label{\detokenize{feature-overview_cz:d-pohled}}
+\label{\detokenize{feature-overview:d-pohled}}
 Podívejte se na svou desku, jako byste ji drželi ve svých rukou. Za použití funkce rozpadu (Explode), můžete vrstvy zobrazit oddělené.
 
 \noindent\sphinxincludegraphics{{3d}.png}
 
 
 \section{Je toho mnohem víc}
-\label{\detokenize{feature-overview_cz:je-toho-mnohem-vic}}\begin{itemize}
+\label{\detokenize{feature-overview:je-toho-mnohem-vic}}\begin{itemize}
 \item {} 
 Akcelerované zobrazování (OpenGL)
 
@@ -194,20 +194,20 @@ Libovolné tvary pájecích míst
 
 
 \chapter{Interaktivní manipulátor}
-\label{\detokenize{imp_cz:interaktivni-manipulator}}\label{\detokenize{imp_cz::doc}}
+\label{\detokenize{imp:interaktivni-manipulator}}\label{\detokenize{imp::doc}}
 S cílem poskytnout jednotné uživatelské prostředí a umožnit opakované použití kódu,
 editory pro symboly, schémata, pájecí plošky, pouzdra součástek a desky plošných spojů jsou založeny na jednotném interaktivním manipulátoru (IMP - Interactive Manipulator).
 
 
 \section{Výběr objektů}
-\label{\detokenize{imp_cz:vyber-objektu}}
+\label{\detokenize{imp:vyber-objektu}}
 Zpočátku je aktivní režim letmého výběru „hover select“. Jednoduše vybere
 nejmenší objekt pod kurzorem. Klepnutím nebo přetažením vyberte objekty
 natrvalo. Stisknutím klávesy „Esc“ se vrátíte do režimu výběru.
 
 
 \section{Nástroje (Tools)}
-\label{\detokenize{imp_cz:nastroje-tools}}
+\label{\detokenize{imp:nastroje-tools}}
 Chcete-li objekty na obrazovce upravit, použijte k tomu určené nástroje. Spouštění nástrojů je možné vícero způsoby:
 \begin{itemize}
 \item {} 
@@ -229,13 +229,13 @@ Podívejte se dolů na lištu, která se objevila ve spodní části obrazovky, 
 
 
 \section{Mřížka (Grid)}
-\label{\detokenize{imp_cz:mrizka-grid}}
+\label{\detokenize{imp:mrizka-grid}}
 Podržíte-li klávesu „Alt“, sníží se rozteč mřížky desetkrát.
 
 
 \chapter{Editor desky plošných spojů DPS (PCB)}
-\label{\detokenize{imp-board_cz:editor-desky-plosnych-spoju-dps-pcb}}\label{\detokenize{imp-board_cz::doc}}
-Chcete-li spustit editor desky plošných spojů (dále jen desky), klikněte na „Board“ ve správci projektu. Stejně jako všechny ostatní grafické editory je i editor desky v Horizon-EDA založen na {\hyperref[\detokenize{imp_cz::doc}]{\sphinxcrossref{\DUrole{doc}{Interaktivním manipulátoru}}}}
+\label{\detokenize{imp-board:editor-desky-plosnych-spoju-dps-pcb}}\label{\detokenize{imp-board::doc}}
+Chcete-li spustit editor desky plošných spojů (dále jen desky), klikněte na „Board“ ve správci projektu. Stejně jako všechny ostatní grafické editory je i editor desky v Horizon-EDA založen na {\hyperref[\detokenize{imp::doc}]{\sphinxcrossref{\DUrole{doc}{Interaktivním manipulátoru}}}}
 
 Editor desky si udržuje interní kopii seznamu spojů (netlist). Chcete-li aktualizovat
 seznam spojů, stiskněte „Save“ (Uložit) v editoru schémat pro zápis seznamu spojů na
@@ -243,34 +243,34 @@ disk, pak klikněte v editoru desky na „reload netlist“ pro aktualizaci sezn
 
 
 \section{Vyplněné oblasti (Planes)}
-\label{\detokenize{imp-board_cz:vyplnene-oblasti-planes}}
+\label{\detokenize{imp-board:vyplnene-oblasti-planes}}
 Pro přidání vyplněných oblastí nejprve nakreslete do hladiny spojů (copper) mnohoúhelník (polygon) požadovaného tvaru. Poté pomocí nástroje „Add plane“ přiřaďte oblast. Pro zobrazení vyplněných oblastí je nutné aktualizovat tyto oblasti pomocí příkazu „Update all Planes“. Oblasti s
 nižší prioritou se vyplní jako první.
 
 
 \section{Prokovené otvory (Vias)}
-\label{\detokenize{imp-board_cz:prokovene-otvory-vias}}
+\label{\detokenize{imp-board:prokovene-otvory-vias}}
 Před vložením prokoveného otvoru vytvořte výchozí pravidlo pro tyto otvory v okně pravidel „Rules“
 a přiřaďte jim požadovaný tvar (padstack).
 
 
 \section{Diferenciální páry}
-\label{\detokenize{imp-board_cz:diferencialni-pary}}
-Jedná se o speciální útvar trasy signálového páru se stanovenými parametry vzájemných elektrických vlastností. Chcete-li vytvořit diferenciální pár, podívejte se na {\hyperref[\detokenize{imp-sch_cz:diferencialni-pary}]{\sphinxcrossref{\DUrole{std,std-ref}{Diferenciální páry}}}}. Před trasováním diferneciálního páru, vytvořte pravidlo určující šířku stopy a mezeru tohoto páru. Chcete-li vést trasu, použijte nástroj „Route diff“.
+\label{\detokenize{imp-board:diferencialni-pary}}
+Jedná se o speciální útvar trasy signálového páru se stanovenými parametry vzájemných elektrických vlastností. Chcete-li vytvořit diferenciální pár, podívejte se na {\hyperref[\detokenize{imp-sch:diferencialni-pary}]{\sphinxcrossref{\DUrole{std,std-ref}{Diferenciální páry}}}}. Před trasováním diferneciálního páru, vytvořte pravidlo určující šířku stopy a mezeru tohoto páru. Chcete-li vést trasu, použijte nástroj „Route diff“.
 
 
 \section{Snímek obrazovky}
-\label{\detokenize{imp-board_cz:snimek-obrazovky}}
+\label{\detokenize{imp-board:snimek-obrazovky}}
 \noindent\sphinxincludegraphics{{imp-brd}.png}
 
 
 \chapter{Editor schémat}
-\label{\detokenize{imp-sch_cz:editor-schemat}}\label{\detokenize{imp-sch_cz::doc}}
-Chcete-li spustit editor schémat, klikněte v manažeru projektu na „Top Schematic“. Podobně jako jiné grafické editory, schematický editor v Horizon-EDA je založen na {\hyperref[\detokenize{imp_cz::doc}]{\sphinxcrossref{\DUrole{doc}{Interaktivním manipulátoru}}}}. Chcete-li umístit součástky, použijte příkaz „Place part“ nebo prohlížeč součástí v hlavním projektu. Ten je mnohem pohodlnější, protože může být trvale otevřený. Začněte kreslit propojení (vodiče) schematu stisknutím Klávesy „n“.
+\label{\detokenize{imp-sch:editor-schemat}}\label{\detokenize{imp-sch::doc}}
+Chcete-li spustit editor schémat, klikněte v manažeru projektu na „Top Schematic“. Podobně jako jiné grafické editory, schematický editor v Horizon-EDA je založen na {\hyperref[\detokenize{imp::doc}]{\sphinxcrossref{\DUrole{doc}{Interaktivním manipulátoru}}}}. Chcete-li umístit součástky, použijte příkaz „Place part“ nebo prohlížeč součástí v hlavním projektu. Ten je mnohem pohodlnější, protože může být trvale otevřený. Začněte kreslit propojení (vodiče) schematu stisknutím Klávesy „n“.
 
 
 \section{Spoje a segmenty spojů (Nets)}
-\label{\detokenize{imp-sch_cz:spoje-a-segmenty-spoju-nets}}
+\label{\detokenize{imp-sch:spoje-a-segmenty-spoju-nets}}
 Na rozdíl od některých jiných schématických editorů Horizon-EDA si eviduje jednotlivá propojení a nejde jen o nakreslenou čáru (vodič), která se nakonec při generování seznamu spojů (netlistu) transformuje na vodič (spoj). Propojení může být reprezentováno jedním nebo více segmenty vodičů. Segment spoje je sada propojení vodičů, uzlů, vývodů atd. všechny propojené vodiči (čárami spoje). Editor sleduje, které vodiče patří do kterého segmentu a oznamuje, když se operace chystá sloučit dva segmenty.
 
 Když se podíváte na spoj v editoru vlastností po výběru spoje, spoj v editoru vlastností je „celý“ spoj, nejen segment spoje. Proto přejmenování spoje nemění propojení. Pro připojení vývodu na segment jiného spoje, použijte nástroj pro přesunutí segmentu do jiného nebo nový spoj “Move net segment to other/new net”.
@@ -279,29 +279,29 @@ Když se podíváte na spoj v editoru vlastností po výběru spoje, spoj v edit
 
 
 \section{Symboly napájení (Power Nets)}
-\label{\detokenize{imp-sch_cz:symboly-napajeni-power-nets}}
+\label{\detokenize{imp-sch:symboly-napajeni-power-nets}}
 Nejjednodušší způsob vytvoření symbolu napájení ve schematu je použít příkaz pro správu napájení „Manage Power Nets“. Příkaz je k dispozici v menu hamburger \sphinxincludegraphics[height=10\sphinxpxdimen]{{hamburger}.png}. Poté použijte příkaz „place power symbol“, pro umístění symbolu napájení pro tento spoj. Symboly napájení „napájí“ jejich vodiče a připojené segmenty. Můžete si vybrat ze tří stylů napájecích symbolů ve výše uvedeném příkazu. Symboly antény a tečky
 lze umístit buď nahoru nebo dolů. Symbol GND může směřovat pouze dolů.
 
 
 \section{Sběrnice (Buses)}
-\label{\detokenize{imp-sch_cz:sbernice-buses}}
+\label{\detokenize{imp-sch:sbernice-buses}}
 Pro seskupení souvisejících vodičů použijte sběrnice (Buses). Po vytvoření sběrnice přidejte vodiče. Můžete buď přiřadit existující vodiče nebo nově pojmenovat automaticky vytvořený vodič kliknutím na tlačítko se šipkou vedle ní.
 
 
 \section{Diferenciální páry (Diff. pairs)}
-\label{\detokenize{imp-sch_cz:diferencialni-pary-diff-pairs}}\label{\detokenize{imp-sch_cz:diferencialni-pary}}
+\label{\detokenize{imp-sch:diferencialni-pary-diff-pairs}}\label{\detokenize{imp-sch:diferencialni-pary}}
 Chcete-li vytvořit diferenciální pár, vyberte dva vodiče, které chcete spárovat a spusťte příkaz „Set diff. pair“. Můžete také vybrat jeden vodič a budete požádáni o druhý. Chcete-li oddělit vodiče, použijte příkaz „Clear diff. pair“. Doporučuje se přiřadit oběma vodičům stejnou hladinu (Netclass) např. „100diff“, abyste jim mohli snadno nastavit stejná pravidla.
 
 
 \section{Přímo na desku (To board)}
-\label{\detokenize{imp-sch_cz:primo-na-desku-to-board}}
+\label{\detokenize{imp-sch:primo-na-desku-to-board}}
 Chcete-li usnadnit umísťování pouzder součástek na desku plošných spojů DPS (PCB), jednoduše vyberte
 požadované symboly a stiskněte „To board“. Tím se přepnete na editor desky dále spusťte nástroj „place package“ s pouzdry pro vybrané symboly. Možná bude nutné nejdříve znovu načíst seznam spojů (netlist) v Editoru desky, aby editor desky načetl nové komponenty.
 
 
 \section{Snímek obrazovky}
-\label{\detokenize{imp-sch_cz:snimek-obrazovky}}
+\label{\detokenize{imp-sch:snimek-obrazovky}}
 \begin{figure}[htbp]
 \centering
 
@@ -310,23 +310,23 @@ požadované symboly a stiskněte „To board“. Tím se přepnete na editor de
 
 
 \chapter{Sestavení (kompilace) programu na operačním systému Windows}
-\label{\detokenize{build-win32_cz:sestaveni-kompilace-programu-na-operacnim-systemu-windows}}\label{\detokenize{build-win32_cz::doc}}
+\label{\detokenize{build-win32:sestaveni-kompilace-programu-na-operacnim-systemu-windows}}\label{\detokenize{build-win32::doc}}
 
 \section{Nainstalujte program MSYS2}
-\label{\detokenize{build-win32_cz:nainstalujte-program-msys2}}
+\label{\detokenize{build-win32:nainstalujte-program-msys2}}
 Stáhněte si a spusťte instalátor programu msys2 z \sphinxurl{http://msys2.github.io/} Mám
 testováno pouze s 64bitovou verzí, 32bit by měla fungovat také. Ujistěte se, že cesta, kterou jste vybrali pro instalaci neobsahuje žádné mezery (v názvech složek).
 
 
 \section{Spusťte konzolu MSYS}
-\label{\detokenize{build-win32_cz:spustte-konzolu-msys}}
+\label{\detokenize{build-win32:spustte-konzolu-msys}}
 Spusťte položku nabídky Start „MSYS2 mingw 64 bit“, která by se měla zobrazit
 v okně konzoly. Všechny níže uvedené kroky se týkají toho, co by jste měli napsat
 do toho okna.
 
 
 \section{Nainstalujte aktualizace}
-\label{\detokenize{build-win32_cz:nainstalujte-aktualizace}}
+\label{\detokenize{build-win32:nainstalujte-aktualizace}}
 Napište
 
 \begin{sphinxVerbatim}[commandchars=\\\{\}]
@@ -340,7 +340,7 @@ po restartu znovu spusťte program \sphinxcode{\sphinxupquote{pacman -Syu}}.
 
 
 \section{Nainstalujte související součásti}
-\label{\detokenize{build-win32_cz:nainstalujte-souvisejici-soucasti}}
+\label{\detokenize{build-win32:nainstalujte-souvisejici-soucasti}}
 Napište / vložte
 
 \begin{sphinxVerbatim}[commandchars=\\\{\}]
@@ -361,7 +361,7 @@ do okna konzoly.
 
 
 \section{Klonovat zdrojový kód programu Horizon-EDA}
-\label{\detokenize{build-win32_cz:klonovat-zdrojovy-kod-programu-horizon-eda}}
+\label{\detokenize{build-win32:klonovat-zdrojovy-kod-programu-horizon-eda}}
 \begin{sphinxVerbatim}[commandchars=\\\{\}]
 \PYG{n}{git} \PYG{n}{clone} \PYG{n}{http}\PYG{p}{:}\PYG{o}{/}\PYG{o}{/}\PYG{n}{github}\PYG{o}{.}\PYG{n}{com}\PYG{o}{/}\PYG{n}{carrotIndustries}\PYG{o}{/}\PYG{n}{horizon}
 \PYG{n}{cd} \PYG{n}{horizon}
@@ -369,7 +369,7 @@ do okna konzoly.
 
 
 \section{Sestavení (kompilace) programu ze zdrojového kódu}
-\label{\detokenize{build-win32_cz:sestaveni-kompilace-programu-ze-zdrojoveho-kodu}}
+\label{\detokenize{build-win32:sestaveni-kompilace-programu-ze-zdrojoveho-kodu}}
 \begin{sphinxVerbatim}[commandchars=\\\{\}]
 \PYG{n}{make} \PYG{o}{\PYGZhy{}}\PYG{n}{j} \PYG{l+m+mi}{4}
 \end{sphinxVerbatim}
@@ -378,24 +378,24 @@ do okna konzoly.
 
 
 \section{Spuštění programu}
-\label{\detokenize{build-win32_cz:spusteni-programu}}
+\label{\detokenize{build-win32:spusteni-programu}}
 Po kompilaci nebudete moci dvakrát kliknout na výsledné spustitelné soubory protože požadované knihovny DLL nejsou ve složce známé systému Windows. Budete muset spustit z příkazového řádku prostředí Mingw například pomocí příkazu \sphinxcode{\sphinxupquote{./horizon-eda}}.
 Aby fungovalo stahování fondu, musíte zkopírovat soubor \sphinxcode{\sphinxupquote{/mingw64/ssl/certs/ca-bundle.crt}} do složky obsahující \sphinxcode{\sphinxupquote{horizon-eda.exe}}.
 
 
 \section{Vytvoření archivu}
-\label{\detokenize{build-win32_cz:vytvoreni-archivu}}
+\label{\detokenize{build-win32:vytvoreni-archivu}}
 Chcete-li vytvořit archiv ZIP, jak je dostupný ke stažení, spusťte příkaz
 \sphinxcode{\sphinxupquote{./make\_bindist.sh}}.
 
 
 \chapter{Sestavení (kompilace) programu na operačním systému Linux}
-\label{\detokenize{build-linux_cz:sestaveni-kompilace-programu-na-operacnim-systemu-linux}}\label{\detokenize{build-linux_cz::doc}}
+\label{\detokenize{build-linux:sestaveni-kompilace-programu-na-operacnim-systemu-linux}}\label{\detokenize{build-linux::doc}}
 Sestavení programu Horizon-EDA v Linuxu je podobně jednoduché jako ve Windows
 
 
 \section{Nainstalujte závislosti}
-\label{\detokenize{build-linux_cz:nainstalujte-zavislosti}}
+\label{\detokenize{build-linux:nainstalujte-zavislosti}}
 Ujistěte se, že máte nainstalované tyto související knihovny:
 \begin{itemize}
 \item {} 
@@ -488,7 +488,7 @@ Na FreeBSD 12:
 
 
 \section{Klonovat zdrojový kód programu Horizon-EDA}
-\label{\detokenize{build-linux_cz:klonovat-zdrojovy-kod-programu-horizon-eda}}
+\label{\detokenize{build-linux:klonovat-zdrojovy-kod-programu-horizon-eda}}
 \begin{sphinxVerbatim}[commandchars=\\\{\}]
 \PYG{n}{git} \PYG{n}{clone} \PYG{n}{http}\PYG{p}{:}\PYG{o}{/}\PYG{o}{/}\PYG{n}{github}\PYG{o}{.}\PYG{n}{com}\PYG{o}{/}\PYG{n}{carrotIndustries}\PYG{o}{/}\PYG{n}{horizon}
 \PYG{n}{cd} \PYG{n}{horizon}
@@ -496,7 +496,7 @@ Na FreeBSD 12:
 
 
 \section{Sestavení (kompilace) programu ze zdrojového kódu}
-\label{\detokenize{build-linux_cz:sestaveni-kompilace-programu-ze-zdrojoveho-kodu}}
+\label{\detokenize{build-linux:sestaveni-kompilace-programu-ze-zdrojoveho-kodu}}
 \begin{sphinxVerbatim}[commandchars=\\\{\}]
 \PYG{n}{make} \PYG{o}{\PYGZhy{}}\PYG{n}{j} \PYG{l+m+mi}{4}
 \end{sphinxVerbatim}
@@ -505,7 +505,7 @@ Na FreeBSD 12:
 
 
 \section{Spuštění programu}
-\label{\detokenize{build-linux_cz:spusteni-programu}}
+\label{\detokenize{build-linux:spusteni-programu}}
 Výsledné binární soubory jsou samostatné a nevyžadují žádné externí
 datové soubory jako ikony nebo podobně.
 \sphinxcode{\sphinxupquote{horizon-eda}} je hlavní spustitelný program. Spouštějte jej ze složky kde byl sestaven pomocí příkazu:
@@ -516,12 +516,12 @@ datové soubory jako ikony nebo podobně.
 
 
 \chapter{Pravidla}
-\label{\detokenize{rules_cz:pravidla}}\label{\detokenize{rules_cz::doc}}
+\label{\detokenize{rules:pravidla}}\label{\detokenize{rules::doc}}
 Horizon-EDA používá pravidla pro specifikaci vazeb pro DRC i pro vstup různých nástrojů, jako je interaktivní trasér. Pravidla jsou vyhodnocena shora dolů a použije se první pravidlo odpovídající všem kritériím. Je tedy na vás, abyste se ujistili, že pravidla jsou uspořádána od konkrétnějších na méně konkrétní. Vždy je dobré mít obecné pravidlo úplně dole.
 
 
 \chapter{Vytvoření pouzdra součástky}
-\label{\detokenize{create-package_cz:vytvoreni-pouzdra-soucastky}}\label{\detokenize{create-package_cz::doc}}
+\label{\detokenize{create-package:vytvoreni-pouzdra-soucastky}}\label{\detokenize{create-package::doc}}
 Rozložení desky plošných spojů může být tak dobré jak dobře jsou vytvořeny pájecí obrazce (footprints) pro jednotlivá pouzdra součástek, které program používá, proto je důležité vytvořit vysoce kvalitní podklady obrazců těchto obrazců (footprints).
 
 V Horizonu-EDA se pouzdro součástky se skládá z těchto částí:
@@ -559,13 +559,13 @@ Obrys zástavby součástky (Courtyard outline)
 
 
 \section{Pájecí obrazce (pads)}
-\label{\detokenize{create-package_cz:pajeci-obrazce-pads}}
+\label{\detokenize{create-package:pajeci-obrazce-pads}}
 Každý pájecí obrazec je definován několika pájecími místy (padstack) uspořádanými do různéh tvarů a parametry aplikovanými na na tento tvar. Podrobnosti o pájecích místech viz.
-{\hyperref[\detokenize{padstacks_cz::doc}]{\sphinxcrossref{\DUrole{doc}{Pájecí místa / plošky (Padstacks)}}}}. Tyto pájecí obrazce jsou pravděpodobně nejdůležitější vlastností pouzdra součástky, je vhodné s nimi začít. Pájecí místa můžete umístit ručně pomocí příkazu „Place pad“ nebo je nechejte umístit automaticky podle běžně používaných vzorů pomocí příkazu „Footprint gen.“, který je k dispozici na horním panelu. Po umístění pájecích míst mají stále svou výchozí velikost, která patrně není ta, co potřebujete. Chcete-li velikost změnit, vyberte parametry, které chcete upravit a pomocí nástroje „Edit pad“ přidejte parametry do pájecího místa. V závislosti na vybraném tvaru pájecího místa jsou přiřazeny určité parametry. Nejčastěji se používají šířka a výška pájecího místa. Použijte tlačítko zaškrtnutí vedle parametru pro parametry, které se mají použít na všechny vybrané podložky.
+{\hyperref[\detokenize{padstacks::doc}]{\sphinxcrossref{\DUrole{doc}{Pájecí místa / plošky (Padstacks)}}}}. Tyto pájecí obrazce jsou pravděpodobně nejdůležitější vlastností pouzdra součástky, je vhodné s nimi začít. Pájecí místa můžete umístit ručně pomocí příkazu „Place pad“ nebo je nechejte umístit automaticky podle běžně používaných vzorů pomocí příkazu „Footprint gen.“, který je k dispozici na horním panelu. Po umístění pájecích míst mají stále svou výchozí velikost, která patrně není ta, co potřebujete. Chcete-li velikost změnit, vyberte parametry, které chcete upravit a pomocí nástroje „Edit pad“ přidejte parametry do pájecího místa. V závislosti na vybraném tvaru pájecího místa jsou přiřazeny určité parametry. Nejčastěji se používají šířka a výška pájecího místa. Použijte tlačítko zaškrtnutí vedle parametru pro parametry, které se mají použít na všechny vybrané podložky.
 
 
 \section{Obrys pouzdra součástky}
-\label{\detokenize{create-package_cz:obrys-pouzdra-soucastky}}
+\label{\detokenize{create-package:obrys-pouzdra-soucastky}}
 Obrys pouzdra se používá k vizualizaci obrysu součásti
 Dá se říct, že by tedy měla sledovat jmenovité rozměry součásti. Můžete použít nástroj „import DXF“ pro import výkresu DXF získaného ze STEP modelu nebo jinak. Protože účel obrysu součásti je čistě
 vizuální, můžete použít buď čáry, nebo mnohoúhelníky. Vývody přidejte, pouze pokud
@@ -573,17 +573,17 @@ výrazně přispívají ke vzhledu součásti.
 
 
 \section{Montážní obrys}
-\label{\detokenize{create-package_cz:montazni-obrys}}
+\label{\detokenize{create-package:montazni-obrys}}
 Montážní obrys končí na výkresu sestavy (zatím není implementováno) a jeho účelem je pomoc při montáži a kontrole PCA. Montážní obrysová vrstva tedy obsahuje pouze tyto položky: Mnohoúhelník označující obrys součásti, volitelně vývody, pokud se výrazně přispívají ke vzhledu součásti a referenční označení součásti. Na rozdíl od obrysu pouzdra je montáž pouze hrubá náhrada tvaru součásti. Musí zahrnovat nějaký druh vizuálního označení umístění prvního vývodu součásti. Použijte příkazy  „Draw polygon rectangle” a jeho možnosti dekorace pro kreslení takového obrysu. Pro referenční označení, vložte text obsahující „\$ RD“ v takové velikosti, aby se vešel do obrysu sestavy, i když je předpona o 4 číslice delší.
 
 
 \section{Textový popis součástek}
-\label{\detokenize{create-package_cz:textovy-popis-soucastek}}
+\label{\detokenize{create-package:textovy-popis-soucastek}}
 Účelem textového popisu je objasnit umístění dílů a orientace při ruční montáži a vizuální kontrole, také by měla pomoct pokud je součást citlivá na orientaci, použijte nějakou značku prvního vývodu. Nepoužívejte tečku pro označení prvního vývodu, místo toho sklopte nebo prodlužte grafickou značku. Doporučená tloušťka čáry je 0,15 mm. Také vložte text „\$ RD“, s tloušťkou čáry 0,15 mm do hladiny popisu.
 
 
 \section{Obrys zástavby součástky}
-\label{\detokenize{create-package_cz:obrys-zastavby-soucastky}}
+\label{\detokenize{create-package:obrys-zastavby-soucastky}}
 Obrys zástavby označuje prostor potřebný pro plochu kolem součástky, která nesmí být obsazeno jinými součástkami, aby byl ponechán dostatečný prostor pro montáž. Vzhledem k tomu, že velikost obrysu zástavby je třeba upravit v závislosti na uživatelských výrobních požadavcích, musí být nastaven pomocí parametru
 programu. Při zvětšení obrysu zástavby 0 mm je obrys zástavby (obdélníkový) kolem pájecích míst a obrysu pouzdra součástky. Chcete-li vytvořit obdélníkový obrys zástavby, který lze parametrizovat, proveďte toto:
 
@@ -599,15 +599,15 @@ parametr „Courtyard expansion“ nastavený na 0,25 mm.
 
 
 \chapter{Kopírování rozmístění a umístění}
-\label{\detokenize{copy-layout-placement_cz:kopirovani-rozmisteni-a-umisteni}}\label{\detokenize{copy-layout-placement_cz::doc}}
+\label{\detokenize{copy-layout-placement:kopirovani-rozmisteni-a-umisteni}}\label{\detokenize{copy-layout-placement::doc}}
 
 \section{Motivace}
-\label{\detokenize{copy-layout-placement_cz:motivace}}
+\label{\detokenize{copy-layout-placement:motivace}}
 Návrh desky plošného spoje často obsahuje podobné, ale ne shodné celky jako jsou např. regulátory napětí. Nebylo by hezké, kdyby stačilo udělat rozmístění jednou a potom zkopírovat do ostatních kopií? Technologie Horzion-EDA vám to umožní v jednoduchém dvoustupňovém procesu.
 
 
 \section{Skupiny a značky}
-\label{\detokenize{copy-layout-placement_cz:skupiny-a-znacky}}
+\label{\detokenize{copy-layout-placement:skupiny-a-znacky}}
 Aby tato funkce fungovala, musíte nejprve sdělit Horizonu-EDA, jak spolu komponenty souvisí. Toho je dosaženo přiřazením skupin a značek ke komponentám. Každá sekce, tj. Všem komponentám spojeným s
 jedním regulátorem napětí, přidělte jednu skupinu. Vyberte všechny symboly jedné sekce a pomocí příkazu „Set new group“ přiřaďte všechny do nové skupiny. Pro zviditelnění skupin a značek na schematu použijte „Toggle group \& tag visibility“. Skupina komponent a značka se poté zobrazí pod referenčním označením.
 
@@ -621,24 +621,24 @@ Chcete-li se ujistit, že jste udělali přiřazení správně, můžete použí
 
 
 \section{Deska}
-\label{\detokenize{copy-layout-placement_cz:deska}}
+\label{\detokenize{copy-layout-placement:deska}}
 Umístěte a trasujte nějakou skupinu jako obvykle.
 
 
 \subsection{Kopírovat umístění}
-\label{\detokenize{copy-layout-placement_cz:kopirovat-umisteni}}
+\label{\detokenize{copy-layout-placement:kopirovat-umisteni}}
 Pro každou skupinu umístěte pouzdro součástky tak, aby ostatní pouzdra součástek byly odkázány na požadované místo a umístěte okolo všechny ostatní pouzdra součástek. Poté vyberte všechny součástky skupiny, které chcete znovu použít a spusťte nástroj „Copy placement“. Klikněte na referenční pouzdro (kterékoli pájecí místo nebo středový bod) v již umístěné skupině a všechny vybrané součástky budou umístěny shodným způsobem.
 
 
 \subsection{Kopírování skladeb}
-\label{\detokenize{copy-layout-placement_cz:kopirovani-skladeb}}
+\label{\detokenize{copy-layout-placement:kopirovani-skladeb}}
 Vyberte všechny spoje (ostatní objekty budou ignorovány), které chcete kopírovat
 v natrasované skupině, spusťte příkaz „Copy tracks“ a klikněte na libovolné pouzdro
 (libovolné pájecí místo nebo středový bod) v cílové skupině.
 
 
 \chapter{Parametry programu}
-\label{\detokenize{parameter-programs_cz:parametry-programu}}\label{\detokenize{parameter-programs_cz::doc}}
+\label{\detokenize{parameter-programs:parametry-programu}}\label{\detokenize{parameter-programs::doc}}
 Jak již bylo popsáno jinde v dokumentu, Horizon-EDA podporuje parametrizovatelné tvary pájecích míst
 a (v omezené míře) pouzder součástek. Chcete-li použít dané parametry na existující geometrii, každé pájecí místo a podobné objekty je možné změnit pomocí krátkého makra.
 
@@ -646,7 +646,7 @@ Tyto makra jsou psány ve vlastním zásobníkovém jazyce. Uživatelé kalkula�
 
 
 \section{Syntaxe}
-\label{\detokenize{parameter-programs_cz:syntaxe}}
+\label{\detokenize{parameter-programs:syntaxe}}
 Na nejvyšší úrovni je program tvořen značkami. Značky jsou oddělené libovolným množstvím mezer.
 
 Typy značek:
@@ -670,15 +670,15 @@ Parametry začínají znakem \sphinxcode{\sphinxupquote{{[}}} a končí \sphinxc
 
 
 \section{Obecné příkazy}
-\label{\detokenize{parameter-programs_cz:obecne-prikazy}}
+\label{\detokenize{parameter-programs:obecne-prikazy}}
 
 \subsection{Nulový operand}
-\label{\detokenize{parameter-programs_cz:nulovy-operand}}
+\label{\detokenize{parameter-programs:nulovy-operand}}
 \sphinxcode{\sphinxupquote{get-Parameter {[}\textless{}parameter\textgreater{}{]}}} načte paramter a vloží jej na zásobník
 
 
 \subsection{Jeden operand}
-\label{\detokenize{parameter-programs_cz:jeden-operand}}
+\label{\detokenize{parameter-programs:jeden-operand}}
 \begin{sphinxVerbatim}[commandchars=\\\{\}]
 \PYG{n}{Před} \PYG{n}{operací} \PYG{n}{vypadá} \PYG{n}{zásobník} \PYG{n}{takto}\PYG{p}{:}
 
@@ -695,7 +695,7 @@ Parametry začínají znakem \sphinxcode{\sphinxupquote{{[}}} a končí \sphinxc
 
 
 \subsection{Dva operandy}
-\label{\detokenize{parameter-programs_cz:dva-operandy}}
+\label{\detokenize{parameter-programs:dva-operandy}}
 \begin{sphinxVerbatim}[commandchars=\\\{\}]
 \PYG{n}{Před} \PYG{n}{operací} \PYG{n}{vypadá} \PYG{n}{zásobník} \PYG{n}{takto}\PYG{p}{:}
 
@@ -717,7 +717,7 @@ Parametry začínají znakem \sphinxcode{\sphinxupquote{{[}}} a končí \sphinxc
 
 
 \subsection{Tři operandy}
-\label{\detokenize{parameter-programs_cz:tri-operandy}}
+\label{\detokenize{parameter-programs:tri-operandy}}
 \begin{sphinxVerbatim}[commandchars=\\\{\}]
 \PYG{n}{Před} \PYG{n}{operací} \PYG{n}{vypadá} \PYG{n}{zásobník} \PYG{n}{takto}\PYG{p}{:}
 
@@ -738,7 +738,7 @@ Parametry začínají znakem \sphinxcode{\sphinxupquote{{[}}} a končí \sphinxc
 
 
 \section{Příkazy pro pájecí místa}
-\label{\detokenize{parameter-programs_cz:prikazy-pro-pajeci-mista}}
+\label{\detokenize{parameter-programs:prikazy-pro-pajeci-mista}}
 Aby program mohl manipulovat s objektem (tvaru atd.),
 musí být přiřazena třída parametrů. \#\# set-shape
 \sphinxcode{\sphinxupquote{set-shape {[}\textless{}třída parametrů\textgreater{} \textless{}form\textgreater{}{]}}} Nastaví tvar na zadaný
@@ -760,7 +760,7 @@ formulář nebo jej přesune na určenou pozici Platného formuláře:
 
 
 \subsection{Zadání otvoru}
-\label{\detokenize{parameter-programs_cz:zadani-otvoru}}
+\label{\detokenize{parameter-programs:zadani-otvoru}}
 \sphinxcode{\sphinxupquote{set-hole {[}\textless{}třída parametrů\textgreater{} \textless{}shape\textgreater{}{]}}} Nastaví díru na specifikovaný tvar z přednastavených možností:
 \begin{itemize}
 \item {} 
@@ -773,10 +773,10 @@ formulář nebo jej přesune na určenou pozici Platného formuláře:
 
 
 \section{Polygonové příkazy (pájecí místa a pouzdra součástek)}
-\label{\detokenize{parameter-programs_cz:polygonove-prikazy-pajeci-mista-a-pouzdra-soucastek}}
+\label{\detokenize{parameter-programs:polygonove-prikazy-pajeci-mista-a-pouzdra-soucastek}}
 
 \subsection{Zadání polygonu}
-\label{\detokenize{parameter-programs_cz:zadani-polygonu}}
+\label{\detokenize{parameter-programs:zadani-polygonu}}
 \sphinxcode{\sphinxupquote{set-polygon {[}\textless{}třída parametrů\textgreater{} \textless{}shape\textgreater{} \textless{}x0\textgreater{} \textless{}y0\textgreater{}{]}}} Nastaví polygon
 před připraveného tvaru se středem na (x0, y0) z vybraných možností:
 \begin{itemize}
@@ -790,18 +790,18 @@ před připraveného tvaru se středem na (x0, y0) z vybraných možností:
 
 
 \subsection{Zadání vrcholů polygonu}
-\label{\detokenize{parameter-programs_cz:zadani-vrcholu-polygonu}}
+\label{\detokenize{parameter-programs:zadani-vrcholu-polygonu}}
 {}`{}` set-polygon-vertices {[}\textless{}třída parametrů\textgreater{} \textless{}n\_vertices\textgreater{}{]} {}`{}` Načte \sphinxcode{\sphinxupquote{n\_vertices}} souřadnic vrcholů ze zásobníku a vytvoří z nich mnohoúhelník.
 
 
 \subsection{Vytvoření polygonu}
-\label{\detokenize{parameter-programs_cz:vytvoreni-polygonu}}
+\label{\detokenize{parameter-programs:vytvoreni-polygonu}}
 \sphinxcode{\sphinxupquote{expand-polygon {[}\textless{}třída parametrů\textgreater{} \textless{}x0\textgreater{} \textless{}y0\textgreater{} \textless{}x1\textgreater{} \textless{}y1\textgreater{} ... \textless{}xn\textgreater{} \textless{}yn\textgreater{}{]}}}
 Vytvoří polygon určený hodnotami souřadnic v parametrech načtených ze zásobníku.
 
 
 \section{Příklad programu (pro SMD obdélníkové pájecí místo)}
-\label{\detokenize{parameter-programs_cz:priklad-programu-pro-smd-obdelnikove-pajeci-misto}}
+\label{\detokenize{parameter-programs:priklad-programu-pro-smd-obdelnikove-pajeci-misto}}
 \begin{sphinxVerbatim}[commandchars=\\\{\}]
 \PYG{n}{get}\PYG{o}{\PYGZhy{}}\PYG{n}{parameter} \PYG{p}{[} \PYG{n}{pad\PYGZus{}width} \PYG{p}{]}
 \PYG{n}{get}\PYG{o}{\PYGZhy{}}\PYG{n}{parameter} \PYG{p}{[} \PYG{n}{pad\PYGZus{}height} \PYG{p}{]}
@@ -820,7 +820,7 @@ Vytvoří polygon určený hodnotami souřadnic v parametrech načtených ze zá
 
 
 \chapter{Použití příkazového řádku (CLI Command Line Interface)}
-\label{\detokenize{cli-usage_cz:pouziti-prikazoveho-radku-cli-command-line-interface}}\label{\detokenize{cli-usage_cz::doc}}
+\label{\detokenize{cli-usage:pouziti-prikazoveho-radku-cli-command-line-interface}}\label{\detokenize{cli-usage::doc}}
 Správce projektu a správce fondu do značné míry eliminovali potřebu
 spouštět interaktivní manipulátor a další nástroje přímo z příkazového řádku,
 ale je to stále užitečné pro vývoj.
@@ -830,7 +830,7 @@ Všechny níže uvedené příkazy vyžadují proměnnou prostředí
 
 
 \section{Použití horizon-imp}
-\label{\detokenize{cli-usage_cz:pouziti-horizon-imp}}
+\label{\detokenize{cli-usage:pouziti-horizon-imp}}
 \begin{DUlineblock}{0em}
 \item[] Režim symbolů:
 \item[] \sphinxcode{\sphinxupquote{horizont-imp -y \textless{}soubor symbolu\textgreater{}}}
@@ -858,7 +858,7 @@ Všechny níže uvedené příkazy vyžadují proměnnou prostředí
 
 
 \section{Použití horizont-pool}
-\label{\detokenize{cli-usage_cz:pouziti-horizont-pool}}
+\label{\detokenize{cli-usage:pouziti-horizont-pool}}
 Většina příkazů -edit a -create spustí příslušný \$EDITOR, který vytvoří odpovídající soubor ve formátu YAML.
 
 \begin{sphinxVerbatim}[commandchars=\\\{\}]
@@ -879,7 +879,7 @@ Po vytvoření souborů nezapomeňte spustit \sphinxcode{\sphinxupquote{horizon-
 
 
 \section{Použití horizont-prj}
-\label{\detokenize{cli-usage_cz:pouziti-horizont-prj}}
+\label{\detokenize{cli-usage:pouziti-horizont-prj}}
 Pomocí těchto příkazů můžete vytvářet prázdné bloky, schémata atd.
 
 \begin{sphinxVerbatim}[commandchars=\\\{\}]
@@ -892,15 +892,15 @@ Pomocí těchto příkazů můžete vytvářet prázdné bloky, schémata atd.
 
 
 \chapter{Začínáme}
-\label{\detokenize{getting-started_cz:zaciname}}\label{\detokenize{getting-started_cz::doc}}
+\label{\detokenize{getting-started:zaciname}}\label{\detokenize{getting-started::doc}}
 Takže jste se rozhodli vyzkoušet Horizon-EDA? Skvěle! Zde je návod.
 
 
 \section{Pořízení programu Horizon-EDA}
-\label{\detokenize{getting-started_cz:porizeni-programu-horizon-eda}}
+\label{\detokenize{getting-started:porizeni-programu-horizon-eda}}
 
 \subsection{Operační systém Windows}
-\label{\detokenize{getting-started_cz:operacni-system-windows}}
+\label{\detokenize{getting-started:operacni-system-windows}}
 Stáhnete nejnovější komprimovaný přeložený binární soubor z adresy \sphinxhref{https://ci.appveyor.com/project/carrotIndustries/horizon/build/artifacts}{AppVeyor CI}
 a někam ho rozbalte. Pamatujte, že se jedná o 64bitové binární soubory. V případě, že překlad dosud probíhá  nebo ho někdo přerušil, si můžete stáhnout předešlé verze z
 \sphinxhref{https://ci.appveyor.com/project/carrotIndustries/horizon/history}{the build history}
@@ -908,16 +908,16 @@ a někam ho rozbalte. Pamatujte, že se jedná o 64bitové binární soubory. V 
 
 
 \subsection{Linux}
-\label{\detokenize{getting-started_cz:linux}}
+\label{\detokenize{getting-started:linux}}
 Viz kapitola
-{\hyperref[\detokenize{build-linux_cz::doc}]{\sphinxcrossref{\DUrole{doc}{Sestavení (kompilace) programu na operačním systému Linux}}}} v tomto návodě, jak zkompilovat program Horizon-EDA na linuxu.
+{\hyperref[\detokenize{build-linux::doc}]{\sphinxcrossref{\DUrole{doc}{Sestavení (kompilace) programu na operačním systému Linux}}}} v tomto návodě, jak zkompilovat program Horizon-EDA na linuxu.
 
 
 \section{Získejte fond knihovny}
-\label{\detokenize{getting-started_cz:ziskejte-fond-knihovny}}
+\label{\detokenize{getting-started:ziskejte-fond-knihovny}}
 
 \subsection{program Git}
-\label{\detokenize{getting-started_cz:program-git}}
+\label{\detokenize{getting-started:program-git}}
 Pokud znáte program git, stačí někam naklonovat soubory z veřejného archivu
 \sphinxhref{https://github.com/carrotIndustries/horizon-pool/}{horizon-pool}
 . Je vhodné použít program git, aby se udržely vaše místní
@@ -925,7 +925,7 @@ kopie aktuální a mohli případně publikovat vaše nové díly do veřejného
 
 
 \subsection{Správce fondu knihovny}
-\label{\detokenize{getting-started_cz:spravce-fondu-knihovny}}
+\label{\detokenize{getting-started:spravce-fondu-knihovny}}
 Nevíte, jak na to? Žádný problém! Poklepejte na \sphinxcode{\sphinxupquote{horizon-eda.exe}} nebo
 spusťte \sphinxcode{\sphinxupquote{./horizon-eda}} z vašeho příkazového řádku a klikněte na ‚Download…‘
 pro stažení fondu. Výchozí fond \sphinxcode{\sphinxupquote{carrotIndustries/horizon-pool}} je
@@ -935,7 +935,7 @@ vytvořením žádosti o doplnění nových součástí do veřejného archivu, 
 
 
 \section{Vytvořte nový projekt}
-\label{\detokenize{getting-started_cz:vytvorte-novy-projekt}}
+\label{\detokenize{getting-started:vytvorte-novy-projekt}}
 Klikněte na \sphinxcode{\sphinxupquote{horizon-eda.exe}} nebo spusťte program \sphinxcode{\sphinxupquote{./horizon-eda}} z vašeho
 příkazového řádku. Poté by se  mělo zobrazit okno podobné tomuto (obrázek
 potřebuje aktualizovat):
@@ -952,13 +952,13 @@ Nyní vytvořte nový projekt klepnutím na „New…“.
 
 
 \section{Schéma}
-\label{\detokenize{getting-started_cz:schema}}
+\label{\detokenize{getting-started:schema}}
 Po vytvoření nového projektu otevřete editor schémat a
 umístěte nějaké součástky a propojte je.
 
 
 \section{Deska}
-\label{\detokenize{getting-started_cz:deska}}
+\label{\detokenize{getting-started:deska}}
 Po vložení a propojení součástek v editoru schémat klikněte na
 uložit do souboru schématu a otevřete editor desky v projektovém
 manažeru. Umístěte pouzdra součástek na plochu desky zadáním „pp“. Pro trasování
@@ -968,13 +968,13 @@ v editoru desky plošných spojů.
 
 
 \section{Příklad projektu}
-\label{\detokenize{getting-started_cz:priklad-projektu}}
+\label{\detokenize{getting-started:priklad-projektu}}
 Místo zahájení vlastního projektu si také můžete projekt stáhnout např. \sphinxhref{https://github.com/carrotIndustries/x-band-tx}{návrhové soubory projektu X-Band
 transmitter}. Pro otevření, vyberte složku obsahující soubor \sphinxcode{\sphinxupquote{ddstx.hprj}} v projektovém manažeru. Ujistěte se, že jsou rozbaleny všechny soubory obsažené v tomto archivu.
 
 
 \chapter{Pájecí místa / plošky (Padstacks)}
-\label{\detokenize{padstacks_cz:pajeci-mista-plosky-padstacks}}\label{\detokenize{padstacks_cz::doc}}
+\label{\detokenize{padstacks:pajeci-mista-plosky-padstacks}}\label{\detokenize{padstacks::doc}}
 V Horizonu-EDA pájecí obrazec (pad) součástky odkazuje na definici pájecího místa (padstack) příslušného vývodu, která určuje tvar pájecího místa (plošky). V programu existují dva druhy pájecích míst:
 Globální pájecí místa jsou k dispozici pro použití na všechna pouzdra součástek a měly by pokrývat většinu případů použití. V případě pouzdra součástky vyžadující speciální speciální pájecí obrazec, je možné jej vytvořit pomocí tlačítka „Create padstack for package“ na záložce pouzdra „Packages“ ve správci fondu.
 
@@ -996,21 +996,21 @@ Otvor (volitelné)
 
 Upřednostňovaným způsobem definování geometrie pájecích míst je použití takových tvarů, které jsou vhodné pro export do gerber souboru. Pro se souhlasení více než jednoho parametru pouzdra lze použít pájecí místa, která mění svoji velikost. Lze využít také globální parametry specifické pro aplikaci, jako je rozšíření pájecí masky a zúžení masky. Chcete-li získat představu o tom, jak to doopravdy funguje podívejte se na globální pájecí místa ve fondu knihovny.
 
-Chcete-li použít parametry na geometrii pájecího místa, je to popsáno v kapitole {\hyperref[\detokenize{parameter-programs_cz::doc}]{\sphinxcrossref{\DUrole{doc}{Parametry programu}}}}, které se postarají o změnu parametrů tvarů pájecích míst.
+Chcete-li použít parametry na geometrii pájecího místa, je to popsáno v kapitole {\hyperref[\detokenize{parameter-programs::doc}]{\sphinxcrossref{\DUrole{doc}{Parametry programu}}}}, které se postarají o změnu parametrů tvarů pájecích míst.
 
 
 \chapter{Popis funkce}
-\label{\detokenize{theory-of-operation_cz:popis-funkce}}\label{\detokenize{theory-of-operation_cz::doc}}
+\label{\detokenize{theory-of-operation:popis-funkce}}\label{\detokenize{theory-of-operation::doc}}
 
 \section{Interaktivní manipulátor}
-\label{\detokenize{theory-of-operation_cz:interaktivni-manipulator}}
+\label{\detokenize{theory-of-operation:interaktivni-manipulator}}
 Primárním rozhraním Horizontu je tzv. „Interaktivní manipulátor“.
 Je to jednotný editor symbolů, schémat, pájecích míst (padstacks),
 pouzder součástek (packages) a desky plošných spojů (PCB).
 
 
 \subsection{Pracovní plocha (Canvas)}
-\label{\detokenize{theory-of-operation_cz:pracovni-plocha-canvas}}
+\label{\detokenize{theory-of-operation:pracovni-plocha-canvas}}
 Na pracovní ploše se vykreslují objekty, jako jsou symboly schematu, pouzdra součástek nebo jednotlivé spoje.
 výstupem vykreslení jsou segmenty čar a trojúhelníky, které jsou následně vykresleny pomocí grafického procesoru (GPU).
 Chcete-li vykreslit na pracovní ploše jiné než grafické (OpenGL) objekty,
@@ -1020,7 +1020,7 @@ vykresleno. Zatím program umožňuje výstup ve formátu Gerber, 3D náhled na 
 
 
 \subsection{Jádro (Core)}
-\label{\detokenize{theory-of-operation_cz:jadro-core}}
+\label{\detokenize{theory-of-operation:jadro-core}}
 Protože některé dokumenty, jako jsou symboly a schémata, obsahují ty samé
 typy objektu (např. texty), schémata a seznam spojů (netlist) musí být
 modifikované synchronizovaně, musí dojít k zapouzdření. Jádro je
@@ -1028,7 +1028,7 @@ spojovací článek mezi dokumentem, pracovní plochou a nástroji.
 
 
 \subsection{Nástroje (Tools)}
-\label{\detokenize{theory-of-operation_cz:nastroje-tools}}
+\label{\detokenize{theory-of-operation:nastroje-tools}}
 Pro každou akci, kterou může uživatel udělat, existuje nástroj. Vyvoláný nástroj začne
 přijímat vstupy z klávesnice a myši a podle funkce upravuje dokument
 pomocí jádra. V případě potřeby může nástroj vyvolat další
@@ -1036,14 +1036,14 @@ dialogy pro vyžádání dodatečných informací od uživatele.
 
 
 \subsection{Editor vlastností (Property editor)}
-\label{\detokenize{theory-of-operation_cz:editor-vlastnosti-property-editor}}
+\label{\detokenize{theory-of-operation:editor-vlastnosti-property-editor}}
 Jednoduché úpravy parametrů objektů, jako je šířka čáry, neumožňují přímo jejich nástroje,
 proto jádro poskytuje rozhraní úprav vlastností.
 ovládací prvky editoru vlastností jsou automaticky generovány z popisu objektů.
 
 
 \chapter{Fond knihovny součástek, pouzder, pájecích míst a schematických značek (Pool)}
-\label{\detokenize{pool_cz:fond-knihovny-soucastek-pouzder-pajecich-mist-a-schematickych-znacek-pool}}\label{\detokenize{pool_cz::doc}}
+\label{\detokenize{pool:fond-knihovny-soucastek-pouzder-pajecich-mist-a-schematickych-znacek-pool}}\label{\detokenize{pool::doc}}
 Co to vlastně je fond knihovny součástek (Pool)? Pro funkci programu je potřeba organizovat mnoho souborů pouzder součástek, symbolů a podobných v jakýchsi knihovnách. (Moje) zkušenost ukázala, že jsou často chaotické a správa verzí je obtížná, protože mnoho nezávislých částí definic je vloženo do jednoho souboru. Zejména toto ztěžuje spolupráci.
 
 V Horizonu-EDA neexistují knihovny. Místo toho všechny neprojektové součásti (symboly atd.) jsou umístěny do jednoho fondu (repozitáře). Stejně jako přístup do „centrální knihovny“, která je běžnější spíše ve firemních programech pro tvorbu desek plošných spojů. I když si můžete vytvořit svůj vlastní fond, důrazně se doporučuje používat tento fond
@@ -1060,7 +1060,7 @@ správné hlavní složce. Je důležité, aby soubory měli příponu „.json�
 
 
 \section{Struktura fondu}
-\label{\detokenize{pool_cz:struktura-fondu}}
+\label{\detokenize{pool:struktura-fondu}}
 Pro pochopení souvislostí jednotlivých souborů ve fondu je nutné pochopit jejich strukturu, která je na níže uvedeném obrázku, nebo v případě nečitelnosti je možno ji vidět
 \sphinxhref{https://github.com/carrotIndustries/horizon/blob/master/doc/pool.pdf}{zde}
 
@@ -1068,28 +1068,28 @@ Pro pochopení souvislostí jednotlivých souborů ve fondu je nutné pochopit j
 
 
 \subsection{Součástky (Parts)}
-\label{\detokenize{pool_cz:soucastky-parts}}
+\label{\detokenize{pool:soucastky-parts}}
 Na vrcholu struktury fondu je součástka (Part). Chcete-li se vyhnout zdvojení,
 součástka může zdědit svoji definici z jiné součástky. To je určeno pro použití ve skupině součástí, které se liší pouze v některých vlastnostech jako odpor nebo výstupní napětí pro pevné regulátory napětí. Každá součástka může být doplněna parametrickými daty, aby bylo vyhledávání snadnější. Tato funkce je zatím ve vývoji, protože není k dispozici žádné uživatelské rozhraní pro součástky založené na parametrických datech. Součástky také obsahují mapování Entity vývodů k pájecím obrazcům pouzder.
 
 
 \subsection{Pouzdra (Packages)}
-\label{\detokenize{pool_cz:pouzdra-packages}}
+\label{\detokenize{pool:pouzdra-packages}}
 Pouzdro definuje průmět (otisk) půdorysného tvaru součásti na desku plošného spoje. Pokud výrobce součástky
 definuje doporučený tvar průmětu, použijte tento. Používejte pouze
 obecné pouzdra, pokud odpovídající neexistují. Podrobnosti o pouzdrech viz.
-{\hyperref[\detokenize{create-package_cz::doc}]{\sphinxcrossref{\DUrole{doc}{Vytvoření pouzdra součástky}}}}.
+{\hyperref[\detokenize{create-package::doc}]{\sphinxcrossref{\DUrole{doc}{Vytvoření pouzdra součástky}}}}.
 
 
 \subsection{Entity (Entities)}
-\label{\detokenize{pool_cz:entity-entities}}
+\label{\detokenize{pool:entity-entities}}
 Entita je reprezentace součásti v seznamu spojů (netlist). Díly, které jsou logicky
 stejné jako např. různé typy konektorů USB proto mohou všechny sdílet
 stejnou entitu, např. „USB konektor se stíněním a ID“. Vlastní součástky se sestávají z jedné nebo více Jednotek (Units).
 
 
 \subsection{Jednotky (Units)}
-\label{\detokenize{pool_cz:jednotky-units}}
+\label{\detokenize{pool:jednotky-units}}
 Jednotka ve skutečnosti definuje logické vývody součástky. Pouze pro součástky, které
 sestávají z jednoho celku „gate“ jako např. regulátory napětí, jejich entity jednoduše
 odkazují na jednu jednotku (Unit). Pro části sestávající z více celků „gate“ jako
@@ -1099,32 +1099,32 @@ stejnou jednotkou. Předpokládá se tedy, že entita jednoho logického celku �
 
 
 \subsection{Symboly (Symbols)}
-\label{\detokenize{pool_cz:symboly-symbols}}
+\label{\detokenize{pool:symboly-symbols}}
 Symbol se používá ve schématu k reprezentaci jednotky. Na rozdíl od jiných
 EDA aplikací, symbol právě zobrazuje vývody z jeho jednotky a nedefinuje je.
 
 
 \chapter{Správce fondu (Pool manager)}
-\label{\detokenize{pool-mgr_cz:spravce-fondu-pool-manager}}\label{\detokenize{pool-mgr_cz::doc}}
+\label{\detokenize{pool-mgr:spravce-fondu-pool-manager}}\label{\detokenize{pool-mgr::doc}}
 Správce fondu a Průvodce součástí pomáhají se správou komponent jako jsou symboly, entity a součástky ve fondu. Pravděpodobně budete používat Správce fondu pro vytváření nových dílů. Chcete-li otevřít správce fondu, spusťte \sphinxcode{\sphinxupquote{horizon-eda}} ({}`{}` .exe{}`{}`) a vyhledejte soubor pool.json fondu, který
 chcete upravit. Podle toho, jakou komponentu chcete vytvořit, je k dispozici několik pracovních postupů:
 
 
 \section{Zdědění nové součásti z existující součásti}
-\label{\detokenize{pool-mgr_cz:zdedeni-nove-soucasti-z-existujici-soucasti}}
+\label{\detokenize{pool-mgr:zdedeni-nove-soucasti-z-existujici-soucasti}}
 Když součástka, kterou se chystáte vytvořit, již existuje v jiné variantě (jiná hodnota, nebo jiný teplotní rozsah), ale jinak shodná, tak by nová součástka měla být zděděna ze stávající součástky. Chcete-li to provést, vyberte požadovanou základní součástku na záložce „Parts“ a klikněte na „Create Part from Part“. Po zadání umístění souboru nové součástky se zobrazí Editor součástek. Zrušte zaškrtnutí možnosti „zdědit“ (inherit) pro atributy, které chcete změnit a uložte novou součástku.
 
 
 \section{Vytvoření nové součásti ze stávající entity}
-\label{\detokenize{pool-mgr_cz:vytvoreni-nove-soucasti-ze-stavajici-entity}}
+\label{\detokenize{pool-mgr:vytvoreni-nove-soucasti-ze-stavajici-entity}}
 Tento pracovní postup je vhodný, pokud již entita pro novou součást
-existuje. Odpory nebo LED v nestandardních pouzdrech jsou typickým příkladem. Pro vytvoření nového pouzdra viz {\hyperref[\detokenize{create-package_cz::doc}]{\sphinxcrossref{\DUrole{doc}{Vytvoření pouzdra součástky}}}}. Na záložce „Parts“ klikněte na „Create Part“ pro vytvoření nové součásti. Potom zadejte entitu, pouzdro a umístění souboru součástky, kterou můžete pozměnit a mapovat pájecí místa na vývody v Editoru součástí.
+existuje. Odpory nebo LED v nestandardních pouzdrech jsou typickým příkladem. Pro vytvoření nového pouzdra viz {\hyperref[\detokenize{create-package::doc}]{\sphinxcrossref{\DUrole{doc}{Vytvoření pouzdra součástky}}}}. Na záložce „Parts“ klikněte na „Create Part“ pro vytvoření nové součásti. Potom zadejte entitu, pouzdro a umístění souboru součástky, kterou můžete pozměnit a mapovat pájecí místa na vývody v Editoru součástí.
 
 
 \section{Vytvoření zcela nové součásti}
-\label{\detokenize{pool-mgr_cz:vytvoreni-zcela-nove-soucasti}}
+\label{\detokenize{pool-mgr:vytvoreni-zcela-nove-soucasti}}
 Mnoho součástek, jako jsou mikroprocesory (MCU), FPGA, ADC a další zázraky dnešního světa
-vyžadují vytvoření nových jednotek a entit. To by bylo manuálně velmi zdlouhavé, v tomto vám může pomoci průvodce součástí (Part Wizard). Poté, co vyberete pouzdro součástky (pro vytváření pouzder součástek viz {\hyperref[\detokenize{create-package_cz::doc}]{\sphinxcrossref{\DUrole{doc}{Vytvoření pouzdra součástky}}}}) na záložce „Packages“ klikněte na „Part Wizard…“. Budete uvítáni seznamem všech pájecích míst pouzdra.
+vyžadují vytvoření nových jednotek a entit. To by bylo manuálně velmi zdlouhavé, v tomto vám může pomoci průvodce součástí (Part Wizard). Poté, co vyberete pouzdro součástky (pro vytváření pouzder součástek viz {\hyperref[\detokenize{create-package::doc}]{\sphinxcrossref{\DUrole{doc}{Vytvoření pouzdra součástky}}}}) na záložce „Packages“ klikněte na „Part Wizard…“. Budete uvítáni seznamem všech pájecích míst pouzdra.
 
 Vyplňte názvy vývodů podle katalogového listu součástky. Vložte pouze primární jméno vývodu (např. PB5) na MCU do sloupce zcela vlevo a vložte všechny ostatní názvy (jako UART0\_TX, TA0) oddělené mezerou do sloupce „Alt. names“. Pokud je vaše součástka \sphinxstyleemphasis{opravdu} velká (jako FPGA nebo velký MCU), může potřebovat, aby se ve schématu zobrazil více než jeden symbol. Vyberte všechny vývody, které chcete mít se stejným symbolem a typem v alternativním názvu vývodu. V případě, že je více podložek elektricky identických (např
 několik vývodů GND), můžete je seskupit jejich výběrem a kliknutím na
@@ -1170,7 +1170,7 @@ kliknutím na „Finish“ konečně vložíte součást do fondu.
 
 
 \section{Kam ukládat komponenty}
-\label{\detokenize{pool-mgr_cz:kam-ukladat-komponenty}}
+\label{\detokenize{pool-mgr:kam-ukladat-komponenty}}
 Při vytváření nových symbolů, součástek a podobně správce fondu / průvodce  tvorbou součástek vás dříve nebo později požádá o název souboru nebo složky (v
 v případě pouzder) k uložení nové součástky. Technicky, vámi specifikovaná cesta pouze musí splňovat dva požadavky:
 \begin{itemize}
@@ -1191,7 +1191,7 @@ Pro získání představy jak to všechno prakticky vypadá se podívejte do ve�
 
 
 \section{Databáze fondu}
-\label{\detokenize{pool-mgr_cz:databaze-fondu}}
+\label{\detokenize{pool-mgr:databaze-fondu}}
 Fond uchovává údaje (názvy souborů, UUID, jména atd.) V SQLite
 databázi usnadňující vyhledávání. Normálně si správce fondu aktualizuje
 databázi pokaždé, když se něco změní. Nicméně, pokud
@@ -1200,21 +1200,21 @@ Pool) databázi, která zahrne provedené změny.
 
 
 \section{Integrace GitHub}
-\label{\detokenize{pool-mgr_cz:integrace-github}}
+\label{\detokenize{pool-mgr:integrace-github}}
 Aby integrace GitHub fungovala, musí být fond stažen pomocí
 tlačítka „Download…“ na úvodní stránce správce fondu. Správce fondu naklonuje veřejný fond do složkye \sphinxcode{\sphinxupquote{.remote}} v systému vašeho místního fondu. Pokud vše půjde dobře, neměli byste nikdy zasahovat do této složky. K dispozici jsou dvě operace pro uchování vaší místní kopie
 aktuální a zahrnutí vašich součástek do veřejného fondu
 
 
 \subsection{Aktualizace fondu}
-\label{\detokenize{pool-mgr_cz:aktualizace-fondu}}
+\label{\detokenize{pool-mgr:aktualizace-fondu}}
 Tento příkaz aktualizuje vaše kopie globálního fondu ve složce \sphinxcode{\sphinxupquote{.remote}}
 od posledního potvrzení a zeptá se vás, jaké změny chcete
 použít ve vašem místním fondu.
 
 
 \subsection{Vytvoření žádosti o zahrnutí součástek do veřejného fondu}
-\label{\detokenize{pool-mgr_cz:vytvoreni-zadosti-o-zahrnuti-soucastek-do-verejneho-fondu}}
+\label{\detokenize{pool-mgr:vytvoreni-zadosti-o-zahrnuti-soucastek-do-verejneho-fondu}}
 Nejprve přidejte součástky / entity / atd. do seznamu „items to be merged“,
 poté vyplňte název a tělo žádosti o zahrnutí. Správce fondu bude
 automaticky přidávat položky, které jsou nutné, aby nebyly porušeny závislosti. Takže když
@@ -1225,18 +1225,18 @@ pull request“. Budete vyzváni k zadání přihlašovacích údajů pro server
 
 
 \chapter{Zpětné úpravy (Backanotation)}
-\label{\detokenize{backannotation_cz:zpetne-upravy-backanotation}}\label{\detokenize{backannotation_cz::doc}}
+\label{\detokenize{backannotation:zpetne-upravy-backanotation}}\label{\detokenize{backannotation::doc}}
 Někdy můžete potřebovat propojit vývody součástek na základě jejich
 umístění na desce, jako například konektory nebo vývody FPGA. Nebylo by krásné, pokud by jste mohli definovat tato spojení přímo v editoru desky bez přechodu tam a zpět mezi editory desky a  schémat pro každý spoj? S Horizonem-EDA je to možné!
 
 
 \section{Jak na to}
-\label{\detokenize{backannotation_cz:jak-na-to}}
+\label{\detokenize{backannotation:jak-na-to}}
 Pomocí nástroje „Draw connection line“ (spustit přes mezerník) propojte jednotlivá pájecí místa (plošky), které požadujete propojit. Potom použijte funkci „Backannotate connection lines“ pro zpětnou změnu v editoru schemat. Nově vytvořená připojení se zobrazí jako prázdné štítky nového přerušeného spoje. Po uložení schématu a aktualizaci seznamu spojů (Reload netlist) v editoru desky, budou spoje automaticky nahrazeny naznačenými spoji, které je nutno následně ručně propojit stopou mědi. Pozn. Pro správnou činnost této funkce je nutné mít spuštěn editor desky a editor schemat současně.
 
 
 \section{Omezení}
-\label{\detokenize{backannotation_cz:omezeni}}
+\label{\detokenize{backannotation:omezeni}}
 Protože tato funkce není přidána příliš dlouho, některé možnosti nejsou zatím podporovány:
 \begin{itemize}
 \item {} 

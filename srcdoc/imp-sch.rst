@@ -7,7 +7,7 @@ Editor schémat
 
 
 
-Chcete-li spustit editor schémat, klikněte v manažeru projektu na „Top Schematic“. Podobně jako jiné grafické editory, schematický editor v Horizon-EDA je založen na :doc:`Interaktivním manipulátoru <imp_cz>`. Chcete-li umístit součástky, použijte příkaz „Place part“ nebo prohlížeč součástí v hlavním projektu. Ten je mnohem pohodlnější, protože může být trvale otevřený. Začněte kreslit propojení (vodiče) schematu stisknutím Klávesy „n“.
+Chcete-li spustit editor schémat, klikněte v manažeru projektu na „Top Schematic“. Podobně jako jiné grafické editory, schematický editor v Horizon-EDA je založen na :doc:`Interaktivním manipulátoru <imp>`. Chcete-li umístit součástky, použijte příkaz „Place part“ nebo prohlížeč součástí v hlavním projektu. Ten je mnohem pohodlnější, protože může být trvale otevřený. Začněte kreslit propojení (vodiče) schematu stisknutím Klávesy „n“.
 
 Spoje a segmenty spojů (Nets)
 -----------------------------
@@ -48,4 +48,4 @@ Snímek obrazovky
 ----------------
 
 .. figure:: images/imp-sch.png
-   :alt: imp-sch_cz
+   :alt: imp-sch

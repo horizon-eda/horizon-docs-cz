@@ -2,7 +2,7 @@ Editor desky plošných spojů DPS (PCB)
 =====================================
 .. imp-board.rst
 
-Chcete-li spustit editor desky plošných spojů (dále jen desky), klikněte na „Board“ ve správci projektu. Stejně jako všechny ostatní grafické editory je i editor desky v Horizon-EDA založen na :doc:`Interaktivním manipulátoru <imp_cz>`
+Chcete-li spustit editor desky plošných spojů (dále jen desky), klikněte na „Board“ ve správci projektu. Stejně jako všechny ostatní grafické editory je i editor desky v Horizon-EDA založen na :doc:`Interaktivním manipulátoru <imp>`
 
 Editor desky si udržuje interní kopii seznamu spojů (netlist). Chcete-li aktualizovat
 seznam spojů, stiskněte „Save“ (Uložit) v editoru schémat pro zápis seznamu spojů na
