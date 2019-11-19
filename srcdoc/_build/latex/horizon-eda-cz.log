@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.10.5)  17 NOV 2019 20:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.10.5)  19 NOV 2019 22:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -824,251 +824,680 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 ] (./horizon-eda-cz.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
-)
+ [1
+
+])
 \tf@toc=\write6
 \openout6 = `horizon-eda-cz.toc'.
 
- [1
-
-] [2
-
-]
-<collage.png, id=116, 1757.56625pt x 1125.20375pt>
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 87.
+ [2]
+<collage.png, id=198, 1757.56625pt x 1125.20375pt>
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 91.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 File: collage.png Graphic file (type png)
 <use collage.png>
-Package pdftex.def Info: collage.png  used on input line 87.
+Package pdftex.def Info: collage.png  used on input line 91.
 (pdftex.def)             Requested size: 469.75502pt x 300.7358pt.
- [1 <./collage.png>]
+ [1
+
+ <./collage.png>]
 [2
 
 ]
 Kapitola 1.
+[3] [4]
+Kapitola 2.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 93.
-<pool-mgr.png, id=130, 996.72375pt x 470.75874pt>
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 185.
+<pool-mgr.png, id=224, 978.65625pt x 359.09157pt>
 File: pool-mgr.png Graphic file (type png)
 <use pool-mgr.png>
-Package pdftex.def Info: pool-mgr.png  used on input line 97.
-(pdftex.def)             Requested size: 469.75502pt x 221.8672pt.
-<part-editor.png, id=131, 909.3975pt x 649.42625pt>
+Package pdftex.def Info: pool-mgr.png  used on input line 189.
+(pdftex.def)             Requested size: 469.75502pt x 172.36746pt.
+<part-editor.png, id=225, 909.3975pt x 649.42625pt>
 File: part-editor.png Graphic file (type png)
 <use part-editor.png>
-Package pdftex.def Info: part-editor.png  used on input line 101.
+Package pdftex.def Info: part-editor.png  used on input line 193.
 (pdftex.def)             Requested size: 469.75502pt x 335.46407pt.
-[3 <./pool-mgr.png>]
-<part-wiz-pads.png, id=138, 842.14626pt x 497.86pt>
+[5
+
+ <./pool-mgr.png (PNG copy)>]
+<part-wiz-pads.png, id=231, 842.14626pt x 497.86pt>
 File: part-wiz-pads.png Graphic file (type png)
 <use part-wiz-pads.png>
-Package pdftex.def Info: part-wiz-pads.png  used on input line 108.
+Package pdftex.def Info: part-wiz-pads.png  used on input line 200.
 (pdftex.def)             Requested size: 469.75502pt x 277.71336pt.
- [4 <./part-editor.png>]
-<net_merge.png, id=144, 575.14874pt x 465.74pt>
+ [6 <./part-editor.png>]
+<net_merge.png, id=237, 575.14874pt x 465.74pt>
 File: net_merge.png Graphic file (type png)
 <use net_merge.png>
-Package pdftex.def Info: net_merge.png  used on input line 119.
+Package pdftex.def Info: net_merge.png  used on input line 211.
 (pdftex.def)             Requested size: 469.75502pt x 380.40266pt.
- [5 <./part-wiz-pads.png>]
-<net.png, id=150, 152.2488pt x 139.722pt>
+ [7 <./part-wiz-pads.png>]
+<net.png, id=243, 152.2488pt x 139.722pt>
 File: net.png Graphic file (type png)
 <use net.png>
-Package pdftex.def Info: net.png  used on input line 123.
+Package pdftex.def Info: net.png  used on input line 215.
 (pdftex.def)             Requested size: 152.24841pt x 139.72165pt.
-<text-align.png, id=151, 492.84125pt x 471.7625pt>
+<text-align.png, id=244, 492.84125pt x 471.7625pt>
 File: text-align.png Graphic file (type png)
 <use text-align.png>
-Package pdftex.def Info: text-align.png  used on input line 128.
+Package pdftex.def Info: text-align.png  used on input line 220.
 (pdftex.def)             Requested size: 469.75502pt x 449.6835pt.
- [6 <./net_merge.png> <./net.png>]
-<buses.png, id=158, 609.27625pt x 436.63126pt>
+ [8 <./net_merge.png> <./net.png>]
+<buses.png, id=251, 609.27625pt x 436.63126pt>
 File: buses.png Graphic file (type png)
 <use buses.png>
-Package pdftex.def Info: buses.png  used on input line 132.
+Package pdftex.def Info: buses.png  used on input line 224.
 (pdftex.def)             Requested size: 469.75502pt x 336.65349pt.
- [7 <./text-align.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 137--139
+ [9 <./text-align.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 229--231
 []\T1/ptm/m/n/10 stane hra£kou.
  []
 
-<routing.png, id=163, 1081.03876pt x 507.8975pt>
+<routing.png, id=257, 1081.03876pt x 507.8975pt>
 File: routing.png Graphic file (type png)
 <use routing.png>
-Package pdftex.def Info: routing.png  used on input line 142.
+Package pdftex.def Info: routing.png  used on input line 234.
 (pdftex.def)             Requested size: 469.75502pt x 220.70113pt.
-[8 <./buses.png> <./routing.png (PNG copy)>]
-<rules.png, id=169, 1399.2275pt x 454.69875pt>
+[10 <./buses.png> <./routing.png (PNG copy)>]
+<rules.png, id=263, 1399.2275pt x 454.69875pt>
 File: rules.png Graphic file (type png)
 <use rules.png>
-Package pdftex.def Info: rules.png  used on input line 150.
+Package pdftex.def Info: rules.png  used on input line 242.
 (pdftex.def)             Requested size: 469.75502pt x 152.65285pt.
-<drc.png, id=170, 915.42pt x 411.5375pt>
+<drc.png, id=264, 915.42pt x 411.5375pt>
 File: drc.png Graphic file (type png)
 <use drc.png>
-Package pdftex.def Info: drc.png  used on input line 155.
+Package pdftex.def Info: drc.png  used on input line 247.
 (pdftex.def)             Requested size: 469.75502pt x 211.18121pt.
-<fab-out.png, id=171, 799.98875pt x 680.5425pt>
+<fab-out.png, id=265, 799.98875pt x 680.5425pt>
 File: fab-out.png Graphic file (type png)
 <use fab-out.png>
-Package pdftex.def Info: fab-out.png  used on input line 163.
+Package pdftex.def Info: fab-out.png  used on input line 255.
 (pdftex.def)             Requested size: 469.75502pt x 399.61627pt.
- [9 <./rules.png> <./drc.png>]
-<3d.png, id=180, 866.23625pt x 456.70625pt>
+ [11 <./rules.png> <./drc.png>]
+<3d.png, id=272, 866.23625pt x 456.70625pt>
 File: 3d.png Graphic file (type png)
 <use 3d.png>
-Package pdftex.def Info: 3d.png  used on input line 170.
+Package pdftex.def Info: 3d.png  used on input line 262.
 (pdftex.def)             Requested size: 469.75502pt x 247.66998pt.
 
-[10 <./fab-out.png>]
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 175.
+[12 <./fab-out.png>]
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 267.
 
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [11 <./3d.png>] [12
-
-]
-Kapitola 2.
-[13] [14
+) [13 <./3d.png>] [14
 
 ]
 Kapitola 3.
-<imp-brd.png, id=208, 1002.74625pt x 666.49pt>
-File: imp-brd.png Graphic file (type png)
-<use imp-brd.png>
-Package pdftex.def Info: imp-brd.png  used on input line 264.
-(pdftex.def)             Requested size: 469.75502pt x 312.23337pt.
-[15] [16 <./imp-brd.png (PNG copy)>]
+[15] [16]
 Kapitola 4.
-<hamburger.png, id=224, 20.075pt x 16.06pt>
-File: hamburger.png Graphic file (type png)
-<use hamburger.png>
-Package pdftex.def Info: hamburger.png  used on input line 283.
-(pdftex.def)             Requested size: 9.41013pt x 7.52808pt.
 [17
 
- <./hamburger.png>]
-<imp-sch.png, id=232, 1284.8pt x 677.53125pt>
-File: imp-sch.png Graphic file (type png)
-<use imp-sch.png>
-Package pdftex.def Info: imp-sch.png  used on input line 308.
-(pdftex.def)             Requested size: 469.75502pt x 247.71555pt.
- [18 <./imp-sch.png>]
-Kapitola 5.
-[19
-
-] [20]
-Kapitola 6.
-[21
+] [18
 
 ]
-LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <9> not available
-(Font)              Font shape `T1/pcr/b/n' tried instead on input line 477.
- [22]
-Kapitola 7.
-[23
+Kapitola 5.
+[19] [20
 
-] [24
+]
+Kapitola 6.
+<prj-mgr.png, id=329, 849.92531pt x 588.69937pt>
+File: prj-mgr.png Graphic file (type png)
+<use prj-mgr.png>
+Package pdftex.def Info: prj-mgr.png  used on input line 389.
+(pdftex.def)             Requested size: 469.75502pt x 325.37561pt.
+[21 <./prj-mgr.png (PNG copy)>]
+<pool-prefs.png, id=335, 904.88063pt x 377.91188pt>
+File: pool-prefs.png Graphic file (type png)
+<use pool-prefs.png>
+Package pdftex.def Info: pool-prefs.png  used on input line 397.
+(pdftex.def)             Requested size: 469.75502pt x 196.18661pt.
+<project-dialogue.png, id=336, 822.07124pt x 359.09157pt>
+File: project-dialogue.png Graphic file (type png)
+<use project-dialogue.png>
+Package pdftex.def Info: project-dialogue.png  used on input line 403.
+(pdftex.def)             Requested size: 469.75502pt x 205.19388pt.
+<project-manager.png, id=337, 825.83531pt x 365.11406pt>
+File: project-manager.png Graphic file (type png)
+<use project-manager.png>
+Package pdftex.def Info: project-manager.png  used on input line 407.
+(pdftex.def)             Requested size: 469.75502pt x 207.68819pt.
+ [22 <./pool-prefs.png> <./project-dialogue.png>] [23 <./project-manager.png>] 
+[24
+
+]
+Kapitola 7.
+<project-menu-select-top-schematic.png, id=353, 464.4853pt x 77.53969pt>
+File: project-menu-select-top-schematic.png Graphic file (type png)
+<use project-menu-select-top-schematic.png>
+Package pdftex.def Info: project-menu-select-top-schematic.png  used on input l
+ine 418.
+(pdftex.def)             Requested size: 464.48418pt x 77.53947pt.
+<part-browser.png, id=354, 650.43pt x 310.91156pt>
+File: part-browser.png Graphic file (type png)
+<use part-browser.png>
+Package pdftex.def Info: part-browser.png  used on input line 425.
+(pdftex.def)             Requested size: 469.75502pt x 224.55353pt.
+[25 <./project-menu-select-top-schematic.png>]
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.432 ...ent\sphinxincludegraphics{{draw-net}.gif}
+                                                  
+? 
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.432 ...ent\sphinxincludegraphics{{draw-net}.gif}
+                                                  
+? 
+
+Package textcomp Warning: Symbol \textleftarrow not provided by
+(textcomp)                font family pcr in TS1 encoding.
+(textcomp)                Default family used instead on input line 1.
+
+
+Package textcomp Warning: Symbol \textuparrow not provided by
+(textcomp)                font family pcr in TS1 encoding.
+(textcomp)                Default family used instead on input line 1.
+
+
+Package textcomp Warning: Symbol \textdownarrow not provided by
+(textcomp)                font family pcr in TS1 encoding.
+(textcomp)                Default family used instead on input line 1.
+
+<schematic-powernets-menu.png, id=361, 382.42876pt x 325.96782pt>
+File: schematic-powernets-menu.png Graphic file (type png)
+<use schematic-powernets-menu.png>
+Package pdftex.def Info: schematic-powernets-menu.png  used on input line 446.
+(pdftex.def)             Requested size: 382.42781pt x 325.96701pt.
+[26 <./part-browser.png>]
+<annotation.png, id=372, 645.91313pt x 460.72125pt>
+File: annotation.png Graphic file (type png)
+<use annotation.png>
+Package pdftex.def Info: annotation.png  used on input line 457.
+(pdftex.def)             Requested size: 469.75502pt x 335.07237pt.
+ [27 <./schematic-powernets-menu.png>]
+<annotation-after.png, id=379, 645.91313pt x 460.72125pt>
+File: annotation-after.png Graphic file (type png)
+<use annotation-after.png>
+Package pdftex.def Info: annotation-after.png  used on input line 461.
+(pdftex.def)             Requested size: 469.75502pt x 335.07237pt.
+ [28 <./annotation.png (PNG copy)>] [29 <./annotation-after.png (PNG copy)>] [3
+0
 
 ]
 Kapitola 8.
-[25] [26]
+<project-menu-select-board.png, id=393, 506.6428pt x 85.06781pt>
+File: project-menu-select-board.png Graphic file (type png)
+<use project-menu-select-board.png>
+Package pdftex.def Info: project-menu-select-board.png  used on input line 472.
+
+(pdftex.def)             Requested size: 469.75502pt x 78.87599pt.
+<outline.png, id=394, 706.13812pt x 393.72093pt>
+File: outline.png Graphic file (type png)
+<use outline.png>
+Package pdftex.def Info: outline.png  used on input line 479.
+(pdftex.def)             Requested size: 469.75502pt x 261.92326pt.
+[31 <./project-menu-select-board.png>]
+<place-parts.png, id=400, 825.0825pt x 537.50812pt>
+File: place-parts.png Graphic file (type png)
+<use place-parts.png>
+Package pdftex.def Info: place-parts.png  used on input line 488.
+(pdftex.def)             Requested size: 469.75502pt x 306.03014pt.
+ [32 <./outline.png>]
+<add-plane.png, id=406, 1040.38687pt x 502.87875pt>
+File: add-plane.png Graphic file (type png)
+<use add-plane.png>
+Package pdftex.def Info: add-plane.png  used on input line 514.
+(pdftex.def)             Requested size: 469.75502pt x 227.06067pt.
+ [33 <./place-parts.png>]
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.518 ...\sphinxincludegraphics{{plane-style}.gif}
+                                                  
+? 
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.518 ...\sphinxincludegraphics{{plane-style}.gif}
+                                                  
+? 
+<3d-view.png, id=417, 695.59875pt x 298.86656pt>
+File: 3d-view.png Graphic file (type png)
+<use 3d-view.png>
+Package pdftex.def Info: 3d-view.png  used on input line 533.
+(pdftex.def)             Requested size: 469.75502pt x 201.8311pt.
+[34 <./add-plane.png> <./3d-view.png>] [35] [36
+
+]
 Kapitola 9.
-<groups-tags.png, id=297, 688.07062pt x 298.86656pt>
-File: groups-tags.png Graphic file (type png)
-<use groups-tags.png>
-Package pdftex.def Info: groups-tags.png  used on input line 618.
-(pdftex.def)             Requested size: 469.75502pt x 204.0383pt.
-[27
+[37] [38
 
-] [28 <./groups-tags.png>]
+]
 Kapitola 10.
-[29
-
-] [30] [31] [32]
-Kapitola 11.
-[33
-
-]
-LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <9> not available
-(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 875.
- [34]
-Kapitola 12.
-[35
-
-]
-<prj-mgr.png, id=370, 629.35126pt x 460.72125pt>
-File: prj-mgr.png Graphic file (type png)
-<use prj-mgr.png>
-Package pdftex.def Info: prj-mgr.png  used on input line 943.
-(pdftex.def)             Requested size: 469.75502pt x 343.88803pt.
-<pool-prefs.png, id=371, 303.1325pt x 350.30875pt>
-File: pool-prefs.png Graphic file (type png)
-<use pool-prefs.png>
-Package pdftex.def Info: pool-prefs.png  used on input line 949.
-(pdftex.def)             Requested size: 303.13176pt x 350.30789pt.
- [36 <./prj-mgr.png (PNG copy)>] [37 <./pool-prefs.png>] [38
-
-]
-Kapitola 13.
 [39] [40
 
 ]
-Kapitola 14.
-[41] [42]
-Kapitola 15.
-<canvas-r.png, id=414, 230.7822pt x 482.0409pt>
-File: canvas-r.png Graphic file (type png)
-<use canvas-r.png>
-Package pdftex.def Info: canvas-r.png  used on input line 1067.
-(pdftex.def)             Requested size: 311.55661pt x 650.75653pt.
-[43
+Kapitola 11.
 
-] [44 <./canvas-r.png>] [45] [46
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.591 ...includegraphics{{spacebar_schematic}.gif}
+                                                  
+? 
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.591 ...includegraphics{{spacebar_schematic}.gif}
+                                                  
+? 
+[41] [42
+
+]
+Kapitola 12.
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.606 \noindent\sphinxincludegraphics{{grid}.gif}
+                                                 
+? 
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.606 \noindent\sphinxincludegraphics{{grid}.gif}
+                                                 
+? 
+<board-appearance.png, id=465, 346.29375pt x 353.82187pt>
+File: board-appearance.png Graphic file (type png)
+<use board-appearance.png>
+Package pdftex.def Info: board-appearance.png  used on input line 612.
+(pdftex.def)             Requested size: 346.2929pt x 353.821pt.
+[43] [44 <./board-appearance.png>]
+Kapitola 13.
+<entry.png, id=475, 42.3984pt x 10.1178pt>
+File: entry.png Graphic file (type png)
+<use entry.png>
+Package pdftex.def Info: entry.png  used on input line 623.
+(pdftex.def)             Requested size: 42.39828pt x 10.11777pt.
+[45
+
+ <./entry.png>] [46
+
+]
+Kapitola 14.
+<drawing-commands.png, id=487, 715.92468pt x 252.945pt>
+File: drawing-commands.png Graphic file (type png)
+<use drawing-commands.png>
+Package pdftex.def Info: drawing-commands.png  used on input line 644.
+(pdftex.def)             Requested size: 469.75502pt x 165.97159pt.
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.664 ...nt\sphinxincludegraphics{{draw-line}.gif}
+                                                  
+? 
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.664 ...nt\sphinxincludegraphics{{draw-line}.gif}
+                                                  
+? 
+[47 <./drawing-commands.png>]
+<draw-line-action-bar.png, id=493, 641.39626pt x 133.24782pt>
+File: draw-line-action-bar.png Graphic file (type png)
+<use draw-line-action-bar.png>
+Package pdftex.def Info: draw-line-action-bar.png  used on input line 670.
+(pdftex.def)             Requested size: 469.75502pt x 97.59132pt.
+
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.677 ...ncludegraphics{{draw-line-rectangle}.gif}
+                                                  
+? 
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.677 ...ncludegraphics{{draw-line-rectangle}.gif}
+                                                  
+? 
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.684 ...ent\sphinxincludegraphics{{draw-arc}.gif}
+                                                  
+? 
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.684 ...ent\sphinxincludegraphics{{draw-arc}.gif}
+                                                  
+? 
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.691 ...ludegraphics{{draw_polygon_with_arc}.gif}
+                                                  
+? 
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.691 ...ludegraphics{{draw_polygon_with_arc}.gif}
+                                                  
+? 
+[48 <./draw-line-action-bar.png>] [49] [50
+
+]
+Kapitola 15.
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.730 ...nt\sphinxincludegraphics{{selection}.gif}
+                                                  
+? 
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.730 ...nt\sphinxincludegraphics{{selection}.gif}
+                                                  
+? 
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.740 ...hinxincludegraphics{{selection-mode}.gif}
+                                                  
+? 
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.740 ...hinxincludegraphics{{selection-mode}.gif}
+                                                  
+? 
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.747 ...nxincludegraphics{{selection-filter}.gif}
+                                                  
+? 
+
+! LaTeX Error: Unknown graphics extension: .gif.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.747 ...nxincludegraphics{{selection-filter}.gif}
+                                                  
+? 
+[51] [52
 
 ]
 Kapitola 16.
-[47] [48] [49] [50
+
+Package textcomp Warning: Symbol \textleftarrow not provided by
+(textcomp)                font family pcr in TS1 encoding.
+(textcomp)                Default family used instead on input line 1.
+
+
+Package textcomp Warning: Symbol \textuparrow not provided by
+(textcomp)                font family pcr in TS1 encoding.
+(textcomp)                Default family used instead on input line 1.
+
+
+Package textcomp Warning: Symbol \textdownarrow not provided by
+(textcomp)                font family pcr in TS1 encoding.
+(textcomp)                Default family used instead on input line 1.
+
+[53] [54]
+Kapitola 17.
+<layers.png, id=539, 59.2614pt x 126.4725pt>
+File: layers.png Graphic file (type png)
+<use layers.png>
+Package pdftex.def Info: layers.png  used on input line 790.
+(pdftex.def)             Requested size: 59.26123pt x 126.47218pt.
+[55
+
+ <./layers.png>] [56
 
 ]
-Kapitola 17.
+Kapitola 18.
+<hamburger.png, id=548, 20.075pt x 16.06pt>
+File: hamburger.png Graphic file (type png)
+<use hamburger.png>
+Package pdftex.def Info: hamburger.png  used on input line 830.
+(pdftex.def)             Requested size: 9.41013pt x 7.52808pt.
+[57 <./hamburger.png>]
+<imp-sch.png, id=557, 1284.8pt x 677.53125pt>
+File: imp-sch.png Graphic file (type png)
+<use imp-sch.png>
+Package pdftex.def Info: imp-sch.png  used on input line 855.
+(pdftex.def)             Requested size: 469.75502pt x 247.71555pt.
+ [58 <./imp-sch.png>]
+Kapitola 19.
+<imp-brd.png, id=567, 1002.74625pt x 666.49pt>
+File: imp-brd.png Graphic file (type png)
+<use imp-brd.png>
+Package pdftex.def Info: imp-brd.png  used on input line 887.
+(pdftex.def)             Requested size: 469.75502pt x 312.23337pt.
+[59
+
+] [60 <./imp-brd.png (PNG copy)>]
+Kapitola 20.
+<groups-tags.png, id=580, 688.07062pt x 298.86656pt>
+File: groups-tags.png Graphic file (type png)
+<use groups-tags.png>
+Package pdftex.def Info: groups-tags.png  used on input line 907.
+(pdftex.def)             Requested size: 469.75502pt x 204.0383pt.
+[61
+
+] [62 <./groups-tags.png>]
+Kapitola 21.
+[63
+
+] [64
+
+]
+Kapitola 22.
+[65] [66
+
+]
+Kapitola 23.
+<pool_diagramm_full.png, id=617, 879.285pt x 901.3675pt>
+File: pool_diagramm_full.png Graphic file (type png)
+<use pool_diagramm_full.png>
+Package pdftex.def Info: pool_diagramm_full.png  used on input line 979.
+(pdftex.def)             Requested size: 469.75502pt x 481.54604pt.
+[67] [68 <./pool_diagramm_full.png>] [69] [70
+
+]
+Kapitola 24.
+<canvas-r.png, id=643, 230.7822pt x 482.0409pt>
+File: canvas-r.png Graphic file (type png)
+<use canvas-r.png>
+Package pdftex.def Info: canvas-r.png  used on input line 1026.
+(pdftex.def)             Requested size: 311.55661pt x 650.75653pt.
+[71] [72 <./canvas-r.png>] [73] [74
+
+]
+Kapitola 25.
+[75] [76] [77] [78
+
+]
+Kapitola 26.
+[79] [80]
+Kapitola 27.
+[81
+
+] [82]
+Kapitola 28.
+[83
+
+] [84]
+Kapitola 29.
+[85
+
+]
+LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <9> not available
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 1480.
+ [86]
+Kapitola 30.
+[87
+
+] [88] [89] [90]
+Kapitola 31.
+[91
+
+] [92]
+Kapitola 32.
+[93
+
+]
+LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <9> not available
+(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 1799.
+ [94]
+Kapitola 33.
+LaTeX Font Info:    Try loading font information for TS1+pcr on input line 1841
+.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pcr.fd
+File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
+)
+Overfull \vbox (1.46063pt too high) detected at line 1856
+ []
+
+[95
+
+]
 No file horizon-eda-cz.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1260.
-[51]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1260.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1864.
+[96]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1864.
  (./horizon-eda-cz.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1260.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1260.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1864.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1864.
 
 Package rerunfilecheck Info: File `horizon-eda-cz.out' has not changed.
-(rerunfilecheck)             Checksum: 8535A3761EDA74DE8A8132BF1CED082F;3765.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1260.
+(rerunfilecheck)             Checksum: 7DC1F91770C8EA8C3A6B4F2BB46C4029;5535.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1864.
  ) 
 Here is how much of TeX's memory you used:
- 13752 strings out of 494561
- 194055 string characters out of 6177454
- 307930 words of memory out of 5000000
- 16914 multiletter control sequences out of 15000+600000
- 64454 words of font info for 91 fonts, out of 8000000 for 9000
+ 14046 strings out of 494561
+ 199044 string characters out of 6177454
+ 310256 words of memory out of 5000000
+ 17082 multiletter control sequences out of 15000+600000
+ 65082 words of font info for 93 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
- 37i,12n,49p,1044b,492s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/urw/courier/ucrb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
-w/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucr
-ro8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
-ri8a.pfb>
-Output written on horizon-eda-cz.pdf (55 pages, 1181270 bytes).
+ 37i,12n,49p,1005b,522s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
+fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y5.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/urw/courier/ucrro8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helv
+etic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/times/utmri8a.pfb>
+Output written on horizon-eda-cz.pdf (100 pages, 1674526 bytes).
 PDF statistics:
- 554 PDF objects out of 1000 (max. 8388607)
- 450 compressed objects within 5 object streams
- 164 named destinations out of 1000 (max. 500000)
- 257 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 936 PDF objects out of 1000 (max. 8388607)
+ 758 compressed objects within 8 object streams
+ 255 named destinations out of 1000 (max. 500000)
+ 475 words of extra memory for PDF output out of 10000 (max. 10000000)
 

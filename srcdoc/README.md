@@ -1,4 +1,4 @@
-This is the documentation repository for [horizon EDA](https://github.com/carrotIndustries/horizon).
+This is the documentation repository for [horizon EDA](https://github.com/horizon-eda/horizon).
 
 Rendered output is available on [Read the Docs](https://horizon-eda.readthedocs.io/).
 
@@ -8,4 +8,3 @@ Guide](https://developers.google.com/style/).
 To build the documentation locally make sure you have python-sphinx installed and run `make html`
 
 This repository is licensed under CC-BY-SA-4.0.
-# Horizon-EDA_cz.pdf
