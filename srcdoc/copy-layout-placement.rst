@@ -33,8 +33,8 @@ Kopírovat umístění
 Pro každou skupinu umístěte pouzdro součástky tak, aby ostatní pouzdra součástek byly odkázány na požadované místo a umístěte okolo všechny ostatní pouzdra součástek. Poté vyberte všechny součástky skupiny, které chcete znovu použít a spusťte nástroj „Copy placement“. Klikněte na referenční pouzdro (kterékoli pájecí místo nebo středový bod) v již umístěné skupině a všechny vybrané součástky budou umístěny shodným způsobem.
 
 
-Kopírování skladeb
-~~~~~~~~~~~~~~~~~~
+Kopírování rozvržení
+~~~~~~~~~~~~~~~~~~~~
 
 Vyberte všechny spoje (ostatní objekty budou ignorovány), které chcete kopírovat
 v natrasované skupině, spusťte příkaz „Copy tracks“ a klikněte na libovolné pouzdro
