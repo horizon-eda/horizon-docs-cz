@@ -9,39 +9,88 @@ Podívejte se na dokumentaci programu Horizon EDA [Hlavní výhody](https://gith
 ![Obrázek](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/images/collage.png)
 
 
-Obsah:
+### Obsah:
 
-[Přehled funkcí](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/feature-overview.rst)
+[Proč další program pro návrh spojů](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/why-another-eda-package.rst)
 
-[Interaktivní manipulátor](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/imp.rst)
+[Hlavní výhody](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/feature-overview.rst)
 
-[Editor desky plošných spojů DPS (PCB)](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/imp-board.rst)
+[Cíle](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/non-goals.rst)
+
+
+### Začínáme:
+
+[Instalace](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/installation.rst)
+
+[Nastavení fondu knihoven](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/pool-setup.rst)
+
+[Nový projekt](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/new-project.rst)
+
+[Kreslení schematu](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/draw-schematic.rst)
+
+[Tvorba desky](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/create-board.rst)
+
+[Příklad projektu](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/example-project.rst)
+
+
+### Základní použití editoru:
+
+[Příkazy](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/tools.rst)
+
+[Mezerníkové menu](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/spacebar-menu.rst)
+
+[Mřížka](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/grid.rst)
+
+[Vstupy](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/entries.rst)
+
+[Výkres](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/drawing.rst)
+
+[Výběr](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/selection.rst)
+
+[Přesouvání](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/move.rst)
+
+[Hladiny](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/layers.rst)
+
+
+### Editor schémat:
 
 [Editor schémat](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/imp-sch.rst)
 
-[Sestavení (kompilace) programu na operačním systému Windows](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/build-win32.rst)
 
-[Sestavení (kompilace) programu na operačním systému Linux](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/build-linux.rst)
+### Editor desky:
 
-[Pravidla](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/rules_cz.rst)
+[Editor desky](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/imp-board.rst)
 
-[Vytvoření pouzdra součástky](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/create-package.rst)
+[Kopírování návrhu](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/copy-layout-placement.rst)
 
-[Kopírování rozmístění a umístění](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/copy-layout-placement.rst)
+[Zpětné úpravy](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/backannotation.rst)
+
+[Pravidla](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/rules.rst)
+
+
+### Fond součástek:
+
+[Proč fond součástek](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/pool-why.rst)
+
+[Typy souborů ve fondu](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/pool-elements.rst)
+
+[Správce fondu](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/pool-mgr.rst)
+
+[Tvorba pouzdra](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/create-package.rst)
+
+[Přispívání do veřejného fondu součástek](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/pool-contribute.rst)
+
+### Pokročilá témata:
+
+[Sestavení programu ve Windows](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/build-win32.rst)
+
+[Sestavení programu v Linuxu](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/build-linux.rst)
 
 [Parametry programu](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/parameter-programs.rst)
 
-[Použití příkazového řádku (CLI Command Line Interface)](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/cli-usage.rst)
-
-[Začínáme](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/getting-started.rst)
-
-[Pájecí místa / plošky (Padstacks)](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/padstacks.rst)
-
 [Popis funkce](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/theory-of-operation.rst)
 
-[Fond knihovny součástek, pouzder, pájecích míst a schematických značek (Pool)](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/pool.rst)
+[Použití příkazového řádku](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/cli-usage.rst)
 
-[Správce fondu (Pool manager)](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/pool-mgr.rst)
-
-[Zpětné úpravy (Backanotation)](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/backannotation.rst)
+[Modul Python](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/python.rst)
 
