@@ -1,13 +1,49 @@
+zatím rozpracované
+
 Toto je úložiště české verze dokumentace k programu [Horizon EDA](https://github.com/horizon-eda/horizon).
-Web verze [Dokumentace](https://horizon-eda.readthedocs.io/cs/latest/installation.html)
 
 Dokumentace programu Horizon-EDA
 ================================
 
 
-Podívejte se na dokumentaci programu Horizon EDA [Hlavní výhody](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/feature-overview.rst) nebo přímo [Začínáme](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/getting-started.rst).
+# Horizon je free verze EDA programu
+Je sice daleko od dokončení, ale je zde a pro všechny architektury. Podívejte se na [dokumentaci](https://horizon-eda.readthedocs.io/cs/latest/feature-overview.html) pro přehled hlavních výhod programu.
 
-![Obrázek](https://github.com/horizon-eda/horizon-docs-cz/blob/master/srcdoc/images/collage.png)
+Chcete si psát ohledně programu? Připojte se na skupinu #horizon na serveru freenode
+
+![Obrázek](https://raw.githubusercontent.com/wiki/carrotIndustries/horizon/images/collage.png)
+
+# Dosavadní výhody pro uživatele
+- Kompletní proces návrhu od schematu až po export ve formátu Gerber
+- Rozumná správa knihoven
+- Jednotný editor pro vše od symbolu až po desku
+- Editor schématu pracující ze seznamem spojů
+- Interaktivní trasér spojů z programu KiCad
+- Vykreslování bez chyb a zdržování
+- Pravidly řízený návrh DRC
+- Funkce Zpět/Vpřed
+- Funkce kopírování/vkládání objektů
+- Kompilace a běh na Linuxu and Windows
+
+# Výhody pro vývojáře
+- Napsán v moderním jazyce C++, dědičně svobodný kód!
+- Používá formát JSON založený na formátu souborového systému
+- Používá knihovnu Gtkmm3 pro grafické rozhranní
+- OpenGL 3 akcelerované rendrování
+- Všechny záznamy jsou svázány přes UUID
+
+# Začínáme
+Podívejte se na [dokumentaci](https://horizon-eda.readthedocs.io/cs/latest/installation.html)
+
+# Obsažený software třetích stran
+- https://github.com/nlohmann/json/
+- http://www.angusj.com/delphi/clipper.php
+- https://github.com/ivanfratric/polypartition/
+- https://github.com/jhasse/poly2tri
+- https://qcad.org/en/what-is-dxflib
+- https://git.launchpad.net/kicad/tree/pcbnew/router
+- https://github.com/russdill/pybis
+
 
 
 ### Obsah:
