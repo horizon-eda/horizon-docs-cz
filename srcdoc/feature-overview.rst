@@ -23,10 +23,11 @@ Jednoduše přidejte vývody tak, jak jsou uvedeny v katalogovém listu součás
 Horizon-EDA se dodává také se šablonami skriptů pro import průmyslového standardu
 ve formátech jako je IBIS, který vám ušetří zdlouhavou práci při opisování toho, co je v katalogovém listu.
 
-Loves beginners and power users alike
--------------------------------------
+Snadný pro začátečníky i pokročilé uživatele
+--------------------------------------------
 
-Just press the spacebar and get a list of all the actions you can perform. These actions can be bound to customizible single key shortcuts or to vim-like multi key sequences.
+Stačí stisknout mezerník a zobrazí se seznam všech příkazů, které můžete provést. Tyto příkazy lze spouštět přizpůsobitelnými klávesovými zkratkami pro jednotlivé klávesy nebo různými kombinacemi kláves podobnými editoru Vim.
+
 
 .. image:: images/spacebar_board.gif
 
@@ -91,10 +92,10 @@ Podívejte se na svou desku, jako byste ji drželi ve svých rukou. Za použití
 
 .. image :: images / 3d.png
 
-Customizable color schemes for both schematic and board editors
----------------------------------------------------------------
+Přizpůsobitelná nastavení barev pro editor schemat i desek
+----------------------------------------------------------
 
-Decoration affects people, and people are different – do your own thing or select from the existing color schemes.
+Dekorace ovlivňuje lidi a lidé jsou různí - udělejte si své vlastní nastavení barev nebo si vyberte z existujících barevných schémat.
 
 .. image:: images/colorscheme1.png
 .. image:: images/colorscheme2.png

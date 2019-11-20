@@ -3,13 +3,13 @@
 \contentsline {chapter}{\numberline {2}Hlavn\IeC {\'\i } v\IeC {\'y}hody}{5}{chapter.2}% 
 \contentsline {section}{\numberline {2.1}Interaktivn\IeC {\'\i } a jednoduch\IeC {\'y} management sou\IeC {\v c}\IeC {\'a}st\IeC {\'\i }}{5}{section.2.1}% 
 \contentsline {section}{\numberline {2.2}Snadn\IeC {\'e} vytv\IeC {\'a}\IeC {\v r}en\IeC {\'\i } sou\IeC {\v c}\IeC {\'a}st\IeC {\'\i }}{6}{section.2.2}% 
-\contentsline {section}{\numberline {2.3}Loves beginners and power users alike}{7}{section.2.3}% 
+\contentsline {section}{\numberline {2.3}Snadn\IeC {\'y} pro za\IeC {\v c}\IeC {\'a}te\IeC {\v c}n\IeC {\'\i }ky i pokro\IeC {\v c}il\IeC {\'e} u\IeC {\v z}ivatele}{7}{section.2.3}% 
 \contentsline {section}{\numberline {2.4}Schematick\IeC {\'y} editor, kter\IeC {\'y} v\IeC {\'\i } co d\IeC {\v e}l\IeC {\'a}te}{7}{section.2.4}% 
 \contentsline {section}{\numberline {2.5}Interaktivn\IeC {\'\i } tras\IeC {\'e}r spoj\IeC {\r u} s p\IeC {\v r}\IeC {\'\i }mou kontrolou pravidel (DRC)}{10}{section.2.5}% 
 \contentsline {section}{\numberline {2.6}Siln\IeC {\'a} pravidla}{11}{section.2.6}% 
 \contentsline {section}{\numberline {2.7}Pr\IeC {\r u}myslov\IeC {\'e} standardy v\IeC {\'y}roby}{11}{section.2.7}% 
 \contentsline {section}{\numberline {2.8}3D pohled}{12}{section.2.8}% 
-\contentsline {section}{\numberline {2.9}Customizable color schemes for both schematic and board editors}{13}{section.2.9}% 
+\contentsline {section}{\numberline {2.9}P\IeC {\v r}izp\IeC {\r u}sobiteln\IeC {\'a} nastaven\IeC {\'\i } barev pro editor schemat i desek}{13}{section.2.9}% 
 \contentsline {section}{\numberline {2.10}Je toho mnohem v\IeC {\'\i }c}{15}{section.2.10}% 
 \contentsline {chapter}{\numberline {3}C\IeC {\'\i }le}{17}{chapter.3}% 
 \contentsline {section}{\numberline {3.1}Autorouter}{17}{section.3.1}% 
