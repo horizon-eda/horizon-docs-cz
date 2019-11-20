@@ -22,8 +22,6 @@ Struktura fondu
 Pro pochopení souvislostí jednotlivých souborů ve fondu je nutné pochopit jejich strukturu, která je na níže uvedeném obrázku, nebo v případě nečitelnosti je možno ji vidět 
 `zde <https://github.com/carrotIndustries/horizon/blob/master/doc/pool.pdf>`__
 
-.. image :: images/canvas-r.png
-   :scale: 135 %
 
 Součástky (Parts)
 ~~~~~~~~~~~~~~~~~
