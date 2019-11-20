@@ -1,4 +1,5 @@
-Toto je repozitář české verze dokumentace k programu [horizon EDA](https://github.com/horizon-eda/horizon).
+Toto je úložiště české verze dokumentace k programu [Horizon EDA](https://github.com/horizon-eda/horizon).
+Web verze [Dokumentace](https://horizon-eda.readthedocs.io/cs/latest/installation.html)
 
 Dokumentace programu Horizon-EDA
 ================================
