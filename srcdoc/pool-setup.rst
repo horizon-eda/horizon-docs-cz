@@ -3,23 +3,22 @@ Setting up a pool
 
 There are two ways of setting up a pool. If you are familiar with the version control system git and want to be in direct control of your repository you can use the git workflow below, if not, just use the pool manager.
 
-Git
-~~~
+Program Git
+~~~~~~~~~~~
 
-If you're familiar with git, just clone clone
-`horizon-pool <https://github.com/horizon-eda/horizon-pool/>`_
-somewhere and you're good to go. You're supposed to use git to keep your
-local copy up to date and submit new parts.
+Pokud znáte program git, stačí někam naklonovat soubory z veřejného archivu
+`horizon-pool <https://github.com/carrotIndustries/horizon-pool/>`_
+. Je vhodné použít program git, aby se udržely vaše místní 
+kopie aktuální a mohli případně publikovat vaše nové díly do veřejného archivu.
 
-Pool manager
-~~~~~~~~~~~~
+Správce fondu knihovny
+~~~~~~~~~~~~~~~~~~~~~~
 
-Don't know how to git? No problem! Double-click ``horizon-eda.exe`` or
-launch ``./horizon-eda`` from your shell and click on 'Download...' to
-download the pool. The default pool ``horizon-eda/horizon-pool`` is
-the one you want to use. The pool manager will assist you in keeping
-your pool up-to-date, see the "Remote" tab. It will also assist you by
-creating a fork, branches, commits and pull requests on your behalf so
-you can contribute to the pool without any git knowledge.
+Nevíte, jak na to? Žádný problém! Poklepejte na ``horizon-eda.exe`` nebo
+spusťte ``./horizon-eda`` z vašeho příkazového řádku a klikněte na 'Download...'
+pro stažení fondu. Výchozí fond ``carrotIndustries/horizon-pool`` je
+ten který potřebujete. Správce fondu vám pomůže s udržováním
+vašeho fondu v aktuálním stavu, viz karta "Remote". Také vám pomůže s
+vytvořením žádosti o doplnění nových součástí do veřejného archivu, a tak můžete snadno přispět do veřejného archivu  bez jakýchkoli znalostí programu git.
 
 Next: :doc:`Create a new Project <new-project>`

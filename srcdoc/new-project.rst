@@ -1,19 +1,20 @@
-Create a new Project
-====================
+Vytvořte nový projekt
+=====================
 
-When you start Horizon EDA you should see a window like this one
+Když spustíte program Horizon-EDA mělo by se zobrazit okno podobné tomuto
 
 .. image:: images/prj-mgr.png
 
-Make sure you have a pool set up and added
+Ujistěte se že máte nastavený a přidaný fond knihoven součástek
 
-Click the menu icon in the top right corner and open the
-preferences dialog. In the Pool section selected the pool you want to use for your project. If you don't have a pool here you can open a pools ``pool.json`` by clicking on "Open..." in the main window. When you're done the
-preferences dialog should look like this:
+Klikněte na ikonu aplikace v levém horním rohu a otevřete
+dialog nastavení. Přidejte fond, který jste právě stáhli, tím, že vyberete složku obsahující soubor
+``pool.json``. Když to dokončíte dialogové okno předvoleb by mělo vypadat takto:
 
-.. image:: images/pool-prefs.png
+.. image :: images / pool-prefs.png
 
-Now, hit "New..." and then "Project" to create a new project.
+Nyní vytvořte nový projekt klepnutím na "New...".
+
 
 In the Project Dialogue Window you can select a project name and a location where you want to store the project folder. Additionally you can change the active pool: 
 

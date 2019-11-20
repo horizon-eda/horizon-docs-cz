@@ -1,23 +1,19 @@
-Installation
-============
+instalace
+=========
 
-So you wanna give horizon a test drive? Great! Here's how.
+Takže jste se rozhodli vyzkoušet Horizon-EDA? Skvěle! Zde je návod.
 
-Windows
--------
 
-Grab the latest build from `AppVeyor CI <https://ci.appveyor.com/project/carrotIndustries/horizon/build/artifacts>`_ 
-and unzip it somewhere. Note that these are 64bit binaries. In case a
-build is still running or someone broke the build, you can download past
-builds from
+Operační systém Windows
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Stáhnete nejnovější komprimovaný přeložený binární soubor z adresy `AppVeyor CI <https://ci.appveyor.com/project/carrotIndustries/horizon/build/artifacts>`_ 
+a někam ho rozbalte. Pamatujte, že se jedná o 64bitové binární soubory. V případě, že překlad dosud probíhá  nebo ho někdo přerušil, si můžete stáhnout předešlé verze z
 `the build history <https://ci.appveyor.com/project/carrotIndustries/horizon/history>`_
-(click on artifacts to get the zip)
+(kliknutím na odkaz stáhnete soubor ve formátu zip)
 
 Linux
------
+~~~~~
 
-See :doc:`build-linux` for
-instructions on how to build horizon on linux.
-
-
-Next: :doc:`Setup a pool <pool-setup>`
+Viz kapitola 
+:doc:`Sestavení (kompilace) programu na operačním systému Linux<build-linux>` v tomto návodě, jak zkompilovat program Horizon-EDA na linuxu.

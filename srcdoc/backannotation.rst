@@ -20,11 +20,7 @@ Protože tato funkce není přidána příliš dlouho, některé možnosti nejso
 
 
 
-[#f1]_
 
-.. rubric:: Footnotes
-
-.. [#f1] Přeložil / Translated by : Peta-T 16.11. 2019
 
 
 

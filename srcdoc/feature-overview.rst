@@ -1,5 +1,5 @@
-Přehled funkcí
-==============
+Hlavní výhody
+=============
 .. feature-overview.rst
 
 Interaktivní a jednoduchý management součástí

@@ -40,3 +40,11 @@ Usage
 	brd.export_gerber(gerber_settings)
 
 To further adjust the export settings, have a look at the dicts returned by the :code:`get_*_export_settings` methods.
+
+
+[#f1]_
+
+.. rubric:: Footnotes
+
+.. [#f1] Přeložil / Translated by : Peta-T 16.11. 2019
+
