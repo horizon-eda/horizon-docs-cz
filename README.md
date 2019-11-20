@@ -2,10 +2,6 @@ zatím rozpracované
 
 Toto je úložiště české verze dokumentace k programu [Horizon EDA](https://github.com/horizon-eda/horizon).
 
-Dokumentace programu Horizon-EDA
-================================
-
-
 # Horizon je free verze EDA programu
 Je sice daleko od dokončení, ale je zde a pro všechny architektury. Podívejte se na [dokumentaci](https://horizon-eda.readthedocs.io/cs/latest/feature-overview.html) pro přehled hlavních výhod programu.
 
