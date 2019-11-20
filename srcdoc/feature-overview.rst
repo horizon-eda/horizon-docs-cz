@@ -30,6 +30,7 @@ Just press the spacebar and get a list of all the actions you can perform. These
 
 .. image:: images/spacebar_board.gif
 
+
 Schematický editor, který ví co děláte
 --------------------------------------
 

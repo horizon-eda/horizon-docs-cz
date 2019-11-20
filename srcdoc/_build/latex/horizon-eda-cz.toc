@@ -3,148 +3,150 @@
 \contentsline {chapter}{\numberline {2}P\IeC {\v r}ehled funkc\IeC {\'\i }}{5}{chapter.2}% 
 \contentsline {section}{\numberline {2.1}Interaktivn\IeC {\'\i } a jednoduch\IeC {\'y} management sou\IeC {\v c}\IeC {\'a}st\IeC {\'\i }}{5}{section.2.1}% 
 \contentsline {section}{\numberline {2.2}Snadn\IeC {\'e} vytv\IeC {\'a}\IeC {\v r}en\IeC {\'\i } sou\IeC {\v c}\IeC {\'a}st\IeC {\'\i }}{6}{section.2.2}% 
-\contentsline {section}{\numberline {2.3}Schematick\IeC {\'y} editor, kter\IeC {\'y} v\IeC {\'\i } co d\IeC {\v e}l\IeC {\'a}te}{7}{section.2.3}% 
-\contentsline {section}{\numberline {2.4}Interaktivn\IeC {\'\i } tras\IeC {\'e}r spoj\IeC {\r u} s p\IeC {\v r}\IeC {\'\i }mou kontrolou pravidel (DRC)}{10}{section.2.4}% 
-\contentsline {section}{\numberline {2.5}Siln\IeC {\'a} pravidla}{11}{section.2.5}% 
-\contentsline {section}{\numberline {2.6}Pr\IeC {\r u}myslov\IeC {\'e} standardy v\IeC {\'y}roby}{11}{section.2.6}% 
-\contentsline {section}{\numberline {2.7}3D pohled}{12}{section.2.7}% 
-\contentsline {section}{\numberline {2.8}Je toho mnohem v\IeC {\'\i }c}{13}{section.2.8}% 
-\contentsline {chapter}{\numberline {3}Non-Goals}{15}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Autorouter}{15}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}Simulation}{15}{section.3.2}% 
-\contentsline {section}{\numberline {3.3}Raytracer}{15}{section.3.3}% 
-\contentsline {section}{\numberline {3.4}On File formats}{15}{section.3.4}% 
-\contentsline {chapter}{\numberline {4}Installation}{17}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Windows}{17}{section.4.1}% 
-\contentsline {section}{\numberline {4.2}Linux}{17}{section.4.2}% 
-\contentsline {chapter}{\numberline {5}Setting up a pool}{19}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Git}{19}{section.5.1}% 
-\contentsline {section}{\numberline {5.2}Pool manager}{19}{section.5.2}% 
-\contentsline {chapter}{\numberline {6}Create a new Project}{21}{chapter.6}% 
-\contentsline {chapter}{\numberline {7}Draw a Schematic}{25}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}Placing Parts}{25}{section.7.1}% 
-\contentsline {section}{\numberline {7.2}Connecting Parts}{26}{section.7.2}% 
-\contentsline {section}{\numberline {7.3}Basic Movement}{26}{section.7.3}% 
-\contentsline {section}{\numberline {7.4}Power Nets}{26}{section.7.4}% 
-\contentsline {section}{\numberline {7.5}Annotation}{27}{section.7.5}% 
-\contentsline {chapter}{\numberline {8}Create a Board}{31}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}Draw a Board Outline}{31}{section.8.1}% 
-\contentsline {section}{\numberline {8.2}Place the Packages}{32}{section.8.2}% 
-\contentsline {section}{\numberline {8.3}Add Planes}{33}{section.8.3}% 
-\contentsline {section}{\numberline {8.4}Route the Nets}{34}{section.8.4}% 
-\contentsline {chapter}{\numberline {9}Example project}{37}{chapter.9}% 
-\contentsline {chapter}{\numberline {10}Tools}{39}{chapter.10}% 
-\contentsline {section}{\numberline {10.1}How to select the right tool}{39}{section.10.1}% 
-\contentsline {chapter}{\numberline {11}Spacebar Menu}{41}{chapter.11}% 
-\contentsline {chapter}{\numberline {12}Grid}{43}{chapter.12}% 
-\contentsline {chapter}{\numberline {13}Numeric Entries}{45}{chapter.13}% 
-\contentsline {chapter}{\numberline {14}Drawing}{47}{chapter.14}% 
-\contentsline {section}{\numberline {14.1}Draw Line}{47}{section.14.1}% 
-\contentsline {section}{\numberline {14.2}Draw Line Rectangle}{48}{section.14.2}% 
-\contentsline {section}{\numberline {14.3}Draw Arc}{48}{section.14.3}% 
-\contentsline {section}{\numberline {14.4}Draw Polygon}{48}{section.14.4}% 
-\contentsline {section}{\numberline {14.5}Draw Polygon Rectangle}{48}{section.14.5}% 
-\contentsline {section}{\numberline {14.6}Draw Polygon Circle}{49}{section.14.6}% 
-\contentsline {section}{\numberline {14.7}Draw Dimension}{49}{section.14.7}% 
-\contentsline {chapter}{\numberline {15}Selection}{51}{chapter.15}% 
-\contentsline {section}{\numberline {15.1}Basics}{51}{section.15.1}% 
-\contentsline {section}{\numberline {15.2}Selection Mode}{51}{section.15.2}% 
-\contentsline {section}{\numberline {15.3}Selection Filter}{51}{section.15.3}% 
-\contentsline {chapter}{\numberline {16}Moving and the interactive manipulator}{53}{chapter.16}% 
-\contentsline {section}{\numberline {16.1}Move with Mouse}{53}{section.16.1}% 
-\contentsline {section}{\numberline {16.2}Move with Keyboard}{53}{section.16.2}% 
-\contentsline {section}{\numberline {16.3}Move Exactly}{53}{section.16.3}% 
-\contentsline {section}{\numberline {16.4}Flip}{53}{section.16.4}% 
-\contentsline {section}{\numberline {16.5}Rotate}{54}{section.16.5}% 
-\contentsline {chapter}{\numberline {17}Layers}{55}{chapter.17}% 
-\contentsline {chapter}{\numberline {18}Editor sch\IeC {\'e}mat}{57}{chapter.18}% 
-\contentsline {section}{\numberline {18.1}Spoje a segmenty spoj\IeC {\r u} (Nets)}{57}{section.18.1}% 
-\contentsline {section}{\numberline {18.2}Symboly nap\IeC {\'a}jen\IeC {\'\i } (Power Nets)}{57}{section.18.2}% 
-\contentsline {section}{\numberline {18.3}Sb\IeC {\v e}rnice (Buses)}{58}{section.18.3}% 
-\contentsline {section}{\numberline {18.4}Diferenci\IeC {\'a}ln\IeC {\'\i } p\IeC {\'a}ry (Diff. pairs)}{58}{section.18.4}% 
-\contentsline {section}{\numberline {18.5}P\IeC {\v r}\IeC {\'\i }mo na desku (To board)}{58}{section.18.5}% 
-\contentsline {section}{\numberline {18.6}Sn\IeC {\'\i }mek obrazovky}{58}{section.18.6}% 
-\contentsline {chapter}{\numberline {19}Editor desky plo\IeC {\v s}n\IeC {\'y}ch spoj\IeC {\r u} DPS (PCB)}{59}{chapter.19}% 
-\contentsline {section}{\numberline {19.1}Vypln\IeC {\v e}n\IeC {\'e} oblasti (Planes)}{59}{section.19.1}% 
-\contentsline {section}{\numberline {19.2}Prokoven\IeC {\'e} otvory (Vias)}{59}{section.19.2}% 
-\contentsline {section}{\numberline {19.3}Diferenci\IeC {\'a}ln\IeC {\'\i } p\IeC {\'a}ry}{59}{section.19.3}% 
-\contentsline {section}{\numberline {19.4}Sn\IeC {\'\i }mek obrazovky}{60}{section.19.4}% 
-\contentsline {chapter}{\numberline {20}Kop\IeC {\'\i }rov\IeC {\'a}n\IeC {\'\i } rozm\IeC {\'\i }st\IeC {\v e}n\IeC {\'\i } a um\IeC {\'\i }st\IeC {\v e}n\IeC {\'\i }}{61}{chapter.20}% 
-\contentsline {section}{\numberline {20.1}Motivace}{61}{section.20.1}% 
-\contentsline {section}{\numberline {20.2}Skupiny a zna\IeC {\v c}ky}{61}{section.20.2}% 
-\contentsline {section}{\numberline {20.3}Deska}{62}{section.20.3}% 
-\contentsline {subsection}{\numberline {20.3.1}Kop\IeC {\'\i }rovat um\IeC {\'\i }st\IeC {\v e}n\IeC {\'\i }}{62}{subsection.20.3.1}% 
-\contentsline {subsection}{\numberline {20.3.2}Kop\IeC {\'\i }rov\IeC {\'a}n\IeC {\'\i } skladeb}{62}{subsection.20.3.2}% 
-\contentsline {chapter}{\numberline {21}Zp\IeC {\v e}tn\IeC {\'e} \IeC {\'u}pravy (Backanotation)}{63}{chapter.21}% 
-\contentsline {section}{\numberline {21.1}Jak na to}{63}{section.21.1}% 
-\contentsline {section}{\numberline {21.2}Omezen\IeC {\'\i }}{63}{section.21.2}% 
-\contentsline {chapter}{\numberline {22}Pravidla}{65}{chapter.22}% 
-\contentsline {chapter}{\numberline {23}Why a Pool?}{67}{chapter.23}% 
-\contentsline {chapter}{\numberline {24}Fond knihovny sou\IeC {\v c}\IeC {\'a}stek, pouzder, p\IeC {\'a}jec\IeC {\'\i }ch m\IeC {\'\i }st a schematick\IeC {\'y}ch zna\IeC {\v c}ek (Pool)}{71}{chapter.24}% 
-\contentsline {section}{\numberline {24.1}Struktura fondu}{71}{section.24.1}% 
-\contentsline {subsection}{\numberline {24.1.1}Sou\IeC {\v c}\IeC {\'a}stky (Parts)}{73}{subsection.24.1.1}% 
-\contentsline {subsection}{\numberline {24.1.2}Pouzdra (Packages)}{73}{subsection.24.1.2}% 
-\contentsline {subsection}{\numberline {24.1.3}Entity (Entities)}{73}{subsection.24.1.3}% 
-\contentsline {subsection}{\numberline {24.1.4}Jednotky (Units)}{73}{subsection.24.1.4}% 
-\contentsline {subsection}{\numberline {24.1.5}Symboly (Symbols)}{73}{subsection.24.1.5}% 
-\contentsline {chapter}{\numberline {25}Spr\IeC {\'a}vce fondu (Pool manager)}{75}{chapter.25}% 
-\contentsline {section}{\numberline {25.1}Zd\IeC {\v e}d\IeC {\v e}n\IeC {\'\i } nov\IeC {\'e} sou\IeC {\v c}\IeC {\'a}sti z existuj\IeC {\'\i }c\IeC {\'\i } sou\IeC {\v c}\IeC {\'a}sti}{75}{section.25.1}% 
-\contentsline {section}{\numberline {25.2}Vytvo\IeC {\v r}en\IeC {\'\i } nov\IeC {\'e} sou\IeC {\v c}\IeC {\'a}sti ze st\IeC {\'a}vaj\IeC {\'\i }c\IeC {\'\i } entity}{75}{section.25.2}% 
-\contentsline {section}{\numberline {25.3}Vytvo\IeC {\v r}en\IeC {\'\i } zcela nov\IeC {\'e} sou\IeC {\v c}\IeC {\'a}sti}{75}{section.25.3}% 
-\contentsline {section}{\numberline {25.4}Kam ukl\IeC {\'a}dat komponenty}{76}{section.25.4}% 
-\contentsline {section}{\numberline {25.5}Datab\IeC {\'a}ze fondu}{77}{section.25.5}% 
-\contentsline {section}{\numberline {25.6}Integrace GitHub}{77}{section.25.6}% 
-\contentsline {subsection}{\numberline {25.6.1}Aktualizace fondu}{77}{subsection.25.6.1}% 
-\contentsline {subsection}{\numberline {25.6.2}Vytvo\IeC {\v r}en\IeC {\'\i } \IeC {\v z}\IeC {\'a}dosti o zahrnut\IeC {\'\i } sou\IeC {\v c}\IeC {\'a}stek do ve\IeC {\v r}ejn\IeC {\'e}ho fondu}{77}{subsection.25.6.2}% 
-\contentsline {chapter}{\numberline {26}Vytvo\IeC {\v r}en\IeC {\'\i } pouzdra sou\IeC {\v c}\IeC {\'a}stky}{79}{chapter.26}% 
-\contentsline {section}{\numberline {26.1}P\IeC {\'a}jec\IeC {\'\i } obrazce (pads)}{79}{section.26.1}% 
-\contentsline {section}{\numberline {26.2}Obrys pouzdra sou\IeC {\v c}\IeC {\'a}stky}{80}{section.26.2}% 
-\contentsline {section}{\numberline {26.3}Mont\IeC {\'a}\IeC {\v z}n\IeC {\'\i } obrys}{80}{section.26.3}% 
-\contentsline {section}{\numberline {26.4}Textov\IeC {\'y} popis sou\IeC {\v c}\IeC {\'a}stek}{80}{section.26.4}% 
-\contentsline {section}{\numberline {26.5}Obrys z\IeC {\'a}stavby sou\IeC {\v c}\IeC {\'a}stky}{80}{section.26.5}% 
-\contentsline {chapter}{\numberline {27}Contribute to the Pool}{81}{chapter.27}% 
-\contentsline {section}{\numberline {27.1}Using the GitHub integration.}{81}{section.27.1}% 
-\contentsline {subsection}{\numberline {27.1.1}Upgrade pool}{81}{subsection.27.1.1}% 
-\contentsline {subsection}{\numberline {27.1.2}Create pull request}{81}{subsection.27.1.2}% 
-\contentsline {subsection}{\numberline {27.1.3}Helping by reviewing}{82}{subsection.27.1.3}% 
-\contentsline {chapter}{\numberline {28}Sestaven\IeC {\'\i } (kompilace) programu na opera\IeC {\v c}n\IeC {\'\i }m syst\IeC {\'e}mu Windows}{83}{chapter.28}% 
-\contentsline {section}{\numberline {28.1}Nainstalujte program MSYS2}{83}{section.28.1}% 
-\contentsline {section}{\numberline {28.2}Spus\IeC {\v t}te konzolu MSYS}{83}{section.28.2}% 
-\contentsline {section}{\numberline {28.3}Nainstalujte aktualizace}{83}{section.28.3}% 
-\contentsline {section}{\numberline {28.4}Nainstalujte souvisej\IeC {\'\i }c\IeC {\'\i } sou\IeC {\v c}\IeC {\'a}sti}{83}{section.28.4}% 
-\contentsline {section}{\numberline {28.5}Klonovat zdrojov\IeC {\'y} k\IeC {\'o}d programu Horizon-EDA}{84}{section.28.5}% 
-\contentsline {section}{\numberline {28.6}Sestaven\IeC {\'\i } (kompilace) programu ze zdrojov\IeC {\'e}ho k\IeC {\'o}du}{84}{section.28.6}% 
-\contentsline {section}{\numberline {28.7}Spu\IeC {\v s}t\IeC {\v e}n\IeC {\'\i } programu}{84}{section.28.7}% 
-\contentsline {section}{\numberline {28.8}Vytvo\IeC {\v r}en\IeC {\'\i } archivu}{84}{section.28.8}% 
-\contentsline {chapter}{\numberline {29}Sestaven\IeC {\'\i } (kompilace) programu na opera\IeC {\v c}n\IeC {\'\i }m syst\IeC {\'e}mu Linux}{85}{chapter.29}% 
-\contentsline {section}{\numberline {29.1}Nainstalujte z\IeC {\'a}vislosti}{85}{section.29.1}% 
-\contentsline {section}{\numberline {29.2}Klonovat zdrojov\IeC {\'y} k\IeC {\'o}d programu Horizon-EDA}{86}{section.29.2}% 
-\contentsline {section}{\numberline {29.3}Sestaven\IeC {\'\i } (kompilace) programu ze zdrojov\IeC {\'e}ho k\IeC {\'o}du}{86}{section.29.3}% 
-\contentsline {section}{\numberline {29.4}Spu\IeC {\v s}t\IeC {\v e}n\IeC {\'\i } programu}{86}{section.29.4}% 
-\contentsline {chapter}{\numberline {30}Parametry programu}{87}{chapter.30}% 
-\contentsline {section}{\numberline {30.1}Syntaxe}{87}{section.30.1}% 
-\contentsline {section}{\numberline {30.2}Obecn\IeC {\'e} p\IeC {\v r}\IeC {\'\i }kazy}{87}{section.30.2}% 
-\contentsline {subsection}{\numberline {30.2.1}Nulov\IeC {\'y} operand}{87}{subsection.30.2.1}% 
-\contentsline {subsection}{\numberline {30.2.2}Jeden operand}{88}{subsection.30.2.2}% 
-\contentsline {subsection}{\numberline {30.2.3}Dva operandy}{88}{subsection.30.2.3}% 
-\contentsline {subsection}{\numberline {30.2.4}T\IeC {\v r}i operandy}{88}{subsection.30.2.4}% 
-\contentsline {section}{\numberline {30.3}P\IeC {\v r}\IeC {\'\i }kazy pro p\IeC {\'a}jec\IeC {\'\i } m\IeC {\'\i }sta}{89}{section.30.3}% 
-\contentsline {subsection}{\numberline {30.3.1}Zad\IeC {\'a}n\IeC {\'\i } otvoru}{89}{subsection.30.3.1}% 
-\contentsline {section}{\numberline {30.4}Polygonov\IeC {\'e} p\IeC {\v r}\IeC {\'\i }kazy (p\IeC {\'a}jec\IeC {\'\i } m\IeC {\'\i }sta a pouzdra sou\IeC {\v c}\IeC {\'a}stek)}{89}{section.30.4}% 
-\contentsline {subsection}{\numberline {30.4.1}Zad\IeC {\'a}n\IeC {\'\i } polygonu}{89}{subsection.30.4.1}% 
-\contentsline {subsection}{\numberline {30.4.2}Zad\IeC {\'a}n\IeC {\'\i } vrchol\IeC {\r u} polygonu}{89}{subsection.30.4.2}% 
-\contentsline {subsection}{\numberline {30.4.3}Vytvo\IeC {\v r}en\IeC {\'\i } polygonu}{89}{subsection.30.4.3}% 
-\contentsline {section}{\numberline {30.5}P\IeC {\v r}\IeC {\'\i }klad programu (pro SMD obd\IeC {\'e}ln\IeC {\'\i }kov\IeC {\'e} p\IeC {\'a}jec\IeC {\'\i } m\IeC {\'\i }sto)}{89}{section.30.5}% 
-\contentsline {chapter}{\numberline {31}Popis funkce}{91}{chapter.31}% 
-\contentsline {section}{\numberline {31.1}Interaktivn\IeC {\'\i } manipul\IeC {\'a}tor}{91}{section.31.1}% 
-\contentsline {subsection}{\numberline {31.1.1}Pracovn\IeC {\'\i } plocha (Canvas)}{91}{subsection.31.1.1}% 
-\contentsline {subsection}{\numberline {31.1.2}J\IeC {\'a}dro (Core)}{91}{subsection.31.1.2}% 
-\contentsline {subsection}{\numberline {31.1.3}N\IeC {\'a}stroje (Tools)}{91}{subsection.31.1.3}% 
-\contentsline {subsection}{\numberline {31.1.4}Editor vlastnost\IeC {\'\i } (Property editor)}{92}{subsection.31.1.4}% 
-\contentsline {chapter}{\numberline {32}Pou\IeC {\v z}it\IeC {\'\i } p\IeC {\v r}\IeC {\'\i }kazov\IeC {\'e}ho \IeC {\v r}\IeC {\'a}dku (CLI Command Line Interface)}{93}{chapter.32}% 
-\contentsline {section}{\numberline {32.1}Pou\IeC {\v z}it\IeC {\'\i } horizon-imp}{93}{section.32.1}% 
-\contentsline {section}{\numberline {32.2}Pou\IeC {\v z}it\IeC {\'\i } horizont-pool}{94}{section.32.2}% 
-\contentsline {section}{\numberline {32.3}Pou\IeC {\v z}it\IeC {\'\i } horizont-prj}{94}{section.32.3}% 
-\contentsline {chapter}{\numberline {33}Python module}{95}{chapter.33}% 
-\contentsline {section}{\numberline {33.1}Installation}{95}{section.33.1}% 
-\contentsline {section}{\numberline {33.2}Usage}{95}{section.33.2}% 
+\contentsline {section}{\numberline {2.3}Loves beginners and power users alike}{7}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Schematick\IeC {\'y} editor, kter\IeC {\'y} v\IeC {\'\i } co d\IeC {\v e}l\IeC {\'a}te}{7}{section.2.4}% 
+\contentsline {section}{\numberline {2.5}Interaktivn\IeC {\'\i } tras\IeC {\'e}r spoj\IeC {\r u} s p\IeC {\v r}\IeC {\'\i }mou kontrolou pravidel (DRC)}{10}{section.2.5}% 
+\contentsline {section}{\numberline {2.6}Siln\IeC {\'a} pravidla}{11}{section.2.6}% 
+\contentsline {section}{\numberline {2.7}Pr\IeC {\r u}myslov\IeC {\'e} standardy v\IeC {\'y}roby}{11}{section.2.7}% 
+\contentsline {section}{\numberline {2.8}3D pohled}{12}{section.2.8}% 
+\contentsline {section}{\numberline {2.9}Customizable color schemes for both schematic and board editors}{13}{section.2.9}% 
+\contentsline {section}{\numberline {2.10}Je toho mnohem v\IeC {\'\i }c}{15}{section.2.10}% 
+\contentsline {chapter}{\numberline {3}Non-Goals}{17}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Autorouter}{17}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Simulation}{17}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Raytracer}{17}{section.3.3}% 
+\contentsline {section}{\numberline {3.4}On File formats}{17}{section.3.4}% 
+\contentsline {chapter}{\numberline {4}Installation}{19}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Windows}{19}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Linux}{19}{section.4.2}% 
+\contentsline {chapter}{\numberline {5}Setting up a pool}{21}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Git}{21}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Pool manager}{21}{section.5.2}% 
+\contentsline {chapter}{\numberline {6}Create a new Project}{23}{chapter.6}% 
+\contentsline {chapter}{\numberline {7}Draw a Schematic}{27}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Placing Parts}{27}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Connecting Parts}{28}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Basic Movement}{28}{section.7.3}% 
+\contentsline {section}{\numberline {7.4}Power Nets}{28}{section.7.4}% 
+\contentsline {section}{\numberline {7.5}Annotation}{29}{section.7.5}% 
+\contentsline {chapter}{\numberline {8}Create a Board}{33}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Draw a Board Outline}{33}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Place the Packages}{34}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}Add Planes}{35}{section.8.3}% 
+\contentsline {section}{\numberline {8.4}Route the Nets}{36}{section.8.4}% 
+\contentsline {chapter}{\numberline {9}Example project}{39}{chapter.9}% 
+\contentsline {chapter}{\numberline {10}Tools}{41}{chapter.10}% 
+\contentsline {section}{\numberline {10.1}How to select the right tool}{41}{section.10.1}% 
+\contentsline {chapter}{\numberline {11}Spacebar Menu}{43}{chapter.11}% 
+\contentsline {chapter}{\numberline {12}Grid}{45}{chapter.12}% 
+\contentsline {chapter}{\numberline {13}Numeric Entries}{47}{chapter.13}% 
+\contentsline {chapter}{\numberline {14}Drawing}{49}{chapter.14}% 
+\contentsline {section}{\numberline {14.1}Draw Line}{49}{section.14.1}% 
+\contentsline {section}{\numberline {14.2}Draw Line Rectangle}{50}{section.14.2}% 
+\contentsline {section}{\numberline {14.3}Draw Arc}{50}{section.14.3}% 
+\contentsline {section}{\numberline {14.4}Draw Polygon}{50}{section.14.4}% 
+\contentsline {section}{\numberline {14.5}Draw Polygon Rectangle}{50}{section.14.5}% 
+\contentsline {section}{\numberline {14.6}Draw Polygon Circle}{51}{section.14.6}% 
+\contentsline {section}{\numberline {14.7}Draw Dimension}{51}{section.14.7}% 
+\contentsline {chapter}{\numberline {15}Selection}{53}{chapter.15}% 
+\contentsline {section}{\numberline {15.1}Basics}{53}{section.15.1}% 
+\contentsline {section}{\numberline {15.2}Selection Mode}{53}{section.15.2}% 
+\contentsline {section}{\numberline {15.3}Selection Filter}{53}{section.15.3}% 
+\contentsline {chapter}{\numberline {16}Moving and the interactive manipulator}{55}{chapter.16}% 
+\contentsline {section}{\numberline {16.1}Move with Mouse}{55}{section.16.1}% 
+\contentsline {section}{\numberline {16.2}Move with Keyboard}{55}{section.16.2}% 
+\contentsline {section}{\numberline {16.3}Move Exactly}{55}{section.16.3}% 
+\contentsline {section}{\numberline {16.4}Flip}{55}{section.16.4}% 
+\contentsline {section}{\numberline {16.5}Rotate}{56}{section.16.5}% 
+\contentsline {chapter}{\numberline {17}Layers}{57}{chapter.17}% 
+\contentsline {chapter}{\numberline {18}Editor sch\IeC {\'e}mat}{59}{chapter.18}% 
+\contentsline {section}{\numberline {18.1}Spoje a segmenty spoj\IeC {\r u} (Nets)}{59}{section.18.1}% 
+\contentsline {section}{\numberline {18.2}Symboly nap\IeC {\'a}jen\IeC {\'\i } (Power Nets)}{59}{section.18.2}% 
+\contentsline {section}{\numberline {18.3}Sb\IeC {\v e}rnice (Buses)}{60}{section.18.3}% 
+\contentsline {section}{\numberline {18.4}Diferenci\IeC {\'a}ln\IeC {\'\i } p\IeC {\'a}ry (Diff. pairs)}{60}{section.18.4}% 
+\contentsline {section}{\numberline {18.5}P\IeC {\v r}\IeC {\'\i }mo na desku (To board)}{60}{section.18.5}% 
+\contentsline {section}{\numberline {18.6}Sn\IeC {\'\i }mek obrazovky}{60}{section.18.6}% 
+\contentsline {chapter}{\numberline {19}Editor desky plo\IeC {\v s}n\IeC {\'y}ch spoj\IeC {\r u} DPS (PCB)}{61}{chapter.19}% 
+\contentsline {section}{\numberline {19.1}Vypln\IeC {\v e}n\IeC {\'e} oblasti (Planes)}{61}{section.19.1}% 
+\contentsline {section}{\numberline {19.2}Prokoven\IeC {\'e} otvory (Vias)}{61}{section.19.2}% 
+\contentsline {section}{\numberline {19.3}Diferenci\IeC {\'a}ln\IeC {\'\i } p\IeC {\'a}ry}{61}{section.19.3}% 
+\contentsline {section}{\numberline {19.4}Sn\IeC {\'\i }mek obrazovky}{62}{section.19.4}% 
+\contentsline {chapter}{\numberline {20}Kop\IeC {\'\i }rov\IeC {\'a}n\IeC {\'\i } rozm\IeC {\'\i }st\IeC {\v e}n\IeC {\'\i } a um\IeC {\'\i }st\IeC {\v e}n\IeC {\'\i }}{63}{chapter.20}% 
+\contentsline {section}{\numberline {20.1}Motivace}{63}{section.20.1}% 
+\contentsline {section}{\numberline {20.2}Skupiny a zna\IeC {\v c}ky}{63}{section.20.2}% 
+\contentsline {section}{\numberline {20.3}Deska}{64}{section.20.3}% 
+\contentsline {subsection}{\numberline {20.3.1}Kop\IeC {\'\i }rovat um\IeC {\'\i }st\IeC {\v e}n\IeC {\'\i }}{64}{subsection.20.3.1}% 
+\contentsline {subsection}{\numberline {20.3.2}Kop\IeC {\'\i }rov\IeC {\'a}n\IeC {\'\i } skladeb}{64}{subsection.20.3.2}% 
+\contentsline {chapter}{\numberline {21}Zp\IeC {\v e}tn\IeC {\'e} \IeC {\'u}pravy (Backanotation)}{65}{chapter.21}% 
+\contentsline {section}{\numberline {21.1}Jak na to}{65}{section.21.1}% 
+\contentsline {section}{\numberline {21.2}Omezen\IeC {\'\i }}{65}{section.21.2}% 
+\contentsline {chapter}{\numberline {22}Pravidla}{67}{chapter.22}% 
+\contentsline {chapter}{\numberline {23}Why a Pool?}{69}{chapter.23}% 
+\contentsline {chapter}{\numberline {24}Fond knihovny sou\IeC {\v c}\IeC {\'a}stek, pouzder, p\IeC {\'a}jec\IeC {\'\i }ch m\IeC {\'\i }st a schematick\IeC {\'y}ch zna\IeC {\v c}ek (Pool)}{73}{chapter.24}% 
+\contentsline {section}{\numberline {24.1}Struktura fondu}{73}{section.24.1}% 
+\contentsline {subsection}{\numberline {24.1.1}Sou\IeC {\v c}\IeC {\'a}stky (Parts)}{75}{subsection.24.1.1}% 
+\contentsline {subsection}{\numberline {24.1.2}Pouzdra (Packages)}{75}{subsection.24.1.2}% 
+\contentsline {subsection}{\numberline {24.1.3}Entity (Entities)}{75}{subsection.24.1.3}% 
+\contentsline {subsection}{\numberline {24.1.4}Jednotky (Units)}{75}{subsection.24.1.4}% 
+\contentsline {subsection}{\numberline {24.1.5}Symboly (Symbols)}{75}{subsection.24.1.5}% 
+\contentsline {chapter}{\numberline {25}Spr\IeC {\'a}vce fondu (Pool manager)}{77}{chapter.25}% 
+\contentsline {section}{\numberline {25.1}Zd\IeC {\v e}d\IeC {\v e}n\IeC {\'\i } nov\IeC {\'e} sou\IeC {\v c}\IeC {\'a}sti z existuj\IeC {\'\i }c\IeC {\'\i } sou\IeC {\v c}\IeC {\'a}sti}{77}{section.25.1}% 
+\contentsline {section}{\numberline {25.2}Vytvo\IeC {\v r}en\IeC {\'\i } nov\IeC {\'e} sou\IeC {\v c}\IeC {\'a}sti ze st\IeC {\'a}vaj\IeC {\'\i }c\IeC {\'\i } entity}{77}{section.25.2}% 
+\contentsline {section}{\numberline {25.3}Vytvo\IeC {\v r}en\IeC {\'\i } zcela nov\IeC {\'e} sou\IeC {\v c}\IeC {\'a}sti}{77}{section.25.3}% 
+\contentsline {section}{\numberline {25.4}Kam ukl\IeC {\'a}dat komponenty}{78}{section.25.4}% 
+\contentsline {section}{\numberline {25.5}Datab\IeC {\'a}ze fondu}{79}{section.25.5}% 
+\contentsline {section}{\numberline {25.6}Integrace GitHub}{79}{section.25.6}% 
+\contentsline {subsection}{\numberline {25.6.1}Aktualizace fondu}{79}{subsection.25.6.1}% 
+\contentsline {subsection}{\numberline {25.6.2}Vytvo\IeC {\v r}en\IeC {\'\i } \IeC {\v z}\IeC {\'a}dosti o zahrnut\IeC {\'\i } sou\IeC {\v c}\IeC {\'a}stek do ve\IeC {\v r}ejn\IeC {\'e}ho fondu}{79}{subsection.25.6.2}% 
+\contentsline {chapter}{\numberline {26}Vytvo\IeC {\v r}en\IeC {\'\i } pouzdra sou\IeC {\v c}\IeC {\'a}stky}{81}{chapter.26}% 
+\contentsline {section}{\numberline {26.1}P\IeC {\'a}jec\IeC {\'\i } obrazce (pads)}{81}{section.26.1}% 
+\contentsline {section}{\numberline {26.2}Obrys pouzdra sou\IeC {\v c}\IeC {\'a}stky}{82}{section.26.2}% 
+\contentsline {section}{\numberline {26.3}Mont\IeC {\'a}\IeC {\v z}n\IeC {\'\i } obrys}{82}{section.26.3}% 
+\contentsline {section}{\numberline {26.4}Textov\IeC {\'y} popis sou\IeC {\v c}\IeC {\'a}stek}{82}{section.26.4}% 
+\contentsline {section}{\numberline {26.5}Obrys z\IeC {\'a}stavby sou\IeC {\v c}\IeC {\'a}stky}{82}{section.26.5}% 
+\contentsline {chapter}{\numberline {27}Contribute to the Pool}{83}{chapter.27}% 
+\contentsline {section}{\numberline {27.1}Using the GitHub integration.}{83}{section.27.1}% 
+\contentsline {subsection}{\numberline {27.1.1}Upgrade pool}{83}{subsection.27.1.1}% 
+\contentsline {subsection}{\numberline {27.1.2}Create pull request}{83}{subsection.27.1.2}% 
+\contentsline {subsection}{\numberline {27.1.3}Helping by reviewing}{84}{subsection.27.1.3}% 
+\contentsline {chapter}{\numberline {28}Sestaven\IeC {\'\i } (kompilace) programu na opera\IeC {\v c}n\IeC {\'\i }m syst\IeC {\'e}mu Windows}{85}{chapter.28}% 
+\contentsline {section}{\numberline {28.1}Nainstalujte program MSYS2}{85}{section.28.1}% 
+\contentsline {section}{\numberline {28.2}Spus\IeC {\v t}te konzolu MSYS}{85}{section.28.2}% 
+\contentsline {section}{\numberline {28.3}Nainstalujte aktualizace}{85}{section.28.3}% 
+\contentsline {section}{\numberline {28.4}Nainstalujte souvisej\IeC {\'\i }c\IeC {\'\i } sou\IeC {\v c}\IeC {\'a}sti}{85}{section.28.4}% 
+\contentsline {section}{\numberline {28.5}Klonovat zdrojov\IeC {\'y} k\IeC {\'o}d programu Horizon-EDA}{86}{section.28.5}% 
+\contentsline {section}{\numberline {28.6}Sestaven\IeC {\'\i } (kompilace) programu ze zdrojov\IeC {\'e}ho k\IeC {\'o}du}{86}{section.28.6}% 
+\contentsline {section}{\numberline {28.7}Spu\IeC {\v s}t\IeC {\v e}n\IeC {\'\i } programu}{86}{section.28.7}% 
+\contentsline {section}{\numberline {28.8}Vytvo\IeC {\v r}en\IeC {\'\i } archivu}{86}{section.28.8}% 
+\contentsline {chapter}{\numberline {29}Sestaven\IeC {\'\i } (kompilace) programu na opera\IeC {\v c}n\IeC {\'\i }m syst\IeC {\'e}mu Linux}{87}{chapter.29}% 
+\contentsline {section}{\numberline {29.1}Nainstalujte z\IeC {\'a}vislosti}{87}{section.29.1}% 
+\contentsline {section}{\numberline {29.2}Klonovat zdrojov\IeC {\'y} k\IeC {\'o}d programu Horizon-EDA}{88}{section.29.2}% 
+\contentsline {section}{\numberline {29.3}Sestaven\IeC {\'\i } (kompilace) programu ze zdrojov\IeC {\'e}ho k\IeC {\'o}du}{88}{section.29.3}% 
+\contentsline {section}{\numberline {29.4}Spu\IeC {\v s}t\IeC {\v e}n\IeC {\'\i } programu}{88}{section.29.4}% 
+\contentsline {chapter}{\numberline {30}Parametry programu}{89}{chapter.30}% 
+\contentsline {section}{\numberline {30.1}Syntaxe}{89}{section.30.1}% 
+\contentsline {section}{\numberline {30.2}Obecn\IeC {\'e} p\IeC {\v r}\IeC {\'\i }kazy}{89}{section.30.2}% 
+\contentsline {subsection}{\numberline {30.2.1}Nulov\IeC {\'y} operand}{89}{subsection.30.2.1}% 
+\contentsline {subsection}{\numberline {30.2.2}Jeden operand}{90}{subsection.30.2.2}% 
+\contentsline {subsection}{\numberline {30.2.3}Dva operandy}{90}{subsection.30.2.3}% 
+\contentsline {subsection}{\numberline {30.2.4}T\IeC {\v r}i operandy}{90}{subsection.30.2.4}% 
+\contentsline {section}{\numberline {30.3}P\IeC {\v r}\IeC {\'\i }kazy pro p\IeC {\'a}jec\IeC {\'\i } m\IeC {\'\i }sta}{91}{section.30.3}% 
+\contentsline {subsection}{\numberline {30.3.1}Zad\IeC {\'a}n\IeC {\'\i } otvoru}{91}{subsection.30.3.1}% 
+\contentsline {section}{\numberline {30.4}Polygonov\IeC {\'e} p\IeC {\v r}\IeC {\'\i }kazy (p\IeC {\'a}jec\IeC {\'\i } m\IeC {\'\i }sta a pouzdra sou\IeC {\v c}\IeC {\'a}stek)}{91}{section.30.4}% 
+\contentsline {subsection}{\numberline {30.4.1}Zad\IeC {\'a}n\IeC {\'\i } polygonu}{91}{subsection.30.4.1}% 
+\contentsline {subsection}{\numberline {30.4.2}Zad\IeC {\'a}n\IeC {\'\i } vrchol\IeC {\r u} polygonu}{91}{subsection.30.4.2}% 
+\contentsline {subsection}{\numberline {30.4.3}Vytvo\IeC {\v r}en\IeC {\'\i } polygonu}{91}{subsection.30.4.3}% 
+\contentsline {section}{\numberline {30.5}P\IeC {\v r}\IeC {\'\i }klad programu (pro SMD obd\IeC {\'e}ln\IeC {\'\i }kov\IeC {\'e} p\IeC {\'a}jec\IeC {\'\i } m\IeC {\'\i }sto)}{91}{section.30.5}% 
+\contentsline {chapter}{\numberline {31}Popis funkce}{93}{chapter.31}% 
+\contentsline {section}{\numberline {31.1}Interaktivn\IeC {\'\i } manipul\IeC {\'a}tor}{93}{section.31.1}% 
+\contentsline {subsection}{\numberline {31.1.1}Pracovn\IeC {\'\i } plocha (Canvas)}{93}{subsection.31.1.1}% 
+\contentsline {subsection}{\numberline {31.1.2}J\IeC {\'a}dro (Core)}{93}{subsection.31.1.2}% 
+\contentsline {subsection}{\numberline {31.1.3}N\IeC {\'a}stroje (Tools)}{93}{subsection.31.1.3}% 
+\contentsline {subsection}{\numberline {31.1.4}Editor vlastnost\IeC {\'\i } (Property editor)}{94}{subsection.31.1.4}% 
+\contentsline {chapter}{\numberline {32}Pou\IeC {\v z}it\IeC {\'\i } p\IeC {\v r}\IeC {\'\i }kazov\IeC {\'e}ho \IeC {\v r}\IeC {\'a}dku (CLI Command Line Interface)}{95}{chapter.32}% 
+\contentsline {section}{\numberline {32.1}Pou\IeC {\v z}it\IeC {\'\i } horizon-imp}{95}{section.32.1}% 
+\contentsline {section}{\numberline {32.2}Pou\IeC {\v z}it\IeC {\'\i } horizont-pool}{96}{section.32.2}% 
+\contentsline {section}{\numberline {32.3}Pou\IeC {\v z}it\IeC {\'\i } horizont-prj}{96}{section.32.3}% 
+\contentsline {chapter}{\numberline {33}Python module}{97}{chapter.33}% 
+\contentsline {section}{\numberline {33.1}Installation}{97}{section.33.1}% 
+\contentsline {section}{\numberline {33.2}Usage}{97}{section.33.2}% 
