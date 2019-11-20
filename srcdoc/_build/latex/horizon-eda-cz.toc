@@ -1,6 +1,6 @@
 \babel@toc {czech}{}
 \contentsline {chapter}{\numberline {1}Why another EDA package}{3}{chapter.1}% 
-\contentsline {chapter}{\numberline {2}P\IeC {\v r}ehled funkc\IeC {\'\i }}{5}{chapter.2}% 
+\contentsline {chapter}{\numberline {2}Hlavn\IeC {\'\i } v\IeC {\'y}hody}{5}{chapter.2}% 
 \contentsline {section}{\numberline {2.1}Interaktivn\IeC {\'\i } a jednoduch\IeC {\'y} management sou\IeC {\v c}\IeC {\'a}st\IeC {\'\i }}{5}{section.2.1}% 
 \contentsline {section}{\numberline {2.2}Snadn\IeC {\'e} vytv\IeC {\'a}\IeC {\v r}en\IeC {\'\i } sou\IeC {\v c}\IeC {\'a}st\IeC {\'\i }}{6}{section.2.2}% 
 \contentsline {section}{\numberline {2.3}Loves beginners and power users alike}{7}{section.2.3}% 
@@ -16,13 +16,13 @@
 \contentsline {section}{\numberline {3.2}Simulation}{17}{section.3.2}% 
 \contentsline {section}{\numberline {3.3}Raytracer}{17}{section.3.3}% 
 \contentsline {section}{\numberline {3.4}On File formats}{17}{section.3.4}% 
-\contentsline {chapter}{\numberline {4}Installation}{19}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Windows}{19}{section.4.1}% 
+\contentsline {chapter}{\numberline {4}instalace}{19}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Opera\IeC {\v c}n\IeC {\'\i } syst\IeC {\'e}m Windows}{19}{section.4.1}% 
 \contentsline {section}{\numberline {4.2}Linux}{19}{section.4.2}% 
 \contentsline {chapter}{\numberline {5}Setting up a pool}{21}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Git}{21}{section.5.1}% 
-\contentsline {section}{\numberline {5.2}Pool manager}{21}{section.5.2}% 
-\contentsline {chapter}{\numberline {6}Create a new Project}{23}{chapter.6}% 
+\contentsline {section}{\numberline {5.1}Program Git}{21}{section.5.1}% 
+\contentsline {section}{\numberline {5.2}Spr\IeC {\'a}vce fondu knihovny}{21}{section.5.2}% 
+\contentsline {chapter}{\numberline {6}Vytvo\IeC {\v r}te nov\IeC {\'y} projekt}{23}{chapter.6}% 
 \contentsline {chapter}{\numberline {7}Draw a Schematic}{27}{chapter.7}% 
 \contentsline {section}{\numberline {7.1}Placing Parts}{27}{section.7.1}% 
 \contentsline {section}{\numberline {7.2}Connecting Parts}{28}{section.7.2}% 
@@ -34,7 +34,7 @@
 \contentsline {section}{\numberline {8.2}Place the Packages}{34}{section.8.2}% 
 \contentsline {section}{\numberline {8.3}Add Planes}{35}{section.8.3}% 
 \contentsline {section}{\numberline {8.4}Route the Nets}{36}{section.8.4}% 
-\contentsline {chapter}{\numberline {9}Example project}{39}{chapter.9}% 
+\contentsline {chapter}{\numberline {9}P\IeC {\v r}\IeC {\'\i }klad projektu}{39}{chapter.9}% 
 \contentsline {chapter}{\numberline {10}Tools}{41}{chapter.10}% 
 \contentsline {section}{\numberline {10.1}How to select the right tool}{41}{section.10.1}% 
 \contentsline {chapter}{\numberline {11}Spacebar Menu}{43}{chapter.11}% 
