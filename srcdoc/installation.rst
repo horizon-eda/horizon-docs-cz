@@ -1,4 +1,4 @@
-instalace
+Instalace
 =========
 
 Takže jste se rozhodli vyzkoušet Horizon-EDA? Skvěle! Zde je návod.
