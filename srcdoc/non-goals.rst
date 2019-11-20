@@ -1,5 +1,7 @@
-Non-Goals
-===================
+Cíle
+====
+
+Abychom zůžili zaměření projektu, některé věci zde záměrně nejsou.
 
 To limit the project's focus, some things are explicitly out of scope.
 
