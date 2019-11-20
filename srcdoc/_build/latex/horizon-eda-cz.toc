@@ -76,7 +76,7 @@
 \contentsline {section}{\numberline {20.2}Skupiny a zna\IeC {\v c}ky}{63}{section.20.2}% 
 \contentsline {section}{\numberline {20.3}Deska}{64}{section.20.3}% 
 \contentsline {subsection}{\numberline {20.3.1}Kop\IeC {\'\i }rovat um\IeC {\'\i }st\IeC {\v e}n\IeC {\'\i }}{64}{subsection.20.3.1}% 
-\contentsline {subsection}{\numberline {20.3.2}Kop\IeC {\'\i }rov\IeC {\'a}n\IeC {\'\i } skladeb}{64}{subsection.20.3.2}% 
+\contentsline {subsection}{\numberline {20.3.2}Kop\IeC {\'\i }rov\IeC {\'a}n\IeC {\'\i } rozvr\IeC {\v z}en\IeC {\'\i }}{64}{subsection.20.3.2}% 
 \contentsline {chapter}{\numberline {21}Zp\IeC {\v e}tn\IeC {\'e} \IeC {\'u}pravy (Backanotation)}{65}{chapter.21}% 
 \contentsline {section}{\numberline {21.1}Jak na to}{65}{section.21.1}% 
 \contentsline {section}{\numberline {21.2}Omezen\IeC {\'\i }}{65}{section.21.2}% 
