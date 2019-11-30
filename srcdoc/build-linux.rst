@@ -4,10 +4,10 @@ Sestavení (kompilace) programu na operačním systému Linux
 
 Sestavení programu Horizon-EDA v Linuxu je podobně jednoduché jako ve Windows
 
-Nainstalujte závislosti
------------------------
+Nainstalujte související součásti
+---------------------------------
 
-Ujistěte se, že máte nainstalované tyto související knihovny:
+Ujistěte se, že máte nainstalované tyto nezbytné související knihovny:
 
 -  Gtkmm3 >= 3.20
 -  cairomm-pdf

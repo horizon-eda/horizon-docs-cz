@@ -9,7 +9,7 @@ Program Git
 Pokud znáte program git, stačí někam naklonovat soubory z veřejného archivu
 `horizon-pool <https://github.com/carrotIndustries/horizon-pool/>`_
 . Je vhodné použít program git, aby se udržely vaše místní 
-kopie aktuální a mohli případně publikovat vaše nové díly do veřejného archivu.
+kopie aktuální a mohli jste případně publikovat vaše nové díly do veřejného archivu.
 
 Správce fondu knihovny
 ~~~~~~~~~~~~~~~~~~~~~~

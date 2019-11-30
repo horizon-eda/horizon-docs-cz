@@ -1,5 +1,5 @@
 \babel@toc {czech}{}
-\contentsline {chapter}{\numberline {1}Why another EDA package}{3}{chapter.1}% 
+\contentsline {chapter}{\numberline {1}Pro\IeC {\v c} dal\IeC {\v s}\IeC {\'\i } ptogram typu EDA (Electronic Design Automation)}{3}{chapter.1}% 
 \contentsline {chapter}{\numberline {2}Hlavn\IeC {\'\i } v\IeC {\'y}hody}{5}{chapter.2}% 
 \contentsline {section}{\numberline {2.1}Interaktivn\IeC {\'\i } a jednoduch\IeC {\'y} management sou\IeC {\v c}\IeC {\'a}st\IeC {\'\i }}{5}{section.2.1}% 
 \contentsline {section}{\numberline {2.2}Snadn\IeC {\'e} vytv\IeC {\'a}\IeC {\v r}en\IeC {\'\i } sou\IeC {\v c}\IeC {\'a}st\IeC {\'\i }}{6}{section.2.2}% 
@@ -119,7 +119,7 @@
 \contentsline {section}{\numberline {28.7}Spu\IeC {\v s}t\IeC {\v e}n\IeC {\'\i } programu}{84}{section.28.7}% 
 \contentsline {section}{\numberline {28.8}Vytvo\IeC {\v r}en\IeC {\'\i } archivu}{84}{section.28.8}% 
 \contentsline {chapter}{\numberline {29}Sestaven\IeC {\'\i } (kompilace) programu na opera\IeC {\v c}n\IeC {\'\i }m syst\IeC {\'e}mu Linux}{85}{chapter.29}% 
-\contentsline {section}{\numberline {29.1}Nainstalujte z\IeC {\'a}vislosti}{85}{section.29.1}% 
+\contentsline {section}{\numberline {29.1}Nainstalujte souvisej\IeC {\'\i }c\IeC {\'\i } sou\IeC {\v c}\IeC {\'a}sti}{85}{section.29.1}% 
 \contentsline {section}{\numberline {29.2}Klonovat zdrojov\IeC {\'y} k\IeC {\'o}d programu Horizon-EDA}{86}{section.29.2}% 
 \contentsline {section}{\numberline {29.3}Sestaven\IeC {\'\i } (kompilace) programu ze zdrojov\IeC {\'e}ho k\IeC {\'o}du}{86}{section.29.3}% 
 \contentsline {section}{\numberline {29.4}Spu\IeC {\v s}t\IeC {\v e}n\IeC {\'\i } programu}{86}{section.29.4}% 

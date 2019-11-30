@@ -1,8 +1,9 @@
-Why another EDA package
-=======================
+Proč další ptogram typu EDA (Electronic Design Automation)
+==========================================================
 
-So you may be wondering why I started horizon EDA back in 2016, given 
-that KiCad was a thing at that time.
+Možná se divíte, proč jsem začal s horizonem EDA v roce 2016, když v té době již existoval funkční program KiCad.
+
+Začněme s citací od Toma Hausherra: `PCB Design Perfection začíná v CAD knihovně
 
 Let's get started with a quote from Tom Hausherr: `PCB Design Perfection Starts in the CAD Library
 <https://www.innofour.com/3783/news/literature/pcb-design-perfection-starts-in-the-cad-library/pcb-design-perfection-starts-in-the-cad-library-part-1>`_
