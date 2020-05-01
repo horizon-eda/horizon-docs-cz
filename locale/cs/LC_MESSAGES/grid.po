@@ -20,13 +20,15 @@ msgstr ""
 
 #: ../../grid.rst:2
 msgid "Grid"
-msgstr ""
+msgstr "Mřížka"
 
 #: ../../grid.rst:4
 msgid ""
 "All movments in Horizon happen on the grid. By holding :kbd:`Alt` you get "
 "a finer grid (by a factor of 10)."
 msgstr ""
+"Všechny pohyby v Horizonu se dějí podle mřížky. Podržením klávesy :kbd:`Alt` nastavíme "
+"jemnější mřížku (10krát)."
 
 #: ../../grid.rst:6
 msgid ""
@@ -34,6 +36,9 @@ msgid ""
 "field on the top left of the window. Note that depending on a zoom level "
 "your grid may be resized by factors of two."
 msgstr ""
+"Velikost mřížky můžete změnit změnou hodnoty v zadávacím poli "
+"v levém horním rohu okna. Všimněte si, že v závislosti na úrovni zoomu "
+"Velikost mřížky může být změněna v násobcích čísla dvě. "
 
 #: ../../grid.rst:10
 msgid ""
@@ -42,13 +47,19 @@ msgid ""
 "certain factor, or adding a value to a coordinate to create a fixed "
 "offset. For more details, see :doc:`Numeric entries<entries>`."
 msgstr ""
+"Můžete zapisovat základní matematické operace do numerických zadávacích polí, "
+"to usnadňuje dělení hodnoty dvěma, vynásobení nějakým "
+"určitým násobkem nebo přidáním hodnoty do souřadnice k vytvoření pevného "
+"odsazení. Další podrobnosti viz :doc:`Zadávání numerických hodnot <entries>`. "
 
 #: ../../grid.rst:12
 msgid ""
 "You can change the appearance of the grids and the cursor in the "
 "Preferences:"
 msgstr ""
+"Můžete změnit vzhled mřížky a kurzoru v "
+"Předvolbách:"
 
 #: ../../grid.rst:17
 msgid "Next: :doc:`Drawing<drawing>`"
-msgstr ""
+msgstr "Dále: :doc:`Výkres<drawing>`"

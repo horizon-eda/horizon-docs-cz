@@ -44,7 +44,7 @@ msgstr ""
 
 #: ../../create-package.rst:13
 msgid "Holes (for TH parts)"
-msgstr "Otvory (pro díly TH) "
+msgstr "Otvory (pro díly pro pájení do otvorů TH (Thru hole)) "
 
 #: ../../create-package.rst:14
 msgid "Solder mask opening"

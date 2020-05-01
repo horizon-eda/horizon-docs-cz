@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../selection.rst:2
 msgid "Selection"
-msgstr ""
+msgstr "Vybírání"
 
 #: ../../selection.rst:4
 msgid ""
@@ -28,10 +28,13 @@ msgid ""
 "and there are no surprises here. No matter how basic it seems, the "
 "different modes and filters could save you quite some time."
 msgstr ""
+"Výběr v editorech Horizontu EDA je velmi jednoduchý "
+"a nejsou zde žádná překvapení. Nezáleží na tom, jak jednoduše to vypadá, "
+"různé režimy a filtry vám mohou ušetřit dost času. "
 
 #: ../../selection.rst:7
 msgid "Basics"
-msgstr ""
+msgstr "Základy"
 
 #: ../../selection.rst:11
 msgid ""
@@ -40,6 +43,10 @@ msgid ""
 "button to select objects permanently. Hit :kbd:`Esc` or click into a "
 "blank space for returning to hover select mode."
 msgstr ""
+"Zpočátku je aktivní režim letmého výběru \"hover select\". Jednoduše vybere "
+"nejmenší objekt pod kurzorem. Levým tlačítkem myši nebo kliknutím a přetažením "
+"pro trvalé vybrání objektů. Stiskněte :kbd:`Esc` nebo klikněte na "
+"prázdné místo pro návrat do režimu letmého výběru. "
 
 #: ../../selection.rst:14
 msgid ""
@@ -47,10 +54,13 @@ msgid ""
 "pressed while you click on things – this also works to deselect things "
 "you accidentally selected while dragging a selection box."
 msgstr ""
+"Pokud chcete vybrat více objektů během klikání držte stiskutou klávesu :kbd:`Ctrl`. "
+"Funguje to také pro zrušení výběru objektů, "
+"které jste omylem vybrali při přetahování výběrového pole."
 
 #: ../../selection.rst:18
 msgid "Selection Mode"
-msgstr ""
+msgstr "Módy výběru"
 
 #: ../../selection.rst:22
 msgid ""
@@ -59,10 +69,14 @@ msgid ""
 "(Box, Lasso, Paint) with four different selection characteristics (Auto, "
 "Include Origin, Touch Box, Include Box)."
 msgstr ""
+"Můžete změnit chování při tažení levým tlačítkem myši do levého spodního rohu "
+"okna editoru. K dispozici jsou tři různé režimy "
+"(Box, Lasso, Paint) se čtyřmi různými charakteristikami výběru (Auto, "
+"Include Origin, Touch Box, Include Box). "
 
 #: ../../selection.rst:26
 msgid "Selection Filter"
-msgstr ""
+msgstr "Výběrový filtr"
 
 #: ../../selection.rst:30
 msgid ""
@@ -70,13 +84,18 @@ msgid ""
 "select certain classes of objects. This is what the selection filter is "
 "for. You can open it up via the spacebar menu or by pressing :kbd:`Ctrl+i`"
 msgstr ""
+"Pokud musíte vybrat více objektů, někdy může být užitečné jen"
+"vybrat určité třídy objektů. Tomu se říká filtr výběru."
+"Můžete jej otevřít pomocí nabídky mezerníku nebo stisknutím klávesy :kbd:`Ctrl + i` "
 
 #: ../../selection.rst:32
 msgid ""
 "Double click on an item to select only that item. Click on the check mark "
 "button on the top left to select all items."
 msgstr ""
+"Kliknutím na políčko položky vyberete pouze tuto položku. Klikněte na zaškrtávací políčko"
+"vlevo nahoře vyberte všechny položky."
 
 #: ../../selection.rst:37
 msgid "Next: :doc:`Moving and the interactive Manipulator<move>`"
-msgstr ""
+msgstr "Dále: :doc:`Posunování a interaktivní manipulátor<move>`"

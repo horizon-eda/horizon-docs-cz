@@ -20,17 +20,19 @@ msgstr ""
 
 #: ../../entries.rst:2
 msgid "Numeric Entries"
-msgstr ""
+msgstr "Zadávání numerických hodnot "
 
 #: ../../entries.rst:4
 msgid ""
 "All numeric entries in horizon support basic two-operand math as well as "
 "some other goodies."
 msgstr ""
+"Všechny zadávací numerická pole v horizontu podporují základní matematiku se dvěma operandy a také "
+"některé další operace. "
 
 #: ../../entries.rst:6
 msgid "They look like these:"
-msgstr ""
+msgstr "Pole vypadají takto:"
 
 #: ../../entries.rst:10
 msgid ""
@@ -39,32 +41,37 @@ msgid ""
 "Suffixing a number with an ``i`` or ``in`` will treat it as inches. Use "
 "``mi`` or ``mil`` to convert from thous."
 msgstr ""
+"Tečka i čárka jsou rozpoznány jako desetinný oddělovač bez ohledu na "
+"nastavení národního prostředí. Ve výchozím nastavení jsou všechna čísla považována za milimetry. "
+"Přípona čísla s ``i`` nebo ``in`` bude považována za palce. Použijte "
+" ``mi`` nebo ``mil`` pro převod z tisícin."
 
 #: ../../entries.rst:12
 msgid ""
 "Additionally, two-operand infix math is supported, so you can to this:"
 msgstr ""
+"Navíc je podporována matematika se dvěma fixními operandy, takže můžete: "
 
 #: ../../entries.rst:14
 msgid "Addition: ``1+2``"
-msgstr ""
+msgstr "Sčítat: ``1+2``"
 
 #: ../../entries.rst:16
 msgid "Subtraction: ``1-2``"
-msgstr ""
+msgstr "Odčítat: ``1-2``"
 
 #: ../../entries.rst:18
 msgid "Multiplication: ``3*2``"
-msgstr ""
+msgstr "Násobit: ``3*2``"
 
 #: ../../entries.rst:20
 msgid "Division: ``3/2``"
-msgstr ""
+msgstr "Dělit: ``3/2``"
 
 #: ../../entries.rst:22
 msgid "Average :math:`\\frac{ a+b }{2}`: ``3|2``"
-msgstr ""
+msgstr "Průměrovat :math:`\\frac{ a+b }{2}`: ``3|2``"
 
 #: ../../entries.rst:24
 msgid "Adding mm and inch: ``1in+2mm``"
-msgstr ""
+msgstr "Sčítat milimetry a palce: ``1in+2mm``"

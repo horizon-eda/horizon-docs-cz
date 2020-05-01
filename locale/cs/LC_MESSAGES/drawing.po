@@ -20,29 +20,31 @@ msgstr ""
 
 #: ../../drawing.rst:2
 msgid "Drawing"
-msgstr ""
+msgstr "Kreslení"
 
 #: ../../drawing.rst:4
 msgid ""
 "The different Editors in Horizon EDA share a set of different Drawing "
 "tools. Here you can see the ones available in the Board Editor:"
 msgstr ""
+"Různé editory v Horizon EDA sdílejí sadu různých příkazů pro kreslení "
+"Zde vidíte ty dostupné v Editoru desky:"
 
 #: ../../drawing.rst:8
 msgid "The drawing tools are mainly split in three categories:"
-msgstr ""
+msgstr "Kreslicí nástroje jsou rozděleny do tří hlavních kategorií:"
 
 #: ../../drawing.rst:10
 msgid "lines"
-msgstr ""
+msgstr "čáry"
 
 #: ../../drawing.rst:11
 msgid "polygons"
-msgstr ""
+msgstr "mnohoúhelníky"
 
 #: ../../drawing.rst:12
 msgid "special (like draw track, draw dimension etc.)"
-msgstr ""
+msgstr "speciální (jako stopa, kóta atp.)"
 
 #: ../../drawing.rst:14
 msgid ""
@@ -51,10 +53,14 @@ msgid ""
 "draw results in a closed shape (pads, board outlines, package assembly "
 "and courtyard layers, etc.)"
 msgstr ""
+"Čáry se obvykle používají pro vše vizuální (např. Popisky), zatímco "
+"polygony se používají pro všechny objekty, u kterých záleží, "
+"aby byl výsledek nakreslen v uzavřeném tvaru (Pájecí místa, obrysy desky, obrys pouzdra "
+"a obrys minimálního odsazení atd.) "
 
 #: ../../drawing.rst:18
 msgid "Draw Line"
-msgstr ""
+msgstr "Kreslení čáry"
 
 #: ../../drawing.rst:22
 msgid ""
@@ -66,12 +72,21 @@ msgid ""
 "placing points. Left mouse button places more and more points, while the "
 "right mouse button (or pressing :kbd:`Esc`) will finish the lines."
 msgstr ""
+"Chcete-li nakreslit čáru, jednoduše vyberte příkaz \"Draw line\" z mezerníkového "
+"menu nebo zadejte posloupnost kláves :kbd:`d l` (myšleno: \"draw line\") - jednou "
+"kliknete kamkoli, začnete prvním bodem čáry přímo na "
+"místě, kde byl váš kursor. Možná si všimnete, že se bod zachytil "
+"do rastru mřížky. Pokud chcete jemnější mřížku, podržte klávesu :kbd:`Alt`, během "
+"umísťování bodů. Levým tlačítkem myši umisťujete další body, zatímco "
+"pravé tlačítko myši (nebo stisknutí klávesy :kbd:`Esc`) dokončí čáru. "
 
 #: ../../drawing.rst:24
 msgid ""
 "You might also have noticed the Action Bar at the left bottom of the "
 "editor window:"
 msgstr ""
+"Možná jste si také všimli lišty příkazů v levé dolní části "
+"okna editoru:"
 
 #: ../../drawing.rst:28
 msgid ""
@@ -80,10 +95,14 @@ msgid ""
 "the width of the stroke or :kbd:`/` to restrict the movment of the "
 "manipulator to one direction."
 msgstr ""
+"V panelu příkazů se zobrazí další klávesy, které můžete stisknout pro změnu "
+"chování příkazu. V tomto případě můžete stisknout klávesu :kbd:`w` pro změnu "
+"šířky spoje nebo klávesu :kbd:`/` pro omezení pohybu"
+"kursoru jedním směrem."
 
 #: ../../drawing.rst:32
 msgid "Draw Line Rectangle"
-msgstr ""
+msgstr "Kreslení obdélníka"
 
 #: ../../drawing.rst:36
 msgid ""
@@ -93,10 +112,15 @@ msgid ""
 "kbd:`c` you can change this behaviour and set two diagonally opposed "
 "corner points instead."
 msgstr ""
+"Abyste ušetřili čas, je zde také příkaz \"Draw line rectangle\", který "
+"lze také vyvolat stiskem kláves :kbd:`d L`. Ve výchozím nastavení se nejprve zadává "
+"středový bod obdélníku a dále jeden z rohových bodů. Stisknutím "
+":kbd:`c` můžete toto chování změnit a místo toho zadávat dva diagonálně protilehlé "
+"rohové body.“
 
 #: ../../drawing.rst:40
 msgid "Draw Arc"
-msgstr ""
+msgstr "Kreslení oblouku"
 
 #: ../../drawing.rst:44
 msgid ""
@@ -106,10 +130,15 @@ msgid ""
 "you want your arc to flip direction, press :kbd:`e` before putting down "
 "the center point."
 msgstr ""
+"Nástroj \"Draw arc\" je jednoduchý, nakreslí čárový oblouk pomocí předvolby "
+"tři body (v tomto pořadí): počáteční bod, koncový bod a střed. "
+"Pro spuštění příkazu můžete také použít posloupnost kláves :kbd:`d a`. Pokud "
+"chcete, aby se oblouk otočil, stiskněte klávesu :kbd:`e` před kliknutím "
+"na středový bod. "
 
 #: ../../drawing.rst:47
 msgid "Draw Polygon"
-msgstr ""
+msgstr "Kreslení mnohoůhelníku (polygonu)"
 
 #: ../../drawing.rst:51
 msgid ""
@@ -120,10 +149,16 @@ msgid ""
 "center point after. Before setting the center point you can flip the arc "
 "direction with :kbd:`e` and finally you set the end point of the arc."
 msgstr ""
+"Při kreslení polygonů pomocí :kbd:`d y` můžete přidávat několik bodů "
+"klikáním, dokud nestisknete klávesu :kbd:`Esc` nebo použijete pravé tlačítko myši "
+"Součástí polygonu může být také oblouk. Stisknutím klávesy :kbd:`a`"
+"Stejně jako u nástroje \"Draw Arc\" nastavte nejprve koncový bod a "
+"potom středový bod. Před nastavením středového bodu můžete oblouku převrátit"
+"směr pomocí klávesy :kbd:`e` a nakonec kliknete na koncový bod oblouku. "
 
 #: ../../drawing.rst:54
 msgid "Draw Polygon Rectangle"
-msgstr ""
+msgstr "Kreslení obdélníka"
 
 #: ../../drawing.rst:61
 msgid ""
@@ -132,6 +167,10 @@ msgid ""
 "according line Tool you can switch between the different draw modes "
 "(Center/Corner) by pressing :kbd:`c`."
 msgstr ""
+"Podobně jako příkaz \"Draw line rectangle\" je zde příkaz \"Draw polygon "
+"rectangle\". Vyvolejte ho zadáním klávesy :kbd:`d Y`. Stejně jako u "
+"příkazu čára můžete přepínat mezi různými režimy kreslení "
+"(Střed/roh) stisknutím klávesy  :kbd:`c`. "
 
 #: ../../drawing.rst:63
 msgid ""
@@ -142,10 +181,16 @@ msgid ""
 "positions by pressing :kbd:`p` and set the size of the decoration by "
 "pressing :kbd:`s` and entering a value."
 msgstr ""
+"Jsou zde však některé rozdíly: poloměr rohu můžete nastavit pomocí "
+"stisknutí :kbd:`r` a zadáním hodnoty si můžete vybrat prvek podle "
+"stisku klávesy :kbd:`d`. Tyto prvky se používají k označení vývodu 1 na "
+"pouzdře součástky v hladině obrysu součástky. Můžete procházet různými prvky. "
+"stiskem klávesy :kbd:`p` a nastavte velikost prvku pomocí "
+"stisknutí klávesy :kbd:`s` a zadání hodnoty. "
 
 #: ../../drawing.rst:66
 msgid "Draw Polygon Circle"
-msgstr ""
+msgstr "Kreslení Kruhu"
 
 #: ../../drawing.rst:72
 msgid ""
@@ -154,10 +199,14 @@ msgid ""
 "point you set the radius. You can also enter a radius by pressing :kbd:"
 "`r` and entering a value."
 msgstr ""
+"Pro snadné používání existuje také příkaz \"Draw polygon circle\". "
+"Nejprve kliknete, na střed kruhu a druhým "
+"bodem zadáte poloměr. Poloměr můžete také zadat stisknutím klávesy :kbd:`r` "
+"a zadání hodnoty. "
 
 #: ../../drawing.rst:76
 msgid "Draw Dimension"
-msgstr ""
+msgstr "Kreslení kóty"
 
 #: ../../drawing.rst:82
 msgid ""
@@ -167,6 +216,11 @@ msgid ""
 "it out. If the numeric value is on the wrong side, you can fix it by "
 "selecting the dimension and flipping it with the :kbd:`e` key."
 msgstr ""
+"Někdy může být užitečné přidat informace o rozměrech některých součástí. "
+"Můžete to udělat pomocí příkazu \"Draw dimension\". Spustíte ho pomocí "
+"stisku kláves :kbd:`d d`, výběrem prvního a druhého bodu a přetažením. "
+"Pokud je číselná hodnota na nesprávné straně, můžete ji opravit pomocí "
+"výběru kóty a její převrácení klávesou :kbd:`e`. "
 
 #: ../../drawing.rst:84
 msgid ""
@@ -174,7 +228,10 @@ msgid ""
 "that's supposed to move and activating the \"Enter Datum\" tool (press "
 "Enter). You can then snap other items to the end points of the dimension."
 msgstr ""
+"Rozměry lze také nastavit na potřebnou délku výběrem konce "
+"a z nabídky aktivovat příkaz \"Enter Datum\" (stiskněte "
+"Enter). Potom můžete přichytit další objekty ke koncovým bodům kóty. "
 
 #: ../../drawing.rst:89
 msgid "Next: :doc:`Selection<selection>`"
-msgstr ""
+msgstr "Dále: :doc:`Vybírání<selection>`"
