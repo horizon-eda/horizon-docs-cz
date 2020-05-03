@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: horizon-eda \n"
 "Report-Msgid-Bugs-To: https://github.com/horizon-eda/horizon-docs/issues\n"
-"POT-Creation-Date: 2020-05-03 18:58+0200\n"
+"POT-Creation-Date: 2020-05-03 21:29+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: CZECH\n"
@@ -22,7 +22,7 @@ msgstr ""
 msgid "Why another EDA package"
 msgstr "Proč další program typu EDA (Electronic Design Automation)"
 
-#: ../../why-another-eda-package.rst:4
+#: ../../why-another-eda-package.rst:5
 msgid ""
 "So you may be wondering why I started horizon EDA back in 2016, given "
 "that KiCad was a thing at that time."
@@ -30,23 +30,23 @@ msgstr ""
 "Možná se divíte, proč jsem začal s horizonem EDA v roce 2016, když v té "
 "době již existoval funkční program KiCad."
 
-#: ../../why-another-eda-package.rst:7
+#: ../../why-another-eda-package.rst:8
 msgid ""
 "Let's get started with a quote from Tom Hausherr: `PCB Design Perfection "
 "Starts in the CAD Library <https://www.innofour.com/3783/news/literature"
 "/pcb-design-perfection-starts-in-the-cad-library/pcb-design-perfection-"
 "starts-in-the-cad-library-part-1>`_"
 msgstr ""
-"Začněme s citací od Toma Hausherra: `PCB Design Perfection Starts in the CAD Library "
-"<https://www.innofour.com/3783/news/literature/pcb-design-"
+"Začněme s citací od Toma Hausherra: `PCB Design Perfection Starts in the "
+"CAD Library <https://www.innofour.com/3783/news/literature/pcb-design-"
 "perfection-starts-in-the-cad-library/pcb-design-perfection-starts-in-the-"
 "cad-library-part-1>`_"
 
-#: ../../why-another-eda-package.rst:10
+#: ../../why-another-eda-package.rst:11
 msgid "[...] PCB design perfection starts in the CAD library."
 msgstr "[...] Perfektní návrh PCB začíná v CAD knihovně"
 
-#: ../../why-another-eda-package.rst:12
+#: ../../why-another-eda-package.rst:13
 msgid ""
 "This also applies to EDA software as in a schematic / PCB design tool can"
 " only be as good its library structure. Since the definition of library "
@@ -63,7 +63,7 @@ msgstr ""
 "ostatních částí aplikace. Určitá struktura knihovny také vede další vývoj"
 " této aplikace EDA. "
 
-#: ../../why-another-eda-package.rst:20
+#: ../../why-another-eda-package.rst:21
 msgid ""
 "Having used KiCad for small and medium-sized projects, my biggest pain "
 "points were the library lacking a concept of orderable parts without "
@@ -81,7 +81,7 @@ msgstr ""
 " bod se nedal snadno vyřešit bez velkých změn, které by následovalo mnoho"
 " diskusí, protože by to byly zlomové změny."
 
-#: ../../why-another-eda-package.rst:29
+#: ../../why-another-eda-package.rst:30
 msgid ""
 "That made me start thinking how I'd design an EDA tool that meets my "
 "wishes and is easy enough to implement from scratch as a one man show and"
@@ -91,7 +91,7 @@ msgstr ""
 "vyhověl mému přání a byl dostatečně snadný na implementaci od nuly jako "
 "show jednoho muže a umožnil splnění snu a experimentování. "
 
-#: ../../why-another-eda-package.rst:33
+#: ../../why-another-eda-package.rst:34
 msgid ""
 "At the very core of these thoughts was to keep schematic and netlist "
 "representation of a design separate to allow for non-schematic based "
@@ -116,7 +116,7 @@ msgstr ""
 "obvykle k dispozici na mikroprocesorech (MCU) a |~| programovatelných "
 "hradlových polích (FPGA). "
 
-#: ../../why-another-eda-package.rst:44
+#: ../../why-another-eda-package.rst:45
 msgid ""
 "To define the netlist representation of an actual part, units are "
 "referenced by what's called an Entity. This reference is called Gate. For"
@@ -129,7 +129,7 @@ msgstr ""
 "odkazuje pouze na jednu jednotku (Unit), která zahrnuje všechny vývody. "
 "Pro některé součástky má smysl mít více bran. "
 
-#: ../../why-another-eda-package.rst:49
+#: ../../why-another-eda-package.rst:50
 msgid ""
 "Parts that include multiple instances of the same functionality such as "
 "quad opamps will then reference the opamp unit 4 times as well as a unit "
@@ -139,7 +139,7 @@ msgstr ""
 "čtyřnásobný operační zesilovač pak budou odkazovat na kromě 4krát "
 "operační zesilovací jednotku také na jednotku pro napájení. "
 
-#: ../../why-another-eda-package.rst:53
+#: ../../why-another-eda-package.rst:54
 msgid ""
 "On the board side of things, a packages are defined as in pretty much "
 "every EDA package out there - pads and graphical items such as "
@@ -164,7 +164,7 @@ msgstr ""
 " na zásobníku, abyste mohli upravit jejich velikost a také další "
 "vlastnosti, jako je poloměr rohu nebo rozšíření pájecí masky. "
 
-#: ../../why-another-eda-package.rst:65
+#: ../../why-another-eda-package.rst:66
 msgid ""
 "The pads of a package are mapped to the pins defined in the units "
 "referenced by an entity in what's called a Part. In order to mapped to "
@@ -178,7 +178,7 @@ msgstr ""
 "díly mají pole pro jméno výrobce a číslo dílu výrobce (MPN) mimo jiné "
 "podrobnosti, jako je datový list odkaz na internet nebo popis. "
 
-#: ../../why-another-eda-package.rst:71
+#: ../../why-another-eda-package.rst:72
 msgid ""
 "All aforementioned references between items (such as entities referencing"
 " units) are by UUIDs. In Horizon EDA, all items get assigned an immutable"
@@ -191,24 +191,27 @@ msgstr ""
 "vytvoření. Toto UUID pak používají další položky k odkazovaní na tuto "
 "položku. "
 
-#: ../../why-another-eda-package.rst:76
+#: ../../why-another-eda-package.rst:77
 msgid "To wrap up this introduction:"
 msgstr "Na závěr tohoto úvodu:"
 
-#: ../../why-another-eda-package.rst:78
+#: ../../why-another-eda-package.rst:79
 msgid ""
 "My biggest weakness is that i will eventually turn any arbitrary "
 "electronics project into an excuse to write EDA software (and vice "
 "versa)."
 msgstr ""
-"Moje největší slabost je v tom, že nakonec obrátím libovolný elektronický "
-"projekt do výmluvy pro psaní EDA softwaru (a naopak)."
+"Moje největší slabost je v tom, že nakonec obrátím libovolný elektronický"
+" projekt do výmluvy pro psaní EDA softwaru (a naopak)."
 
-#: ../../why-another-eda-package.rst:82
+#: ../../why-another-eda-package.rst:83
 msgid "(Based on https://twitter.com/mycoliza/status/824809235632447492)"
 msgstr "(Převzato z: https://twitter.com/mycoliza/status/824809235632447492)"
 
-#: ../../why-another-eda-package.rst:84
+#: ../../why-another-eda-package.rst:85
 msgid "Next: :doc:`Feature Overview<feature-overview>`"
 msgstr "Dále: :doc:`Hlavní výhody<feature-overview>`"
+
+#~ msgid "trim"
+#~ msgstr ""
 

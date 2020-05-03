@@ -1,3 +1,6 @@
+.. |~| unicode:: 0xA0 
+   :trim:
+
 Moving and the interactive manipulator
 =======================================
 
