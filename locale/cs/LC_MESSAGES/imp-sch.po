@@ -32,7 +32,7 @@ msgstr ""
 
 #: ../../imp-sch.rst:8
 msgid "Placing parts"
-msgstr ""
+msgstr "Umístění součástek"
 
 #: ../../imp-sch.rst:10
 msgid ""
@@ -42,6 +42,11 @@ msgid ""
 "by selecting it and using the \"Assign part\" button in the part browser "
 "window."
 msgstr ""
+"Chcete-li umístit součástky na desku, otevřete prohlížeč součástí buď zadáním :kbd:`p p` (place "
+"part) nebo kliknutím na odpovídající ikonu v hlavním okně projektu. Pokud "
+"byla součáska již umístěna, může být nahrazena součástkou stejné entity "
+"výběrem a použitím tlačítka \"Assign part\" v okně prohlížeče součástek. "
+
 
 #: ../../imp-sch.rst:13
 msgid "Nets and net segments"

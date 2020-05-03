@@ -98,4 +98,4 @@ msgstr ""
 
 #: ../../selection.rst:37
 msgid "Next: :doc:`Moving and the interactive Manipulator<move>`"
-msgstr "Dále: :doc:`Posunování a interaktivní manipulátor<move>`"
+msgstr "Dále: :doc:`Posouvání a manipulační značka<move>`"

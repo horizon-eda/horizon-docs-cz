@@ -18,30 +18,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.8.0\n"
 
-# FIXME here comes some text that doesn't look like to be a one to one translation of the original text
 #: ../../pool-elements.rst:2
 msgid "Elements of a Part"
-msgstr ""
-"Fond knihovny součástek, pouzder, pájecích míst a schematických značek (Pool)"
+msgstr "Elementy součástek"
 
-# FIXME I've dropped a bunch of the previous text here, I cannot reconcile with the original english document, at least I've tried to stay in sync with the rest of the document
 #: ../../pool-elements.rst:4
 msgid ""
 "A final Part is composed of multiple elements, that are stored "
 "independently from each other in the Pool."
 msgstr ""
-"Co to vlastně je fond knihovny součástek (Pool)? Pro funkci programu je potřeba organizovat mnoho souborů pouzder součástek, symbolů a podobných v jakýchsi knihovnách. (Moje) zkušenost ukázala, že jsou často chaotické a správa verzí je obtížná, protože mnoho nezávislých částí definic je vloženo do jednoho souboru. Zejména toto ztěžuje spolupráci."
-"V Horizonu-EDA neexistují knihovny. Místo toho všechny neprojektové součásti (symboly atd.) jsou umístěny do jednoho fondu (repozitáře). Stejně jako přístup do „centrální knihovny“, která je běžnější spíše ve firemních programech pro tvorbu desek plošných spojů. I když si můžete vytvořit svůj vlastní fond, důrazně se doporučuje používat tento fond "
-"`https://github.com/carrotIndustries/horizon-pool/ <https://github.com/carrotIndustries/horizon-pool/>`__. Chcete-li do něj přidat nové díly, jednoduše odešlete požadavek na přidání do veřejné knihovny pomocí příkazu \"Merge\"."
-"Nyní je fond organizován pomocí značek místo hierarchického "
-"systému, protože tyto často vedou k záměně nad aspekty, jako je tomu, zda "
-"skupiny dílů podle výrobce nebo jiné atributy."
-"Aby byl fond uspořádaný, přidávejte pouze díly, které můžete skutečně koupit s jejich odpovídajícími symboly, entity atd. Takže nepřidávejte součástku s názvem 7805, místo toho přidejte MC7805BDTRKG vyrobený společností ON Semiconductor."
-"Každá z níže uvedených položek je uložena v jednom souboru s příponou .json v příslušné hlavní složce, tj. /symbols, /parts, atd. Přesné umístění v této složce je nepodstatné, pokud je soubor json uložen ve "
-"správné hlavní složce. Je důležité, aby soubory měli příponu „.json“, aby byly nalezeny Správcem fondu. Chcete-li pohodlně vyhledávat díly je možné vložené vyhledávací údaje ze všech souborů json řadit pomocí databáze sqlite. To je umožněno tlačítkem 'Update pool' ve Správci fondu."
-" Struktura fondu "
-"Pro pochopení souvislostí jednotlivých souborů ve fondu je nutné pochopit jejich strukturu, která je na níže uvedeném obrázku, nebo v případě nečitelnosti je možno ji vidět "
-"`zde <https://github.com/carrotIndustries/horizon/blob/master/doc/pool.pdf>`__"
+"Výsledná součástka se skládá z více prvků, které jsou uloženy."
+"nezávisle na sobě ve fondu."
 
 #: ../../pool-elements.rst:7
 msgid "Parts"

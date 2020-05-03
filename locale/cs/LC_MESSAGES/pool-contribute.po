@@ -29,6 +29,10 @@ msgid ""
 "contributions. There are multiple ways you can help. The most obvious one "
 "is by submitting parts you made."
 msgstr ""
+"Oficiální fond je uložen na adrese `https://github.com/horizon-eda/horizon-pool/ "
+"<https://github.com/horizon-eda/horizon-pool/>`__ do fondu přispívají jeho uživatelé "
+"Existuje několik způsobů, jak můžete pomoci. "
+"Nejpřínosnější je odesláním součástek, které jste vytvořili."
 
 #: ../../pool-contribute.rst:8
 msgid ""
@@ -38,12 +42,17 @@ msgid ""
 "you created something you'd like to share, you can use the :doc:`Pool "
 "Manager <pool-mgr>` to upload your creation to the offical pool:"
 msgstr ""
+"Aby byl ve fondu pořádek, přidávejte pouze díly, které můžete skutečně koupit. "
+"jejich odpovídající symboly, entity atd. Takže nepřidávejte část nazvanou "
+"7805, místo toho přidejte MC7805BDTRKG od ON Semiconductor. Když "
+"jste vytvořili něco, co byste chtěli sdílet, můžete použít :doc:`Pool "
+"Manager <pool-mgr>` a nahrát svůj výtvor do oficiálního fondu: "
 
 # Here come some stuff salvaged from pool-mgr.po
 #: ../../pool-contribute.rst:15
 msgid "Using the GitHub integration."
 msgstr ""
-"Integrace GitHub"
+"Používání Integrace GitHub"
 
 #: ../../pool-contribute.rst:17
 msgid ""
@@ -99,7 +108,7 @@ msgstr ""
 
 #: ../../pool-contribute.rst:44
 msgid "Helping by reviewing"
-msgstr ""
+msgstr "Pomoc při kontrole"
 
 #: ../../pool-contribute.rst:46
 msgid ""
@@ -110,3 +119,9 @@ msgid ""
 "something about solderability as well and this is a stronger indicator, "
 "that the part has no critical mistakes."
 msgstr ""
+"Přidávání součástek je skvělá věc, ale kontrola součástek, které ostatní vytvořit "
+"je také dobrá věc. Více očí, které porovnají součástku s jejím "
+"datovým listem sníží šanci na chybu. "
+"Pokud jste úspěšně vyrobili DPS s konkrétními součástkami, můžete také informovat "
+"o pájitelnosti a to je silný ukazatel toho, "
+"že součást nemá žádné kritické chyby. "

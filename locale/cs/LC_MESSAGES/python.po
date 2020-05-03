@@ -20,16 +20,17 @@ msgstr ""
 
 #: ../../python.rst:2
 msgid "Python module"
-msgstr ""
+msgstr "Modul python"
 
 #: ../../python.rst:4
 msgid ""
 "Parts of Horzion EDA are available as a python module for use in scripts."
 msgstr ""
+"Některé funkce Horzion EDA jsou k dispozici v modulu Python pro použití ve skriptech."
 
 #: ../../python.rst:7
 msgid "Installation"
-msgstr ""
+msgstr "instalace"
 
 #: ../../python.rst:9
 msgid ""
@@ -38,13 +39,19 @@ msgid ""
 "be installed. You can then place it in python's :code:`sys.path` and "
 "import it using :code:`import horizon`."
 msgstr ""
+"Modul python není zahrnut v překladu pomocí :code:`build all`. Chcete-li jej sestavit, "
+"spusťte překlad pomocí :code:`make build/horizon.so`. To vyžaduje mít instalovány hlavičkové soubory Pythonu veze 3. "
+"Potom můžete použít v Pythonu :code:`sys.path` a "
+"importovat pomocí :code:`import horizon`. "
 
 #: ../../python.rst:12
 msgid "Usage"
-msgstr ""
+msgstr "Použití"
 
 #: ../../python.rst:59
 msgid ""
 "To further adjust the export settings, have a look at the dicts returned "
 "by the :code:`get_*_export_settings` methods."
 msgstr ""
+"Chcete-li dále upravit nastavení exportu, podívejte se na vrácené příkazy. "
+"pomocí metody :code:`get_*_export_settings`."

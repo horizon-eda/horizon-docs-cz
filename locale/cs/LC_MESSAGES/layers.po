@@ -20,13 +20,15 @@ msgstr ""
 
 #: ../../layers.rst:2
 msgid "Layers"
-msgstr ""
+msgstr "Hladiny (Layers)"
 
 #: ../../layers.rst:4
 msgid ""
 "Board, package and padstack editor use the widget shown below to specify "
 "how layers are displayed."
 msgstr ""
+"Editor desky, pouzdra a pájecího obrazce používá níže uvedený panel k určení "
+"jak jsou hladiny zobrazeny."
 
 #: ../../layers.rst:8
 msgid ""
@@ -36,33 +38,44 @@ msgid ""
 "\"Top Copper\" layer, :kbd:`2` selects the \"Bottom Copper\" layer, :kbd:"
 "`3 … 0` select inner layers if present."
 msgstr ""
+"Vybraná hladina se nazývá \"work layer\" a je vždy viditelná a "
+"nakreslena nad všemi ostatními hladinami. Použijte :kbd:`Page up/down` pro posunutí "
+"pracovní hladiny na další nebo předchozí hladinu. Stisknutím kláves :kbd:`1` vyberete "
+"hladinu \"Top Copper\" (horní vrstva mědi),klávesa :kbd:`2` vybere hladinu \"Bottom Copper\" (spodní vrstva mědi) ,klávesami :kbd:`3 ... 0` "
+"vyberete vnitřní vrstvy mědi, pokud jsou přítomny. "
 
 #: ../../layers.rst:11
 msgid ""
 "Clicking on the eye toggles a layer's visibility. Keep in mind that the "
 "work layer is always visible even if it's set to be invisible."
 msgstr ""
+"Kliknutím na oko přepínáte viditelnost hladiny. Mějte na paměti, že "
+"pracovní hladina je vždy viditelná, i když je nastavena jako neviditelná."
 
 #: ../../layers.rst:13
 msgid "Clicking on the colored box cycles through a layer's display modes:"
-msgstr ""
+msgstr "Kliknutí na barevné pole cykluje režimy zobrazení hladiny: "
 
 #: ../../layers.rst:15
 msgid ""
 "Solid color: Layer is drawn with outlines and fill, overlapping filled "
 "objects on the same layer will appear brighter."
 msgstr ""
+"Plná barva: Hladina je nakreslena obrysy a výplní, překrývající se výplně "
+"objektů ve stejné hladině se zobrazí jasněji. "
 
 #: ../../layers.rst:16
 msgid ""
 "Solid color with black border: Layer is drawn just filled, overlapping "
 "objects look the same as non-overlapping ones."
 msgstr ""
+"Plná barva s černým rámečkem: Hladina je nakreslena vyplněná, překrývající se "
+"objekty vypadají stejně jako nepřekrývající se objekty."
 
 #: ../../layers.rst:17
 msgid "Black with colored border: Layer is drawn just with outlines."
-msgstr ""
+msgstr "Černá s barevným rámečkem: Hladina je nakreslena pouze jako obrysy."
 
 #: ../../layers.rst:18
 msgid "Striped: Same as first, but areas are striped rather than filled."
-msgstr ""
+msgstr "Pruhované: Stejné jako první, ale oblasti jsou spíše pruhované než vyplněné. "

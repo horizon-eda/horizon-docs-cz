@@ -20,11 +20,11 @@ msgstr ""
 
 #: ../../move.rst:2
 msgid "Moving and the interactive manipulator"
-msgstr ""
+msgstr "Posouvání a manipulační značky"
 
 #: ../../move.rst:5
 msgid "Move with Mouse"
-msgstr ""
+msgstr "Posouvání myší"
 
 #: ../../move.rst:7
 msgid ""
@@ -33,6 +33,10 @@ msgid ""
 "its origin (or pivot) point right at the spot where the interactive "
 "manipulator was, when you started the move tool."
 msgstr ""
+"Součástky a spoje můžete přesouvat jejich výběrem a stiskem klávesy :kbd:`m`, současným stiskem klávesy "
+":kbd:`Alt` pro pohyb po jemné mřížce. Pohyb vybraného objektu má "
+"jeho počáteční (nebo otočný) bod přímo v místě, kde "
+"je manipulační značka, když jste spustili příkaz pro přesun. "
 
 #: ../../move.rst:9
 msgid ""
@@ -40,10 +44,13 @@ msgid ""
 "that have been placed on a finer grid without snapping them back to the "
 "coarse grid."
 msgstr ""
+"To lze s výhodou využít, protože nám to umožňuje pohybovat objekty."
+"které byly umístěny na jemnější mřížce, aniž by se přichytily zpět k"
+"hrubé mřížce."
 
 #: ../../move.rst:13
 msgid "Move with Keyboard"
-msgstr ""
+msgstr "Posouvání klávesnicí"
 
 #: ../../move.rst:15
 msgid ""
@@ -54,10 +61,16 @@ msgid ""
 "`Esc` and finish it by pressing :kbd:`Enter` or clicking onto a empty "
 "spot."
 msgstr ""
+"Pomocí kláves se šipkami :kbd:`←/↑/↓/→` můžete vybraný objekt přesunout "
+"o jeden krok mřížky požadovaným směrem. Pokud současně stisknete :kbd:`Alt` "
+"přesunete díl po jemné mřížce (1/10 původní "
+"mřížky). Protože je to také příkaz, můžete jej zrušit stisknutím :kbd:`Esc` "
+"a dokončit jej stisknutím :kbd:`Enter` nebo kliknutím na prázdný "
+"bod. "
 
 #: ../../move.rst:18
 msgid "Move Exactly"
-msgstr ""
+msgstr "Přesné posunování"
 
 #: ../../move.rst:20
 msgid ""
@@ -65,20 +78,25 @@ msgid ""
 "by an exact number of units (e.g. 1 mm) into the desired direction. You "
 "can start the tool by pressing :kbd:`M`"
 msgstr ""
+"Příkaz \"Move exactly\" umožňuje zadat přesný rozměr pro přesun objektu "
+"(např. 1 mm) požadovaným směrem. "
+"Příkaz můžete spustit stisknutím :kbd:`M` "
 
 #: ../../move.rst:24
 msgid "Flip"
-msgstr ""
+msgstr "Převracení stran"
 
 #: ../../move.rst:26
 msgid ""
 "You can flip symbols or parts by pressing :kbd:`e`. If you use this on "
 "the board editor, it is the same as flipping the part onto the other side"
 msgstr ""
+"Symboly nebo součástky můžete převrátit stisknutím klávesy :kbd:`e`. Použijete-li to v "
+"editoru desky, je to stejné jako převrácení součástky na druhou stranu desky (spodní/horní)"
 
 #: ../../move.rst:29
 msgid "Rotate"
-msgstr ""
+msgstr "Otáčení"
 
 #: ../../move.rst:31
 msgid ""
@@ -88,3 +106,8 @@ msgid ""
 "is always the location of the interactive manipulator, so make sure it is "
 "at the right spot"
 msgstr ""
+"Objekty můžete otáčet o 90 °, pokud stisknete :kbd:`r` nebo vyberete příkaz \"rotate\" "
+"Pokud chcete objekt otočit o jinou hodnotu (např. 30 ° nebo "
+"45 °) použijte příkaz \"Rotate arbitrary\" . Otočný bod rotace "
+"je vždy umístění manipulační značky, takže se ujistěte, že je "
+"na správném místě "
