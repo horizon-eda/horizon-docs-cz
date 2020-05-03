@@ -27,7 +27,7 @@ msgid ""
 "A final Part is composed of multiple elements, that are stored "
 "independently from each other in the Pool."
 msgstr ""
-"Výsledná součástka se skládá z více prvků, které jsou uloženy."
+"Výsledná součástka se skládá z více prvků, které jsou uloženy. "
 "nezávisle na sobě ve fondu."
 
 #: ../../pool-elements.rst:7
@@ -54,6 +54,10 @@ msgid ""
 "the pads in the Package (e.g. in the case of the NAND it would map Input "
 "A to the corresponding Pin on a DIP 14 package)."
 msgstr ""
+"Kromě dat je tato součástka spojena jak s entitou, tak s "
+"pouzdrem. Součástka uchovává, jaké vývody každé brány na mapě entity mají "
+"pájecí místa v pouzdře (např. v případě NAND by mapovaly vstup "
+"A na odpovídající vývod na pouzdře DIP 14). "
 
 #: ../../pool-elements.rst:20
 msgid "Packages"

@@ -89,7 +89,7 @@ msgid ""
 "The most commonly used are obviously pad width and height. Use the "
 "checkmark button next to a parameter to apply it to all selected pads."
 msgstr ""
-"Každý pájecí obrazec je definován několika pájecími místy (padstack) uspořádanými do různéh tvarů a parametry aplikovanými na na tento tvar. Podrobnosti o pájecích místech viz. "
+"Každý pájecí obrazec je definován několika pájecími místy (padstack) uspořádanými do různých tvarů a parametry aplikovanými na na tento tvar. Podrobnosti o pájecích místech viz. "
 ":ref:`Pájecí místa / plošky (Padstacks)<Padstacks>`. Tyto pájecí obrazce jsou pravděpodobně nejdůležitější vlastností pouzdra součástky, je vhodné s nimi začít. Pájecí místa můžete umístit ručně pomocí příkazu „Place pad“ nebo je nechejte umístit automaticky podle běžně používaných vzorů pomocí příkazu „Footprint gen.“, který je k dispozici na horním panelu. Po umístění pájecích míst mají stále svou výchozí velikost, která patrně není ta, co potřebujete. Chcete-li velikost změnit, vyberte parametry, které chcete upravit a pomocí nástroje „Edit pad“ přidejte parametry do pájecího místa. V závislosti na vybraném tvaru pájecího místa jsou přiřazeny určité parametry. Nejčastěji se používají šířka a výška pájecího místa. Použijte tlačítko zaškrtnutí vedle parametru pro parametry, které se mají použít na všechny vybrané podložky."
 
 #: ../../create-package.rst:41

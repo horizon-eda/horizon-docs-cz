@@ -77,7 +77,7 @@ msgstr ""
 "kliknete kamkoli, začnete prvním bodem čáry přímo na "
 "místě, kde byl váš kursor. Možná si všimnete, že se bod zachytil "
 "do rastru mřížky. Pokud chcete jemnější mřížku, podržte klávesu :kbd:`Alt`, během "
-"umísťování bodů. Levým tlačítkem myši umisťujete další body, zatímco "
+"umísťování bodů. Levým tlačítkem myši umísťujete další body, zatímco "
 "pravé tlačítko myši (nebo stisknutí klávesy :kbd:`Esc`) dokončí čáru. "
 
 #: ../../drawing.rst:24
@@ -97,7 +97,7 @@ msgid ""
 msgstr ""
 "V panelu příkazů se zobrazí další klávesy, které můžete stisknout pro změnu "
 "chování příkazu. V tomto případě můžete stisknout klávesu :kbd:`w` pro změnu "
-"šířky spoje nebo klávesu :kbd:`/` pro omezení pohybu"
+"šířky spoje nebo klávesu :kbd:`/` pro omezení pohybu "
 "kursoru jedním směrem."
 
 #: ../../drawing.rst:32
@@ -138,7 +138,7 @@ msgstr ""
 
 #: ../../drawing.rst:47
 msgid "Draw Polygon"
-msgstr "Kreslení mnohoůhelníku (polygonu)"
+msgstr "Kreslení mnohoúhelníku (polygonu)"
 
 #: ../../drawing.rst:51
 msgid ""
@@ -151,9 +151,9 @@ msgid ""
 msgstr ""
 "Při kreslení polygonů pomocí :kbd:`d y` můžete přidávat několik bodů "
 "klikáním, dokud nestisknete klávesu :kbd:`Esc` nebo použijete pravé tlačítko myši "
-"Součástí polygonu může být také oblouk. Stisknutím klávesy :kbd:`a`"
-"Stejně jako u nástroje \"Draw Arc\" nastavte nejprve koncový bod a "
-"potom středový bod. Před nastavením středového bodu můžete oblouku převrátit"
+"Součástí polygonu může být také oblouk. Stisknutím klávesy :kbd:`a` "
+"Stejně jako u příkazu \"Draw Arc\" nastavte nejprve koncový bod a "
+"potom středový bod. Před nastavením středového bodu můžete oblouku převrátit "
 "směr pomocí klávesy :kbd:`e` a nakonec kliknete na koncový bod oblouku. "
 
 #: ../../drawing.rst:54

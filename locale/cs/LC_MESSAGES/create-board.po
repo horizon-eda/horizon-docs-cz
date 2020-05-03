@@ -122,7 +122,7 @@ msgid ""
 "of the layer:"
 msgstr ""
 "Pokud vás obtěžuje plná barva spoje, můžete přepnout "
-"na jiný styl zobrazení kliknutím na barevný čtvereček na levo "
+"na jiný styl zobrazení kliknutím na barevný čtvereček nalevo "
 "od hladiny:"
 
 #: ../../create-board.rst:43

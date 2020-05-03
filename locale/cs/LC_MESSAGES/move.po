@@ -44,8 +44,8 @@ msgid ""
 "that have been placed on a finer grid without snapping them back to the "
 "coarse grid."
 msgstr ""
-"To lze s výhodou využít, protože nám to umožňuje pohybovat objekty."
-"které byly umístěny na jemnější mřížce, aniž by se přichytily zpět k"
+"To lze s výhodou využít, protože nám to umožňuje pohybovat objekty. "
+"které byly umístěny na jemnější mřížce, aniž by se přichytily zpět k "
 "hrubé mřížce."
 
 #: ../../move.rst:13

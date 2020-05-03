@@ -69,11 +69,11 @@ msgstr ""
 "Protože některé dokumenty, jako jsou symboly a schémata, obsahují ty samé "
 "typy objektu (např. texty), schémata a seznam spojů (netlist) musí být "
 "modifikované synchronizovaně, musí dojít k zapouzdření. Jádro je "
-"spojovací článek mezi dokumentem, pracovní plochou a nástroji."
+"spojovací článek mezi dokumentem, pracovní plochou a příkazy."
 
 #: ../../theory-of-operation.rst:30
 msgid "Tools"
-msgstr "Nástroje (Tools)"
+msgstr "Příkazy (Tools)"
 
 #: ../../theory-of-operation.rst:32
 msgid ""
@@ -82,9 +82,9 @@ msgid ""
 "by means of the core. When needed, a tool may bring up additional dialogs "
 "for requesting information from the user."
 msgstr ""
-"Pro každou akci, kterou může uživatel udělat, existuje nástroj. Vyvoláný nástroj začne "
+"Pro každou akci, kterou může uživatel udělat, existuje příkaz. Vyvolaný příkaz začne "
 "přijímat vstupy z klávesnice a myši a podle funkce upravuje dokument "
-"pomocí jádra. V případě potřeby může nástroj vyvolat další "
+"pomocí jádra. V případě potřeby může příkaz vyvolat další "
 "dialogy pro vyžádání dodatečných informací od uživatele."
 
 #: ../../theory-of-operation.rst:38

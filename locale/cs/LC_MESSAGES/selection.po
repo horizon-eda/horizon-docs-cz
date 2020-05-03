@@ -54,7 +54,7 @@ msgid ""
 "pressed while you click on things – this also works to deselect things "
 "you accidentally selected while dragging a selection box."
 msgstr ""
-"Pokud chcete vybrat více objektů během klikání držte stiskutou klávesu :kbd:`Ctrl`. "
+"Pokud chcete vybrat více objektů během klikání držte stisknutou klávesu :kbd:`Ctrl`. "
 "Funguje to také pro zrušení výběru objektů, "
 "které jste omylem vybrali při přetahování výběrového pole."
 
@@ -84,8 +84,8 @@ msgid ""
 "select certain classes of objects. This is what the selection filter is "
 "for. You can open it up via the spacebar menu or by pressing :kbd:`Ctrl+i`"
 msgstr ""
-"Pokud musíte vybrat více objektů, někdy může být užitečné jen"
-"vybrat určité třídy objektů. Tomu se říká filtr výběru."
+"Pokud musíte vybrat více objektů, někdy může být užitečné jen "
+"vybrat určité třídy objektů. Tomu se říká filtr výběru. "
 "Můžete jej otevřít pomocí nabídky mezerníku nebo stisknutím klávesy :kbd:`Ctrl + i` "
 
 #: ../../selection.rst:32
@@ -93,7 +93,7 @@ msgid ""
 "Double click on an item to select only that item. Click on the check mark "
 "button on the top left to select all items."
 msgstr ""
-"Kliknutím na políčko položky vyberete pouze tuto položku. Klikněte na zaškrtávací políčko"
+"Kliknutím na políčko položky vyberete pouze tuto položku. Klikněte na zaškrtávací políčko "
 "vlevo nahoře vyberte všechny položky."
 
 #: ../../selection.rst:37

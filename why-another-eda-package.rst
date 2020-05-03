@@ -1,6 +1,3 @@
-.. |~| unicode:: U+00A0
-       :trim:
-
 Why another EDA package
 =======================
 
@@ -10,7 +7,7 @@ that KiCad was a thing at that time.
 Let's get started with a quote from Tom Hausherr: `PCB Design Perfection Starts in the CAD Library
 <https://www.innofour.com/3783/news/literature/pcb-design-perfection-starts-in-the-cad-library/pcb-design-perfection-starts-in-the-cad-library-part-1>`_
 
-
+    [...] PCB design perfection starts in the CAD library.
 
 This also applies to EDA software as in a schematic / PCB design tool 
 can only be as good its library structure. Since the definition of 

@@ -27,7 +27,7 @@ msgstr ""
 msgid ""
 "To limit the project's focus, some things are explicitly out of scope."
 msgstr ""
-"Abychom zůžili zaměření projektu, některé věci zde záměrně nejsou."
+"Abychom zúžili zaměření projektu, některé věci zde záměrně nejsou."
 
 #: ../../non-goals.rst:7
 msgid "Autorouter"

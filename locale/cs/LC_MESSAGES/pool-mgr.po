@@ -89,6 +89,11 @@ msgid ""
 "location, the Part Editor opens and you can edit the part and map the "
 "Entity pins to the Package pads."
 msgstr ""
+"Máte-li vhodnou entitu a pouzdro, můžete pokračovat a vytvořit "
+"součástku. Na kartě \"Parts\" klikněte na \"Create Part\" a vytvořte novou "
+"součástku. Poté, co zadáte entitu i pouzdro a umístění součástky, "
+"otevře se Editor součástek a můžete součástku upravit a namapovat "
+"vývody Entity do pájecí obrazec pouzdra. "
 
 #: ../../pool-mgr.rst:31
 msgid "Create all-new part"
@@ -136,7 +141,6 @@ msgstr ""
 "jeden vývod."
 
 #: ../../pool-mgr.rst:51
-#, fuzzy
 msgid ""
 "For really large parts with 100+ pins, putting them all in manually can "
 "become too tedious. To get around is, the part wizard can import pin "
@@ -150,15 +154,15 @@ msgstr ""
 
 #: ../../pool-mgr.rst:55
 msgid "A CSV file for pin import can look like this:"
-msgstr ""
+msgstr "Soubor CSV pro import vývodů může vypadat takto: "
 
 #: ../../pool-mgr.rst:65
 msgid "The full CSV format is ``pad,pin,direction,gate,alt1,alt2,..``."
-msgstr ""
+msgstr "Celý formát CSV je ``pad,pin,direction,gate,alt1,alt2,..``."
 
 #: ../../pool-mgr.rst:67
 msgid "Defining the same pins in json format can be done with:"
-msgstr ""
+msgstr "Definování stejných vývodů ve formátu json lze provést pomocí:"
 
 #: ../../pool-mgr.rst:79
 msgid ""
@@ -166,6 +170,9 @@ msgid ""
 "their pads merged. Additional valid values for ``direction`` are "
 "``open_collector``, ``passive`` and ``not_connected``."
 msgstr ""
+"Pro CSV i json položky se stejným ``pin``-``gate``  "
+"budou sloučeny. Další platné hodnoty pro ``direction`` jsou "
+"``open_collector``, ``passive`` a ``not_connected``."
 
 #: ../../pool-mgr.rst:83
 msgid "Reasonable sources for pin/pad name data are:"
@@ -253,7 +260,7 @@ msgid ""
 "must be placed in the package's padstack directory."
 msgstr ""
 "Musí být ve správné  složce nejvyšší úrovně, tj. pro každou schematickou "
-"značkumusí být někde ve složce /symbols atd. Pájecí obrazec specifický "
+"značku musí být někde ve složce /symbols atd. Pájecí obrazec specifický "
 "pro a pouzdro musí být umístěno do složky /padstack."
 
 #: ../../pool-mgr.rst:120

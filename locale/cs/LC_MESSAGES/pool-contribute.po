@@ -64,13 +64,12 @@ msgid ""
 "date and merging your parts into the global pool"
 msgstr ""
 "Aby integrace GitHub fungovala, musí být fond stažen pomocí "
-"tlačítka \"Download...\" na úvodní stránce správce fondu. Správce fondu naklonuje veřejný fond do složkye ``.remote`` v systému vašeho místního fondu. Pokud vše půjde dobře, neměli byste nikdy zasahovat do této složky. K dispozici jsou dvě operace pro uchování vaší místní kopie "
-"aktuální a zahrnutí vašich součástek do veřejného fondu"
+"tlačítka \"Download...\" na úvodní stránce správce fondu. Správce fondu naklonuje veřejný fond do složky ``.remote`` v systému vašeho místního fondu. Pokud vše půjde dobře, neměli byste nikdy zasahovat do této složky. K dispozici jsou dvě operace pro správu vaší místní kopie "
+"aktualizace a zahrnutí vašich součástek do veřejného fondu"
 
 #: ../../pool-contribute.rst:25
 msgid "Upgrade pool"
-msgstr ""
-"Aktualizace fondu"
+msgstr "Aktualizace fondu"
 
 #: ../../pool-contribute.rst:27
 msgid ""
@@ -84,8 +83,7 @@ msgstr ""
 
 #: ../../pool-contribute.rst:32
 msgid "Create pull request"
-msgstr ""
-"Vytvoření žádosti o zahrnutí součástek do veřejného fondu"
+msgstr "Vytvoření žádosti o zahrnutí součástek do veřejného fondu"
 
 #: ../../pool-contribute.rst:34
 msgid ""

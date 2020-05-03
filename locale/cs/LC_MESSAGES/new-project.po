@@ -44,7 +44,7 @@ msgstr ""
 
 #: ../../new-project.rst:16
 msgid "Now, hit \"New...\" and then \"Project\" to create a new project."
-msgstr "Nyní vytvořte nový projekt klepnutím na \"New...\" a násleně na \"Project\". "
+msgstr "Nyní vytvořte nový projekt klepnutím na \"New...\" a následně na \"Project\". "
 
 #: ../../new-project.rst:18
 msgid ""

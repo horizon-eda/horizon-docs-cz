@@ -75,7 +75,7 @@ msgid ""
 "specifying track width and gap. To route a diffpair, use the “Route diff. "
 "pair” tool."
 msgstr ""
-"Jedná se o speciální útvar trasy signálového páru se stanovenými parametry vzájemných elektrických vlastností. Chcete-li vytvořit diferenciální pár, podívejte se na :ref:`Diferenciální páry<Schematic Diffpairs>`. Před trasováním diferneciálního páru, vytvořte pravidlo určující šířku stopy a mezeru tohoto páru. Chcete-li vést trasu, použijte nástroj „Route diff“."
+"Jedná se o speciální útvar trasy signálového páru se stanovenými parametry vzájemných elektrických vlastností. Chcete-li vytvořit diferenciální pár, podívejte se na :ref:`Diferenciální páry<Schematic Diffpairs>`. Před trasováním diferenciálního páru, vytvořte pravidlo určující šířku stopy a mezeru tohoto páru. Chcete-li vést trasu, použijte nástroj „Route diff“."
 
 #: ../../imp-board.rst:31
 msgid "Screenshot"

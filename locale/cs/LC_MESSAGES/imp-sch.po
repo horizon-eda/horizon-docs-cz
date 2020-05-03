@@ -44,7 +44,7 @@ msgid ""
 msgstr ""
 "Chcete-li umístit součástky na desku, otevřete prohlížeč součástí buď zadáním :kbd:`p p` (place "
 "part) nebo kliknutím na odpovídající ikonu v hlavním okně projektu. Pokud "
-"byla součáska již umístěna, může být nahrazena součástkou stejné entity "
+"byla součástka již umístěna, může být nahrazena součástkou stejné entity "
 "výběrem a použitím tlačítka \"Assign part\" v okně prohlížeče součástek. "
 
 
@@ -81,7 +81,7 @@ msgid ""
 "schematic that could result in unexpected connectivity, the schematic "
 "editor places warnings on the offending items."
 msgstr ""
-"Štítek spoje (Net label) pouze zobrazuje název spoje, ke kterému je připojen, ale nemění ho. Upozorňuje vás na nekonzistenci v systému schématu, které by mohlo mít za následek nežádoucí propojení, editor schématu umístí varování na porušené položky."
+"Štítek spoje (Net label) pouze zobrazuje název spoje, ke kterému je připojen, ale nemění ho. Upozorňuje vás na ne konzistenci v systému schématu, které by mohlo mít za následek nežádoucí propojení, editor schématu umístí varování na porušené položky."
 
 #: ../../imp-sch.rst:35
 msgid "Power symbols"
