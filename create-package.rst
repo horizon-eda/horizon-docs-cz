@@ -1,5 +1,4 @@
-.. |~| unicode:: 0xA0 
-   :trim:
+.. include:: commons.inc
 
 Creating a Package
 ===================
