@@ -44,7 +44,7 @@ msgid ""
 "com/horizon-eda/horizon/releases>`_."
 msgstr ""
 "Stáhněte a spusťte instalační program MSI z `GitHub release <https://github."
-"com/horizon-eda/horizont/release>`_."
+"com/horizon-eda/horizon/releases>`_."
 
 #: ../../installation.rst:17 ../../installation.rst:46
 msgid "Linux"
