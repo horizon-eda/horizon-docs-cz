@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../pool-contribute.rst:2
 msgid "Contribute to the Pool"
-msgstr ""
+msgstr "Přispívejte do fondu"
 
 #: ../../pool-contribute.rst:4
 msgid ""
